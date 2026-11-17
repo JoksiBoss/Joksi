@@ -105,3 +105,13 @@ creators:
     sponsored: false
     enabled: false
     hashtags: ["#DjMaRiiO", "#GTA6", "#GTAVI"]
+
+  - id: luality
+    name: Luality
+    short: Luality
+    platform: twitch
+    channel: luality
+    permission: "Direct permission from Luality"
+    sponsored: false
+    enabled: false           # run by name from Actions; set true to check every 30 min
+    hashtags: ["#Luality", "#GTA5", "#GTAV"]
