@@ -10,3 +10,4 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 55 | DjMaRiiO | Mario: "And one that has tried the game" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/djmariio-20261118/20261118-0203_s055_djmariio_p01.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/djmariio-20261118/20261118-0203_s055_djmariio_p01.txt) |
+| 🔥 **POST THESE** | 51 | DjMaRiiO | Mario: "Or you are burning without antiball guns" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/djmariio-20261118/20261118-0205_s051_djmariio_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/djmariio-20261118/20261118-0205_s051_djmariio_p02.txt) |
