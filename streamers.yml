@@ -14,7 +14,7 @@ creators:
     channel: kaicenat
     permission: "Content Rewards"
     sponsored: false
-    enabled: true
+    enabled: false
     hashtags: ["#KaiCenat"]
 
   - id: ishowspeed
@@ -25,7 +25,7 @@ creators:
     permission: "check-campaign"      # Reach / Expedia campaign only — confirm you are accepted before posting
     program: "Reach (Expedia campaign)"
     sponsored: true
-    enabled: true
+    enabled: false
     hashtags: ["#IShowSpeed", "#Speed"]
 
   - id: lacy
@@ -35,7 +35,7 @@ creators:
     channel: lacy
     permission: "Reach"
     sponsored: false
-    enabled: true
+    enabled: false
     hashtags: ["#Lacy"]
 
   - id: marlon
@@ -45,7 +45,7 @@ creators:
     channel: marlon
     permission: "CORE"
     sponsored: false
-    enabled: true
+    enabled: false
     hashtags: ["#Marlon"]
 
   - id: jasontheween
@@ -55,7 +55,7 @@ creators:
     channel: jasontheween
     permission: "Clipping program"
     sponsored: false
-    enabled: true
+    enabled: false
     hashtags: ["#JasonTheWeen"]
 
   - id: silky
@@ -65,7 +65,7 @@ creators:
     channel: silky
     permission: "CORE"
     sponsored: false
-    enabled: true
+    enabled: false
     hashtags: ["#Silky"]
 
   # No clipping permission known — disabled. Only enable if you get permission.
@@ -95,3 +95,13 @@ creators:
     permission: "none"
     enabled: false
     hashtags: ["#StableRonaldo"]
+
+  - id: djmariio
+    name: DjMaRiiO
+    short: Mario
+    platform: twitch
+    channel: djmariio
+    permission: "Direct permission from DjMaRiiO"
+    sponsored: false
+    enabled: true
+    hashtags: ["#DjMaRiiO", "#GTA6", "#GTAVI"]
