@@ -34,8 +34,9 @@ permissions:
   contents: write
 
 env:
-  TZ: Asia/Kolkata
-  CLIP_TZ: Asia/Kolkata
+  TZ: Europe/Skopje
+  CLIP_TZ: Europe/Skopje
+  WHISPER_LANG: auto        # auto-detect the streamer's language (Spanish, English, ...)
   WHISPER_MODEL: base
   SEGMENT_SECONDS: "600"     # rolling 10-minute recording segments
   CLIPS_PER_SEGMENT: "2"     # up to 2 per 10 min => ~6-12 candidates per hour per creator

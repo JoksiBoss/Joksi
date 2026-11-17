@@ -104,7 +104,7 @@ def _clip_rows(release):
 
 def _hour_label(h):
     d, hh = h.split("-")
-    return f"{d[6:8]}/{d[4:6]}/{d[:4]} {hh}:00–{(int(hh) + 1) % 24:02d}:00 IST"
+    return f"{d[6:8]}/{d[4:6]}/{d[:4]} {hh}:00–{(int(hh) + 1) % 24:02d}:00 CET"
 
 
 def _table(rows):
@@ -145,7 +145,7 @@ def refresh_index(max_releases=40, hours=72):
     rows.sort(key=lambda x: x["time"], reverse=True)
     keep_hours = sorted({x["hour"] for x in rows}, reverse=True)[:hours]
     rows = [x for x in rows if x["hour"] in keep_hours]
-    md = (f"# GTA 6 clips — newest first\n\n_Updated {now_local():%d %b %Y %H:%M} IST · "
+    md = (f"# GTA 6 clips — newest first\n\n_Updated {now_local():%d %b %Y %H:%M} CET · "
           f"[All releases](https://github.com/{repo()}/releases)_\n\n" + HEADER + _table(rows) + "\n")
     path = "clips/index.md"
     for attempt in range(6):

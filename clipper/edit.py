@@ -32,7 +32,8 @@ def transcribe(src, start, dur, workdir, words=True):
     import numpy as np
     with wave.open(str(wav)) as wf:
         audio = np.frombuffer(wf.readframes(wf.getnframes()), dtype=np.int16).astype(np.float32) / 32768.0
-    segs, _info = whisper().transcribe(audio, language=os.environ.get("WHISPER_LANG", "en"), word_timestamps=words,
+    lang = os.environ.get("WHISPER_LANG", "auto").strip().lower()
+    segs, _info = whisper().transcribe(audio, language=None if lang in ("", "auto") else lang, word_timestamps=words,
                                        vad_filter=True, beam_size=1, condition_on_previous_text=False)
     out = []
     for s in segs:

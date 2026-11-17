@@ -103,5 +103,5 @@ creators:
     channel: djmariio
     permission: "Direct permission from DjMaRiiO"
     sponsored: false
-    enabled: true
+    enabled: false
     hashtags: ["#DjMaRiiO", "#GTA6", "#GTAVI"]
