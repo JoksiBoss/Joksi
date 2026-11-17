@@ -126,8 +126,10 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         ctxt, csz = fit_text(_clean(context_card), 60, W - 180, 2, min_size=40)
         ev.append(f"Dialogue: 2,{_ts(2.0)},{_ts(min(5.0, dur))},Ctx,,0,0,0,,{{\\an2\\pos(540,{FG_Y - 165})\\fs{csz}\\fad(150,200)}}{ctxt}")
     # Storyline banner (persistent after the hook)
-    stxt, ssz = fit_text(_clean(storyline), 54, W - 160, 1, min_size=36)
-    ev.append(f"Dialogue: 1,{_ts(2.0)},{_ts(dur)},Story,,0,0,0,,{{\\pos(540,{FG_Y - 90})\\fs{ssz}\\fad(200,0)}}{stxt}")
+    # Off by default; set SHOW_STORYLINE=true in the workflow env to bring it back.
+    if os.environ.get("SHOW_STORYLINE", "false").strip().lower() in ("1", "true", "yes"):
+        stxt, ssz = fit_text(_clean(storyline), 54, W - 160, 1, min_size=36)
+        ev.append(f"Dialogue: 1,{_ts(2.0)},{_ts(dur)},Story,,0,0,0,,{{\\pos(540,{FG_Y - 90})\\fs{ssz}\\fad(200,0)}}{stxt}")
     # Credit
     ev.append(f"Dialogue: 1,{_ts(0)},{_ts(dur)},Credit,,0,0,0,,{{\\pos(540,{H - 230})\\alpha&H30&}}{_clean(credit)}")
     # Word-by-word captions in chunks of up to 3 words
