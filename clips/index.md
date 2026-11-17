@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 17 Nov 2026 22:23 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 17 Nov 2026 22:32 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -20,3 +20,4 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 76 | Luality | #GTA6 Launch Day Chaos – Luality’s Yellow Mystery | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/luality-20261117/20261117-2217_s076_luality_p01.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/luality-20261117/20261117-2217_s076_luality_p01.txt) |
 | 🔥 **POST THESE** | 68 | Luality | #GTA6 Luality battles a tricky crane on launch day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/luality-20261117/20261117-2218_s068_luality_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/luality-20261117/20261117-2218_s068_luality_p02.txt) |
+|  | 56 | Luality | #GTA6 Launch Day Madness: Luality's Controller Confusion | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/luality-20261117/20261117-2224_s056_luality_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/luality-20261117/20261117-2224_s056_luality_p03.txt) |
