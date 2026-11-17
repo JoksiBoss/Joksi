@@ -9,7 +9,8 @@ import subprocess
 import time
 from pathlib import Path
 
-from . import detect, live, publish, story
+from . import ai, detect, live, publish, story
+from .session import CONTEXT_S, Session
 from .common import (channel_url, env_bool, get_creator, handle, is_twitch_url, live_url, log, now_local,
                      platform_name, run, set_output, summary, ytdlp)
 
@@ -109,6 +110,13 @@ class Clipper:
         self.out = Path("out") / c["id"]
         self.out.mkdir(parents=True, exist_ok=True)
         self.max_per_seg = int(os.environ.get("CLIPS_PER_SEGMENT", "2"))
+        # one session log per job (= per stream session); start fresh each run
+        (self.out / "session.json").unlink(missing_ok=True)
+        self.session = Session(self.out / "session.json")
+        if ai.available():
+            log("[ai] context provider ON (AI for score>=%s or top %s/hour)" % (os.environ.get("AI_MIN_SCORE", "60"), os.environ.get("AI_TOP_PER_HOUR", "3")))
+        else:
+            log("[ai] no GROQ_API_KEY/GEMINI_API_KEY: template hooks only")
 
     def release(self):
         if self.rel is None and publish.enabled():
@@ -164,10 +172,15 @@ class Clipper:
         stamp = time.strftime("%Y%m%d-%H%M", clip_time)
         seed = f"{c['id']}{stamp}{peak}"
         st = story.build(c, segs, p_rel, self.part, seed)
+        st = self.add_context(edit, st, seg, seg_wall_start, start, end_rel, peak, score, segs, work)
         credit = f"Clip: {handle(c)} live on {platform_name(c)}"
         stem = f"{stamp}_s{score:03d}_{c['id']}_p{self.part:02d}"
         mp4 = self.out / f"{stem}.mp4"
-        edit.render(seg, start, end_rel, mp4, work, st["hook_card"], st["storyline"], credit, words, p_rel, speech)
+        edit.render(seg, start, end_rel, mp4, work, st["hook_card"], st["storyline"], credit, words, p_rel, speech,
+                    context_card=st.get("context_card", ""))
+        self.session.add_clip(seg_wall_start + peak, stem, score, st["summary"], st["storyline"] if st.get("ai_model") else "",
+                              ai=bool(st.get("ai_model")))
+        self.session.save()
         meta = self.metadata(st, score, stem, start, end_rel, peak, segs)
         (self.out / f"{stem}.json").write_text(json.dumps(meta, indent=2, ensure_ascii=False))
         (self.out / f"{stem}.txt").write_text(meta["paste"], encoding="utf-8")
@@ -183,11 +196,50 @@ class Clipper:
                 p.unlink(missing_ok=True)
         self.made.append(meta)
 
+    def add_context(self, edit, st, seg, seg_wall_start, start, end_rel, peak, score, segs, work):
+        """Rolling transcript + optional AI hook/context. Any failure -> template result unchanged."""
+        try:
+            clip_t0 = seg_wall_start + start
+            self.session.add_lines(segs, clip_t0)
+            if self.session.storyline:  # keep the session's AI arc label on template clips too
+                st = dict(st, storyline=self.session.storyline)
+            t_wall = seg_wall_start + peak
+            if not ai.available() or not self.session.ai_eligible(score, t_wall):
+                self.session.save()
+                return st
+            # transcribe the lead-in (up to CONTEXT_S before the clip) we don't already have from earlier clips
+            lead_from = seg_wall_start + max(0.0, start - CONTEXT_S)
+            have = [x["e"] for x in self.session.d["lines"] if lead_from <= x["e"] <= clip_t0 + 0.5]
+            g0 = max([lead_from] + have)
+            if clip_t0 - g0 >= 8:
+                t1 = time.time()
+                try:
+                    lead = edit.transcribe(seg, g0 - seg_wall_start, clip_t0 - g0, work, words=False)
+                    self.session.add_lines(lead, g0)
+                    log(f"[ai] lead-in {clip_t0 - g0:.0f}s transcribed in {time.time() - t1:.0f}s")
+                except Exception as e:
+                    log(f"[ai] lead-in transcription failed: {e!r}")
+            lead_text = self.session.lead_text(clip_t0 - CONTEXT_S, clip_t0)
+            clip_text = " ".join(s["text"] for s in segs)
+            res = ai.generate(self.c["short"], story.day_number(), clip_text, lead_text,
+                              self.session.summaries(), self.session.storyline)
+            self.session.ai_used(t_wall)
+            self.session.save()
+            return story.apply_ai(st, res) if res else st
+        except Exception as e:
+            log(f"[ai] context step failed, using templates: {e!r}")
+            return st
+
     def metadata(self, st, score, stem, start, dur, peak, segs):
         c = self.c
         perm = str(c.get("permission", "none"))
         program = c.get("program") or perm
-        lines = [st["title"], "", f"{c['name']} in GTA 6 — {st['chapter']} ({st['storyline']})",
+        lines = [st["title"], ""]
+        if st.get("context_card"):
+            lines.append(st["context_card"])
+        if st.get("ai_model") and st.get("summary") and st.get("summary") != st.get("context_card"):
+            lines.append(st["summary"])
+        lines += [f"{c['name']} in GTA 6 — {st['chapter']} ({st['storyline']})",
                  f"🎮 Clipped from {c['name']}'s live stream on {platform_name(c)}.",
                  f"👉 Watch {c['name']} live: {channel_url(c)}"]
         if perm.lower() not in ("none", "check-campaign"):
@@ -202,7 +254,8 @@ class Clipper:
         return {"id": stem, "creator": c["name"], "creator_id": c["id"], "platform": c["platform"],
                 "channel_url": channel_url(c), "permission": perm, "program": program, "sponsored": bool(c.get("sponsored")),
                 "score": score, "title": st["title"], "alt_title": st["alt_title"], "hook_card": st["hook_card"],
-                "storyline": st["storyline"], "theme": st["theme"], "description": desc, "hashtags": c["hashtags"],
+                "storyline": st["storyline"], "theme": st["theme"],
+                "context_card": st.get("context_card", ""), "summary": st.get("summary", ""), "ai_model": st.get("ai_model", ""), "description": desc, "hashtags": c["hashtags"],
                 "duration_s": round(dur, 1), "source_offset_s": round(start, 1), "spike_at_s": peak,
                 "source": self.test_url or live_url(c),
                 "transcript": " ".join(s["text"] for s in segs)[:2000], "paste": paste}

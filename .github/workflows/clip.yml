@@ -44,6 +44,12 @@ env:
   MUTE_MUSIC: ${{ inputs.mute_music == true || vars.MUTE_MUSIC == 'true' }}
   PYTHONUNBUFFERED: "1"
   YT_COOKIES: ${{ secrets.YT_COOKIES }}   # optional: cookies.txt for YouTube if it blocks the runner
+  # optional AI context provider (clipper/ai.py). No key = template hooks, pipeline unchanged.
+  GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+  GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+  GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+  AI_MIN_SCORE: "60"         # AI only for score >= 60 ...
+  AI_TOP_PER_HOUR: "3"       # ... or the top 3 so far this hour (per creator)
 
 jobs:
   setup:

@@ -82,4 +82,29 @@ def build(creator, segments, t_rel, part, seed):
         "title": yt_title[:100],
         "alt_title": f"{title_hook} {emoji}"[:100],
         "quote": quote,
+        "context_card": "",  # only filled by the AI context provider (clipper/ai.py)
+        "summary": template_summary(creator, chapter, quote, full),
+        "ai_model": "",
     }
+
+
+def template_summary(creator, chapter, quote, full):
+    if quote:
+        return f'{creator["short"]} – {chapter}: "{quote}"'[:140]
+    words = full.split()
+    return (f'{creator["short"]} – {chapter}: ' + " ".join(words[:14]) + ("…" if len(words) > 14 else ""))[:140]
+
+
+def apply_ai(st, res):
+    """Overlay an ai.generate() result onto the template result (template stays as alt title)."""
+    out = dict(st)
+    out.update({
+        "hook_card": res["hook"].upper(),
+        "title": res["title"],
+        "alt_title": st["title"] if st["title"] != res["title"] else st["alt_title"],
+        "context_card": res["context_card"],
+        "storyline": res["storyline"] or st["storyline"],
+        "summary": res["summary"] or st["summary"],
+        "ai_model": res.get("model", ""),
+    })
+    return out

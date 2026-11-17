@@ -24,7 +24,7 @@ def whisper():
     return _model
 
 
-def transcribe(src, start, dur, workdir):
+def transcribe(src, start, dur, workdir, words=True):
     wav = Path(workdir) / "a.wav"
     run(["ffmpeg", "-y", "-hide_banner", "-loglevel", "error", "-ss", f"{start:.2f}", "-t", f"{dur:.2f}", "-i", str(src),
          "-vn", "-ac", "1", "-ar", "16000", str(wav)])
@@ -32,7 +32,7 @@ def transcribe(src, start, dur, workdir):
     import numpy as np
     with wave.open(str(wav)) as wf:
         audio = np.frombuffer(wf.readframes(wf.getnframes()), dtype=np.int16).astype(np.float32) / 32768.0
-    segs, _info = whisper().transcribe(audio, language=os.environ.get("WHISPER_LANG", "en"), word_timestamps=True,
+    segs, _info = whisper().transcribe(audio, language=os.environ.get("WHISPER_LANG", "en"), word_timestamps=words,
                                        vad_filter=True, beam_size=1, condition_on_previous_text=False)
     out = []
     for s in segs:
@@ -54,7 +54,49 @@ def _clean(s):
     return re.sub(r"[{}\\]", "", s).replace("\n", " ").strip()
 
 
-def build_ass(path, hook, storyline, credit, words, dur):
+_font_cache = {}
+
+
+def text_width(text, size):
+    """Rendered width in px (PIL + the bundled font when available, else a conservative estimate)."""
+    try:
+        from PIL import ImageFont
+        fp = FONT_DIR / "Anton-Regular.ttf"
+        if FONT == "Anton" and fp.exists():
+            if size not in _font_cache:
+                _font_cache[size] = ImageFont.truetype(str(fp), size)
+            return _font_cache[size].getlength(text) * 1.04
+    except Exception:
+        pass
+    return len(text) * size * 0.56
+
+
+def fit_text(text, size, max_w, max_lines, min_size=34):
+    """Break text into <= max_lines balanced lines at word boundaries, shrinking the font until it fits.
+    Returns (ass_text_with_\\N, font_size)."""
+    words = text.split()
+    if not words:
+        return "", size
+    for sz in range(size, min_size - 1, -2):
+        if text_width(text, sz) <= max_w:
+            return text, sz
+        if max_lines >= 2 and len(words) > 1:
+            best = None
+            for i in range(1, len(words)):
+                a, b = " ".join(words[:i]), " ".join(words[i:])
+                w = max(text_width(a, sz), text_width(b, sz))
+                if w <= max_w and (best is None or w < best[0]):
+                    best = (w, a + "\\N" + b)
+            if best:
+                return best[1], sz
+    # still too long at min size: hard-trim the second line
+    out = text
+    while len(out) > 4 and text_width(out, min_size) > max_w * max_lines * 0.95:
+        out = out[:-2]
+    return out.rstrip() + ("…" if out != text else ""), min_size
+
+
+def build_ass(path, hook, storyline, credit, words, dur, context_card=""):
     hdr = f"""[Script Info]
 ScriptType: v4.00+
 PlayResX: {W}
@@ -67,6 +109,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Hook,{FONT},128,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,1,0,1,10,5,5,60,60,0,1
 Style: Story,{FONT},54,&H00FFFFFF,&H00FFFFFF,&H40000000,&H40000000,1,0,0,0,100,100,1,0,3,16,0,5,60,60,0,1
 Style: Cap,{FONT},92,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,1,0,1,8,3,5,60,60,0,1
+Style: Ctx,{FONT},60,&H00FFFFFF,&H00FFFFFF,&H28000000,&H28000000,0,0,0,0,100,100,1,0,3,18,0,2,60,60,0,1
 Style: Credit,{FONT},40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,1,0,1,4,1,5,40,40,0,1
 
 [Events]
@@ -74,9 +117,16 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
     ev = []
     # Hook title card: first 2 s, pops in, yellow, over a dark band
-    ev.append(f"Dialogue: 2,{_ts(0)},{_ts(2.0)},Hook,,0,0,0,,{{\\pos(540,{FG_Y - 210})\\c&H00F0FF&\\fscx60\\fscy60\\t(0,160,\\fscx100\\fscy100)}}{_clean(hook)}")
+    htxt, hsz = fit_text(_clean(hook), 128, W - 120, 2, min_size=80)
+    ev.append(f"Dialogue: 2,{_ts(0)},{_ts(2.0)},Hook,,0,0,0,,{{\\pos(540,{FG_Y - 210})\\fs{hsz}\\c&H00F0FF&\\fscx60\\fscy60\\t(0,160,\\fscx100\\fscy100)}}{htxt}")
+    # Context card (AI): plain setup of what is happening, ~2-5 s, max two lines on a dark band,
+    # bottom-anchored above the storyline banner so it never collides with it
+    if context_card and dur > 3.0:
+        ctxt, csz = fit_text(_clean(context_card), 60, W - 180, 2, min_size=40)
+        ev.append(f"Dialogue: 2,{_ts(2.0)},{_ts(min(5.0, dur))},Ctx,,0,0,0,,{{\\an2\\pos(540,{FG_Y - 165})\\fs{csz}\\fad(150,200)}}{ctxt}")
     # Storyline banner (persistent after the hook)
-    ev.append(f"Dialogue: 1,{_ts(2.0)},{_ts(dur)},Story,,0,0,0,,{{\\pos(540,{FG_Y - 90})\\fad(200,0)}}{_clean(storyline)}")
+    stxt, ssz = fit_text(_clean(storyline), 54, W - 160, 1, min_size=36)
+    ev.append(f"Dialogue: 1,{_ts(2.0)},{_ts(dur)},Story,,0,0,0,,{{\\pos(540,{FG_Y - 90})\\fs{ssz}\\fad(200,0)}}{stxt}")
     # Credit
     ev.append(f"Dialogue: 1,{_ts(0)},{_ts(dur)},Credit,,0,0,0,,{{\\pos(540,{H - 230})\\alpha&H30&}}{_clean(credit)}")
     # Word-by-word captions in chunks of up to 3 words
@@ -110,10 +160,10 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     Path(path).write_text(hdr + "\n".join(ev) + "\n", encoding="utf-8")
 
 
-def render(src, start, dur, out_mp4, workdir, hook, storyline, credit, words, zoom_at, speech=None):
+def render(src, start, dur, out_mp4, workdir, hook, storyline, credit, words, zoom_at, speech=None, context_card=""):
     workdir = Path(workdir)
     ass = workdir / "c.ass"
-    build_ass(ass, hook, storyline, credit, words, dur)
+    build_ass(ass, hook, storyline, credit, words, dur, context_card)
     z0, z1 = max(0.0, zoom_at - 0.25), min(dur, zoom_at + 2.4)
     z2 = min(dur - 0.5, z1 + 6.0)  # second, smaller punch-in a few seconds later
     fontsdir = FONT_DIR if FONT_DIR.exists() else workdir

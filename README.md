@@ -64,3 +64,15 @@ Optional settings (Settings → Secrets and variables → Actions → **Variable
 | Releases + index | `clipper/publish.py` |
 
 Limits: each GitHub runner lasts at most 6 h, so a long stream is recorded in ~5 h 20 min chunks (the next scheduled run picks up the rest). Clips come out about 10–15 min after the moment happens. YouTube sometimes blocks downloads from GitHub's servers ("confirm you're not a bot"); Twitch is reliable. Public repo = free, unlimited Actions minutes.
+
+## Optional: AI context provider (clipper/ai.py)
+Adds a real context card (2–5 s), an original hook, title, and an ongoing storyline banner from the
+transcript of the clip plus the ~5 minutes before it and earlier clips' summaries (session log:
+`out/<creator>/session.json`). Only used for clips likely to be posted (score ≥ 60 or top 3 so far
+this hour per creator); everything else, and any error / 429 / 10 s timeout, falls back to the templates.
+
+Repo **Settings → Secrets and variables → Actions → New repository secret**:
+- `GROQ_API_KEY` – free key from console.groq.com (models rotate gpt-oss-120b → gpt-oss-20b → qwen3.8-27b)
+- `GEMINI_API_KEY` – optional second provider (aistudio.google.com); model via repo variable `GEMINI_MODEL`
+
+No key = templates only; the pipeline never breaks. Tests: `python tests/test_ai.py`.
