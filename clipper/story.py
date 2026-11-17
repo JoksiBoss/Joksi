@@ -35,6 +35,10 @@ def theme_for(text):
     return best
 
 
+DANGLING = {"and", "she", "he", "the", "a", "an", "to", "of", "i", "you", "if", "but", "so", "or", "my", "your",
+            "they", "we", "it's", "is", "that", "with", "for", "in", "on", "at", "was", "are", "gonna", "just"}
+
+
 def quote_near(segments, t_rel):
     """A short, complete sentence said right around the spike (or '' if none fits)."""
     cands = []
@@ -44,7 +48,7 @@ def quote_near(segments, t_rel):
             continue
         for sent in re.split(r"(?<=[.!?])\s+", sg["text"].strip()):
             words = re.sub(r"[^\w' ?!]", "", sent).split()
-            if 2 <= len(words) <= 8:
+            if 3 <= len(words) <= 8 and words[-1].lower().strip("?!") not in DANGLING:
                 bonus = 2 if sent.rstrip().endswith(("!", "?")) else 0
                 cands.append((d - bonus - 0.1 * len(words), " ".join(words)))
     if not cands:
