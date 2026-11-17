@@ -77,7 +77,7 @@ def pick_peaks(curve, max_n=2, min_gap=45, min_score2=40, edge_lead=8):
             continue
         if any(abs(t - p) < min_gap for p, _ in picks):
             continue
-        sc = int(round(min(99, 100 * curve[t] / 2.6)))
+        sc = int(round(min(99, 100 * curve[t] / 3.0)))
         if picks and sc < min_score2:
             break
         picks.append((t, sc))

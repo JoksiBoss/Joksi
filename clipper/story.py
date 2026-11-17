@@ -36,18 +36,20 @@ def theme_for(text):
 
 
 def quote_near(segments, t_rel):
-    """Short punchy quote from the transcript segment closest to the spike."""
-    best = None
-    for s in segments:
-        d = 0 if s["start"] <= t_rel <= s["end"] else min(abs(s["start"] - t_rel), abs(s["end"] - t_rel))
-        if best is None or d < best[0]:
-            best = (d, s["text"])
-    if not best or best[0] > 4:
+    """A short, complete sentence said right around the spike (or '' if none fits)."""
+    cands = []
+    for sg in segments:
+        d = 0 if sg["start"] <= t_rel + 1 and sg["end"] >= t_rel - 3 else min(abs(sg["start"] - t_rel), abs(sg["end"] - t_rel))
+        if d > 5:
+            continue
+        for sent in re.split(r"(?<=[.!?])\s+", sg["text"].strip()):
+            words = re.sub(r"[^\w' ?!]", "", sent).split()
+            if 2 <= len(words) <= 8:
+                bonus = 2 if sent.rstrip().endswith(("!", "?")) else 0
+                cands.append((d - bonus - 0.1 * len(words), " ".join(words)))
+    if not cands:
         return ""
-    words = re.sub(r"[^\w' ?!]", "", best[1]).split()
-    if len(words) < 2:
-        return ""
-    return " ".join(words[:7])
+    return sorted(cands)[0][1]
 
 
 def day_number():
@@ -64,7 +66,7 @@ def build(creator, segments, t_rel, part, seed):
     quote = quote_near(segments, t_rel)
     title_hook = tmpl.title().replace("{Name}", creator["short"]).replace("Gta", "GTA").replace("Vs ", "vs ").replace("'S ", "'s ")
     if quote and len(quote) <= 45:
-        yt_title = f'{creator["short"]}: "{quote.capitalize()}" {emoji} #GTA6'
+        yt_title = f'{creator["short"]}: "{quote[0].upper() + quote[1:]}" {emoji} #GTA6'
     else:
         yt_title = f"{title_hook} {emoji} #GTA6"
     storyline = f"{creator['short']} vs Vice City – Day {day_number()}, Part {part}"

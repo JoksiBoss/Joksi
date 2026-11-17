@@ -72,7 +72,7 @@ def upload(rel, path, label=None):
     ctype = mimetypes.guess_type(path.name)[0] or "application/octet-stream"
     url = f"https://uploads.github.com/repos/{repo()}/releases/{rel['id']}/assets?name={quote(path.name)}"
     if label:
-        label = "".join(ch for ch in label if ord(ch) < 0x10000).strip()  # GitHub labels reject emoji (4-byte)
+        label = " ".join("".join(ch for ch in label if ord(ch) < 0x10000).split())  # GitHub labels reject emoji (4-byte)
         url += f"&label={quote(label[:120])}"
     with open(path, "rb") as f:
         data = f.read()
@@ -96,7 +96,7 @@ def _clip_rows(release):
         txt = by_name.get(stem + ".txt")
         rows.append({
             "hour": f"{d}-{hm[:2]}", "time": f"{d}-{hm}", "score": int(sc), "creator": names.get(cid, cid),
-            "title": a.get("label") or stem, "mp4": a["browser_download_url"],
+            "title": re.sub(r"^\[\d+\]\s*", "", a.get("label") or stem), "mp4": a["browser_download_url"],
             "txt": txt["browser_download_url"] if txt else "", "size": a.get("size", 0),
         })
     return rows
