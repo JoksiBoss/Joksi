@@ -72,6 +72,7 @@ def upload(rel, path, label=None):
     ctype = mimetypes.guess_type(path.name)[0] or "application/octet-stream"
     url = f"https://uploads.github.com/repos/{repo()}/releases/{rel['id']}/assets?name={quote(path.name)}"
     if label:
+        label = "".join(ch for ch in label if ord(ch) < 0x10000).strip()  # GitHub labels reject emoji (4-byte)
         url += f"&label={quote(label[:120])}"
     with open(path, "rb") as f:
         data = f.read()

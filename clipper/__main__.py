@@ -157,7 +157,7 @@ class Clipper:
         words = [w for s in segs for w in s["words"] if w["start"] < end_rel]
         speech = [(s["start"], min(s["end"], end_rel)) for s in segs]
         if len(words) >= 12:
-            score = min(100, score + 5)
+            score = min(99, score + 5)
         self.release()
         self.part += 1
         clip_time = time.localtime(seg_wall_start + peak) if not self.test_url else time.localtime()

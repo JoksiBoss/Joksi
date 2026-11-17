@@ -51,8 +51,8 @@ jobs:
       matrix: ${{ steps.m.outputs.matrix }}
       any: ${{ steps.m.outputs.any }}
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - run: pip install -q pyyaml
@@ -73,8 +73,8 @@ jobs:
       group: clip-${{ matrix.creator }}${{ inputs.source_url != '' && '-test' || '' }}
       cancel-in-progress: false
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
