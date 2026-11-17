@@ -106,3 +106,15 @@ def summary(md):
 
 def is_twitch_url(u):
     return "twitch.tv" in (u or "")
+
+
+def ytdlp():
+    """yt-dlp command, with cookies from the optional YT_COOKIES secret (helps when YouTube says 'not a bot')."""
+    cmd = ["yt-dlp"]
+    ck = os.environ.get("YT_COOKIES", "").strip()
+    if ck:
+        p = Path("/tmp/yt_cookies.txt")
+        if not p.exists():
+            p.write_text(ck + "\n")
+        cmd += ["--cookies", str(p)]
+    return cmd

@@ -1,7 +1,7 @@
 """Live / GTA VI detection."""
 import json
 
-from .common import GTA_RE, live_url, log, run
+from .common import GTA_RE, live_url, log, run, ytdlp
 
 
 def check_twitch(c):
@@ -19,11 +19,17 @@ def check_twitch(c):
 
 def check_youtube(c):
     url = live_url(c)
-    r = run(["yt-dlp", "-J", "--no-warnings", "--skip-download", "--playlist-items", "1", url], check=False, timeout=120)
+    r = run(ytdlp() + ["-J", "--no-warnings", "--skip-download", "--playlist-items", "1", url], check=False, timeout=120)
     if r.returncode != 0:
         err = (r.stderr or "").strip().splitlines()
         err = err[-1] if err else "error"
         blocked = "confirm you" in err.lower() or "bot" in err.lower()
+        if blocked:  # fall back to streamlink's YouTube plugin
+            sl = check_twitch(c)
+            if sl["live"]:
+                sl["via"] = "streamlink"
+                sl["reason"] = "live (via streamlink; yt-dlp blocked)"
+                return sl
         return {"live": False, "title": "", "category": "", "reason": ("BLOCKED: " if blocked else "") + err[:200]}
     try:
         d = json.loads(r.stdout)

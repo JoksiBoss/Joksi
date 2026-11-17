@@ -43,6 +43,7 @@ env:
   REQUIRE_GTA6: ${{ github.event_name == 'schedule' || inputs.require_gta6 }}
   MUTE_MUSIC: ${{ inputs.mute_music == true || vars.MUTE_MUSIC == 'true' }}
   PYTHONUNBUFFERED: "1"
+  YT_COOKIES: ${{ secrets.YT_COOKIES }}   # optional: cookies.txt for YouTube if it blocks the runner
 
 jobs:
   setup:

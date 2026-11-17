@@ -11,7 +11,7 @@ from pathlib import Path
 
 from . import detect, live, publish, story
 from .common import (channel_url, env_bool, get_creator, handle, is_twitch_url, live_url, log, now_local,
-                     platform_name, run, set_output, summary)
+                     platform_name, run, set_output, summary, ytdlp)
 
 SEG = int(os.environ.get("SEGMENT_SECONDS", "600"))
 
@@ -44,13 +44,13 @@ def _secs(hms):
     return int(v)
 
 
-def start_recorder(c, src, outdir, max_seconds, test):
+def start_recorder(c, src, outdir, max_seconds, test, via=""):
     """Returns (producer_proc or None, ffmpeg_segmenter_proc)."""
     seg_cmd = ["ffmpeg", "-hide_banner", "-loglevel", "warning", "-fflags", "+genpts+discardcorrupt", "-i", "pipe:0",
                "-map", "0:v:0", "-map", "0:a:0", "-c", "copy", "-f", "segment", "-segment_time", str(SEG),
                "-reset_timestamps", "1", "-segment_list", str(outdir / "segs.csv"), "-segment_list_type", "csv",
                "-segment_format", "mpegts", str(outdir / "seg_%04d.ts")]
-    if is_twitch_url(src):
+    if is_twitch_url(src) or via == "streamlink":
         prod = ["streamlink", "--stdout", "--retry-open", "3", "--hls-live-edge", "6"]
         if test:
             off = os.environ.get("START_AT", "").strip()
@@ -65,7 +65,7 @@ def start_recorder(c, src, outdir, max_seconds, test):
         return p1, p2
     if test:  # YouTube / other VOD: download the first N minutes, then segment
         tmpl = str(outdir / "src.%(ext)s")
-        r = run(["yt-dlp", "--no-warnings", "--no-playlist", "-f", "bv*[height<=720][ext=mp4]+ba[ext=m4a]/b[height<=720]/b",
+        r = run(ytdlp() + ["--no-warnings", "--no-playlist", "-f", "bv*[height<=720][ext=mp4]+ba[ext=m4a]/b[height<=720]/b",
                  "--merge-output-format", "mp4", "--download-sections", f"*{_secs(os.environ.get('START_AT', ''))}-{_secs(os.environ.get('START_AT', '')) + int(max_seconds)}", "--force-keyframes-at-cuts",
                  "-o", tmpl, src], check=False, timeout=1800)
         files = [p for p in outdir.glob("src.*") if p.suffix in (".mp4", ".mkv", ".webm")]
@@ -77,7 +77,7 @@ def start_recorder(c, src, outdir, max_seconds, test):
         cmd[i + 1:i + 1] = ["-t", str(int(max_seconds))]
         return None, subprocess.Popen(cmd)
     # YouTube live
-    p1 = subprocess.Popen(["yt-dlp", "--no-warnings", "-q", "-f", "b[height<=720]/b", "--hls-use-mpegts", "-o", "-", src],
+    p1 = subprocess.Popen(ytdlp() + ["--no-warnings", "-q", "-f", "b[height<=720]/b", "--hls-use-mpegts", "-o", "-", src],
                           stdout=subprocess.PIPE)
     p2 = subprocess.Popen(seg_cmd, stdin=p1.stdout)
     p1.stdout.close()
@@ -213,8 +213,10 @@ def cmd_run(a):
     c = get_creator(a.creator)
     test = bool(a.source_url)
     src = a.source_url or live_url(c)
+    via = ""
     if not test and c["platform"] == "youtube":
         info = live.check(c)
+        via = info.get("via", "")
         src = info.get("video_url") or src
     budget = (float(a.max_minutes) * 60) if test else float(os.environ.get("RECORD_MINUTES", "320")) * 60
     rec = Path("rec") / c["id"]
@@ -227,7 +229,7 @@ def cmd_run(a):
         chat.start()
     clipper = Clipper(c, a.source_url, chat)
     wall0 = time.time()
-    prod, seg = start_recorder(c, src, rec, budget, test)
+    prod, seg = start_recorder(c, src, rec, budget, test, via)
     done = set()
     stopping = False
     recheck_at = time.time() + 1800
