@@ -1,0 +1,108 @@
+import datetime
+import json
+import os
+import re
+import subprocess
+import sys
+from pathlib import Path
+from zoneinfo import ZoneInfo
+
+import yaml
+
+ROOT = Path(__file__).resolve().parent.parent
+TZ = ZoneInfo(os.environ.get("CLIP_TZ", "Asia/Kolkata"))
+LAUNCH = datetime.date(2026, 11, 19)
+GTA_RE = re.compile(r"grand\s*theft\s*auto\s*(vi|6)\b|\bgta\s*-?\s*(vi|6)\b", re.I)
+
+
+def log(*a):
+    print(*a, flush=True, file=sys.stderr)
+
+
+def env_bool(name, default=False):
+    v = os.environ.get(name, "").strip().lower()
+    if v == "":
+        return default
+    return v in ("1", "true", "yes", "on")
+
+
+def now_local():
+    return datetime.datetime.now(TZ)
+
+
+def load_config():
+    with open(ROOT / "streamers.yml") as f:
+        cfg = yaml.safe_load(f)
+    defaults = cfg.get("defaults", {}) or {}
+    out = []
+    for c in cfg.get("creators", []):
+        c = dict(c)
+        c.setdefault("short", c["name"])
+        c.setdefault("enabled", False)
+        c.setdefault("sponsored", False)
+        c.setdefault("permission", "none")
+        tags = list(defaults.get("hashtags", [])) + list(c.get("hashtags", []) or [])
+        seen, clean = set(), []
+        for t in tags:
+            t = "#" + str(t).lstrip("#").replace(" ", "")
+            if t.lower() not in seen:
+                seen.add(t.lower())
+                clean.append(t)
+        c["hashtags"] = clean
+        out.append(c)
+    return out
+
+
+def get_creator(cid):
+    for c in load_config():
+        if c["id"].lower() == cid.lower() or str(c["channel"]).lower().lstrip("@") == cid.lower().lstrip("@"):
+            return c
+    raise SystemExit(f"creator '{cid}' not in streamers.yml")
+
+
+def channel_url(c):
+    if c["platform"] == "twitch":
+        return f"https://www.twitch.tv/{c['channel']}"
+    ch = c["channel"]
+    return f"https://www.youtube.com/{ch if ch.startswith(('@', 'channel/', 'c/')) else '@' + ch}"
+
+
+def live_url(c):
+    if c["platform"] == "twitch":
+        return channel_url(c)
+    return channel_url(c) + "/live"
+
+
+def handle(c):
+    return "@" + str(c["channel"]).lstrip("@")
+
+
+def platform_name(c):
+    return "Twitch" if c["platform"] == "twitch" else "YouTube"
+
+
+def run(cmd, check=True, capture=True, timeout=None):
+    r = subprocess.run(cmd, capture_output=capture, text=True, timeout=timeout)
+    if check and r.returncode != 0:
+        raise RuntimeError(f"command failed ({r.returncode}): {' '.join(map(str, cmd))[:300]}\n{(r.stderr or '')[-2000:]}")
+    return r
+
+
+def set_output(key, value):
+    p = os.environ.get("GITHUB_OUTPUT")
+    if p:
+        with open(p, "a") as f:
+            f.write(f"{key}={value}\n")
+    log(f"output {key}={value}")
+
+
+def summary(md):
+    p = os.environ.get("GITHUB_STEP_SUMMARY")
+    if p:
+        with open(p, "a") as f:
+            f.write(md + "\n")
+    log(md)
+
+
+def is_twitch_url(u):
+    return "twitch.tv" in (u or "")

@@ -1,0 +1,97 @@
+# GTA 6 clipper — creator list
+# enabled: true  -> the scheduled workflow checks this creator every 30 min
+# permission: the clipping program that allows you to post their clips ("none" = no permission, keep disabled)
+# sponsored: true -> description gets a "tick Paid promotion" reminder (set true if a brand/creator pays you per view)
+# hashtags: required hashtags from that program (CHECK the program brief and edit these)
+defaults:
+  hashtags: ["#GTA6", "#GTAVI", "#Shorts"]
+
+creators:
+  - id: kaicenat
+    name: Kai Cenat
+    short: Kai
+    platform: twitch
+    channel: kaicenat
+    permission: "Content Rewards"
+    sponsored: false
+    enabled: true
+    hashtags: ["#KaiCenat"]
+
+  - id: ishowspeed
+    name: IShowSpeed
+    short: Speed
+    platform: youtube
+    channel: "@IShowSpeed"
+    permission: "check-campaign"      # Reach / Expedia campaign only — confirm you are accepted before posting
+    program: "Reach (Expedia campaign)"
+    sponsored: true
+    enabled: true
+    hashtags: ["#IShowSpeed", "#Speed"]
+
+  - id: lacy
+    name: Lacy
+    short: Lacy
+    platform: twitch
+    channel: lacy
+    permission: "Reach"
+    sponsored: false
+    enabled: true
+    hashtags: ["#Lacy"]
+
+  - id: marlon
+    name: Marlon
+    short: Marlon
+    platform: twitch
+    channel: marlon
+    permission: "CORE"
+    sponsored: false
+    enabled: true
+    hashtags: ["#Marlon"]
+
+  - id: jasontheween
+    name: JasonTheWeen
+    short: Jason
+    platform: twitch
+    channel: jasontheween
+    permission: "Clipping program"
+    sponsored: false
+    enabled: true
+    hashtags: ["#JasonTheWeen"]
+
+  - id: silky
+    name: Silky
+    short: Silky
+    platform: twitch
+    channel: silky
+    permission: "CORE"
+    sponsored: false
+    enabled: true
+    hashtags: ["#Silky"]
+
+  # No clipping permission known — disabled. Only enable if you get permission.
+  - id: xqc
+    name: xQc
+    short: xQc
+    platform: twitch
+    channel: xqc
+    permission: "none"
+    enabled: false
+    hashtags: ["#xQc"]
+
+  - id: caseoh
+    name: CaseOh
+    short: CaseOh
+    platform: twitch
+    channel: caseoh_
+    permission: "none"
+    enabled: false
+    hashtags: ["#CaseOh"]
+
+  - id: stableronaldo
+    name: Stable Ronaldo
+    short: Stable
+    platform: twitch
+    channel: stableronaldo
+    permission: "none"
+    enabled: false
+    hashtags: ["#StableRonaldo"]

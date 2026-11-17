@@ -1,0 +1,102 @@
+name: Clip GTA 6 streams
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    inputs:
+      channel:
+        description: "Creator id from streamers.yml (blank = all enabled creators)"
+        required: false
+        default: ""
+      source_url:
+        description: "TEST ONLY: a Twitch VOD or YouTube video URL to clip instead of the live stream"
+        required: false
+        default: ""
+      start_at:
+        description: "TEST ONLY: start offset into the VOD (HH:MM:SS, Twitch VODs)"
+        required: false
+        default: "00:00:00"
+      max_minutes:
+        description: "TEST ONLY: minutes of the VOD to use"
+        required: false
+        default: "10"
+      require_gta6:
+        description: "Only clip when the stream title/category is Grand Theft Auto VI"
+        type: boolean
+        default: true
+      mute_music:
+        description: "Duck game audio when nobody is talking (fewer Content ID claims from in-game radio)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+env:
+  TZ: Asia/Kolkata
+  CLIP_TZ: Asia/Kolkata
+  WHISPER_MODEL: base
+  SEGMENT_SECONDS: "600"     # rolling 10-minute recording segments
+  CLIPS_PER_SEGMENT: "2"     # up to 2 per 10 min => ~6-12 candidates per hour per creator
+  RECORD_MINUTES: "320"      # stop recording before the 6 h runner limit
+  REQUIRE_GTA6: ${{ github.event_name == 'schedule' || inputs.require_gta6 }}
+  MUTE_MUSIC: ${{ inputs.mute_music == true || vars.MUTE_MUSIC == 'true' }}
+  PYTHONUNBUFFERED: "1"
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.m.outputs.matrix }}
+      any: ${{ steps.m.outputs.any }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q pyyaml
+      - id: m
+        run: python scripts/matrix.py "${{ inputs.channel }}" "${{ inputs.source_url }}"
+
+  clip:
+    needs: setup
+    if: needs.setup.outputs.any == 'true'
+    name: ${{ matrix.creator }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      matrix:
+        creator: ${{ fromJSON(needs.setup.outputs.matrix) }}
+    concurrency:
+      group: clip-${{ matrix.creator }}${{ inputs.source_url != '' && '-test' || '' }}
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install light tools
+        run: pip install -q -U -r requirements-light.txt
+      - name: Live on GTA VI?
+        id: live
+        run: python -m clipper check --creator "${{ matrix.creator }}" --source-url "${{ inputs.source_url }}"
+      - name: Install ffmpeg + faster-whisper
+        if: steps.live.outputs.go == 'true'
+        run: |
+          (command -v ffmpeg && ffmpeg -hide_banner -filters | grep -q " subtitles ") || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
+          pip install -q -r requirements.txt
+      - name: Cache whisper model
+        if: steps.live.outputs.go == 'true'
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: whisper-${{ env.WHISPER_MODEL }}-v1
+      - name: Record + clip + publish
+        if: steps.live.outputs.go == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          START_AT: ${{ inputs.start_at }}
+        run: python -m clipper run --creator "${{ matrix.creator }}" --source-url "${{ inputs.source_url }}" --max-minutes "${{ inputs.max_minutes || '10' }}"
