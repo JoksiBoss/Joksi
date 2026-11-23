@@ -75,7 +75,11 @@ jobs:
           python-version: "3.12"
       - run: pip install -q pyyaml
       - id: m
-        run: python scripts/matrix.py "${{ inputs.channel }}" "${{ inputs.source_url }}"
+        run: |
+          CH="${{ inputs.channel }}"
+          # push-started run (Claude edits .github/run-now.txt): only the creator named on its first word
+          if [ "${{ github.event_name }}" = "push" ]; then CH=$(awk 'NR==1{print $1}' .github/run-now.txt); fi
+          python scripts/matrix.py "$CH" "${{ inputs.source_url }}"
 
   clip:
     needs: setup

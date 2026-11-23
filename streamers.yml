@@ -9,6 +9,7 @@ defaults:
   # (a creator's own `watermark:` overrides it). Add the handles for Account 2-5 here.
   account_watermarks:
     1: "@rocketman_vicecity"      # Account 1 = Metricool brand "Vice City Clipz"
+    2: "@gta_vicesity_vi"         # Account 2 = Metricool brand "Ludi mak mail - Gta Vici Sity Clipzy"
 
 creators:
   - id: kaicenat
@@ -91,8 +92,10 @@ creators:
     short: CaseOh
     platform: twitch
     channel: caseoh_
-    permission: "none"
-    enabled: false
+    permission: "Direct permission from CaseOh"
+    account: 2
+    sponsored: false
+    enabled: true
     hashtags: ["#CaseOh"]
 
   - id: stableronaldo
@@ -133,5 +136,5 @@ creators:
     permission: "Dylan Page GTA 6 marathon clipping campaign"
     program: "Dylan Page GTA 6 marathon"
     sponsored: false
-    enabled: true            # checked every 30 min while the marathon runs
+    enabled: false            # checked every 30 min while the marathon runs
     hashtags: ["#DylanPage", "#GTA6"]
