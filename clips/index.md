@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 23 Nov 2026 23:49 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 23 Nov 2026 23:58 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -19,6 +19,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 58 | CaseOh | CaseOh: "What do you mean Anne?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2311_s058_caseoh_p06.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2311_s058_caseoh_p06.txt) |
 |  | 57 | CaseOh | CaseOh Was Not Ready #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2337_s057_caseoh_p09.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2337_s057_caseoh_p09.txt) |
 |  | 57 | CaseOh | CaseOh: "Go be it!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2334_s057_caseoh_p10.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2334_s057_caseoh_p10.txt) |
+|  | 45 | CaseOh | CaseOh Cannot Drive In GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2348_s045_caseoh_p13.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2348_s045_caseoh_p13.txt) |
 
 ### 23/11/2026 22:00–23:00 CET
 
