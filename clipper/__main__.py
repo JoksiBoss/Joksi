@@ -144,8 +144,14 @@ class Clipper:
 
     def make_clip(self, edit, seg, seglen, peak, score, seg_wall_start):
         c = self.c
-        start = max(0.0, peak - 20.0)
-        win_end = min(float(seglen), start + 55.0)
+        # Long clips: the strongest moments (score >= LONG_MIN_SCORE) may run past 1 minute, up to
+        # LONG_MAX_SECONDS, ending on the first sentence end after LONG_TAIL seconds past the peak.
+        long_ok = env_bool("LONG_CLIPS", False) and score >= int(os.environ.get("LONG_MIN_SCORE", "70"))
+        cap = float(os.environ.get("LONG_MAX_SECONDS", "90")) if long_ok else 55.0
+        lead = 30.0 if long_ok else 20.0
+        tail = float(os.environ.get("LONG_TAIL", "35")) if long_ok else 10.0
+        start = max(0.0, peak - lead)
+        win_end = min(float(seglen), start + cap)
         if win_end - start < 25:
             start = max(0.0, win_end - 25.0)
         if win_end - start < 25:
@@ -154,13 +160,13 @@ class Clipper:
         work.mkdir(exist_ok=True)
         segs = edit.transcribe(seg, start, win_end - start, work)
         p_rel = peak - start
-        target = p_rel + 10.0
+        target = p_rel + tail
         end_rel = target
         for s in segs:
             if s["end"] >= target:
                 end_rel = s["end"] + 0.4
                 break
-        end_rel = max(25.0, min(end_rel, win_end - start, 55.0))
+        end_rel = max(25.0, min(end_rel, win_end - start, cap))
         segs = [s for s in segs if s["start"] < end_rel]
         words = [w for s in segs for w in s["words"] if w["start"] < end_rel]
         speech = [(s["start"], min(s["end"], end_rel)) for s in segs]

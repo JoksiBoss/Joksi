@@ -34,9 +34,12 @@ def load_config():
     with open(ROOT / "streamers.yml") as f:
         cfg = yaml.safe_load(f)
     defaults = cfg.get("defaults", {}) or {}
+    marks = {str(k): str(v) for k, v in (defaults.get("account_watermarks", {}) or {}).items()}
     out = []
     for c in cfg.get("creators", []):
         c = dict(c)
+        # watermark: the creator's own, else the watermark of the GTA 6 account the creator belongs to
+        c["watermark"] = str(c.get("watermark") or marks.get(str(c.get("account", "")), "") or "")
         c.setdefault("short", c["name"])
         c.setdefault("enabled", False)
         c.setdefault("sponsored", False)
