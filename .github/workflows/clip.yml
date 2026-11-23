@@ -47,7 +47,7 @@ env:
   SEGMENT_SECONDS: "600"     # rolling 10-minute recording segments
   CLIPS_PER_SEGMENT: "2"     # up to 2 per 10 min => ~6-12 candidates per hour per creator
   RECORD_MINUTES: "320"      # stop recording before the 6 h runner limit
-  REQUIRE_GTA6: ${{ github.event_name == 'schedule' || inputs.require_gta6 }}
+  REQUIRE_GTA6: ${{ github.event_name == 'schedule' || github.event_name == 'push' || inputs.require_gta6 }}
   MUTE_MUSIC: ${{ inputs.mute_music == true || vars.MUTE_MUSIC == 'true' }}
   PYTHONUNBUFFERED: "1"
   WATERMARK: ${{ inputs.watermark }}
