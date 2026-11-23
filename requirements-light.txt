@@ -1,5 +1,5 @@
 streamlink>=6.8
-yt-dlp>=2025.1.1
+yt-dlp[default]>=2025.11.12
 pyyaml
 requests
 numpy

@@ -96,6 +96,10 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
+      - name: Deno (yt-dlp needs a JS runtime for YouTube)
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
       - name: Install light tools
         run: pip install -q -U -r requirements-light.txt
       - name: Live on GTA VI?
