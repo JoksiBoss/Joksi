@@ -97,7 +97,7 @@ def fit_text(text, size, max_w, max_lines, min_size=34):
     return out.rstrip() + ("…" if out != text else ""), min_size
 
 
-def build_ass(path, hook, storyline, credit, words, dur, context_card=""):
+def build_ass(path, hook, storyline, credit, words, dur, context_card="", watermark=""):
     hdr = f"""[Script Info]
 ScriptType: v4.00+
 PlayResX: {W}
@@ -112,6 +112,7 @@ Style: Story,{FONT},54,&H00FFFFFF,&H00FFFFFF,&H40000000,&H40000000,1,0,0,0,100,1
 Style: Cap,{FONT},92,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,1,0,1,8,3,5,60,60,0,1
 Style: Ctx,{FONT},60,&H00FFFFFF,&H00FFFFFF,&H28000000,&H28000000,0,0,0,0,100,100,1,0,3,18,0,2,60,60,0,1
 Style: Credit,{FONT},40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,1,0,1,4,1,5,40,40,0,1
+Style: Mark,{FONT},46,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,1,0,1,3,1,5,40,40,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -132,6 +133,10 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         ev.append(f"Dialogue: 1,{_ts(2.0)},{_ts(dur)},Story,,0,0,0,,{{\\pos(540,{FG_Y - 90})\\fs{ssz}\\fad(200,0)}}{stxt}")
     # Credit
     ev.append(f"Dialogue: 1,{_ts(0)},{_ts(dur)},Credit,,0,0,0,,{{\\pos(540,{H - 230})\\alpha&H30&}}{_clean(credit)}")
+    # Account watermark (e.g. @rocketman_vicecity): whole clip, just under the gameplay window,
+    # semi-transparent, clear of the TikTok/Reels/Shorts buttons on the right and the caption bar at the bottom.
+    if watermark:
+        ev.append(f"Dialogue: 1,{_ts(0)},{_ts(dur)},Mark,,0,0,0,,{{\\pos(540,{FG_Y + FG_H + 52})\\alpha&H60&}}{_clean(watermark)}")
     # Word-by-word captions in chunks of up to 3 words
     chunks, cur = [], []
     for w in words:
@@ -163,10 +168,10 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     Path(path).write_text(hdr + "\n".join(ev) + "\n", encoding="utf-8")
 
 
-def render(src, start, dur, out_mp4, workdir, hook, storyline, credit, words, zoom_at, speech=None, context_card=""):
+def render(src, start, dur, out_mp4, workdir, hook, storyline, credit, words, zoom_at, speech=None, context_card="", watermark=""):
     workdir = Path(workdir)
     ass = workdir / "c.ass"
-    build_ass(ass, hook, storyline, credit, words, dur, context_card)
+    build_ass(ass, hook, storyline, credit, words, dur, context_card, watermark)
     z0, z1 = max(0.0, zoom_at - 0.25), min(dur, zoom_at + 2.4)
     z2 = min(dur - 0.5, z1 + 6.0)  # second, smaller punch-in a few seconds later
     fontsdir = FONT_DIR if FONT_DIR.exists() else workdir

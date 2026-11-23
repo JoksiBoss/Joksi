@@ -5,6 +5,10 @@
 # hashtags: required hashtags from that program (CHECK the program brief and edit these)
 defaults:
   hashtags: ["#GTA6", "#GTAVI", "#Shorts"]
+  # Watermark per GTA 6 account. Every creator with `account: N` gets that account's watermark on every clip
+  # (a creator's own `watermark:` overrides it). Add the handles for Account 2-5 here.
+  account_watermarks:
+    1: "@rocketman_vicecity"      # Account 1 = Metricool brand "Vice City Clipz"
 
 creators:
   - id: kaicenat
@@ -12,9 +16,12 @@ creators:
     short: Kai
     platform: twitch
     channel: kaicenat
-    permission: "Content Rewards"
+    permission: "direct"              # Teodor has permission from Kai to clip
     sponsored: false
-    enabled: false
+    enabled: true                     # clip live when he streams GTA 6
+    account: 1                        # GTA 6 Account 1 = Metricool brand "Vice City Clipz"
+    game: "GTA 6"
+    vods: "https://www.youtube.com/@KaiCenatLive/streams"
     hashtags: ["#KaiCenat"]
 
   - id: ishowspeed
@@ -22,10 +29,11 @@ creators:
     short: Speed
     platform: youtube
     channel: "@IShowSpeed"
-    permission: "check-campaign"      # Reach / Expedia campaign only — confirm you are accepted before posting
-    program: "Reach (Expedia campaign)"
-    sponsored: true
-    enabled: false
+    permission: "direct"              # Teodor has direct permission from Speed to clip
+    sponsored: false
+    enabled: true                     # clip live when he streams GTA 6
+    account: 1                        # GTA 6 Account 1 = Metricool brand "Vice City Clipz"
+    game: "GTA 6"
     hashtags: ["#IShowSpeed", "#Speed"]
 
   - id: lacy
