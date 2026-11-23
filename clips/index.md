@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 00:58 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 00:59 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -13,6 +13,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 68 | CaseOh | #GTA6 Hospital scramble spirals out of control | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0003_s068_caseoh_p15.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0003_s068_caseoh_p15.txt) |
 |  | 56 | CaseOh | #GTA6 Chaos: Selling Cars & Lawyer Laughs | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0052_s056_caseoh_p24.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0052_s056_caseoh_p24.txt) |
 |  | 56 | CaseOh | #GTA6 Madness: CaseOh Saves the Dog! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0019_s056_caseoh_p19.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0019_s056_caseoh_p19.txt) |
+|  | 51 | CaseOh | CaseOh: "Did y'all phone for some update last night?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0053_s051_caseoh_p25.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0053_s051_caseoh_p25.txt) |
 |  | 51 | CaseOh | #GTA6 Bridge Blunder – Chaos Unleashed | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0012_s051_caseoh_p18.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0012_s051_caseoh_p18.txt) |
 |  | 51 | CaseOh | #GTA6 Chaos Unleashed – CaseOh’s Wild Gear‑Up | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0009_s051_caseoh_p17.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0009_s051_caseoh_p17.txt) |
 |  | 50 | CaseOh | CaseOh Lost It In GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0021_s050_caseoh_p20.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0021_s050_caseoh_p20.txt) |
