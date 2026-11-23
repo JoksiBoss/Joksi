@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 23 Nov 2026 23:08 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 23 Nov 2026 23:09 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -10,6 +10,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 64 | CaseOh | CaseOh Investigates a Guard House #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2300_s064_caseoh_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2300_s064_caseoh_p03.txt) |
+| 🔥 **POST THESE** | 63 | CaseOh | CaseOh's Bridge Battle #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2304_s063_caseoh_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2304_s063_caseoh_p04.txt) |
 
 ### 23/11/2026 22:00–23:00 CET
 
