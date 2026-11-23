@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 00:38 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 00:48 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -16,6 +16,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 51 | CaseOh | #GTA6 Chaos Unleashed – CaseOh’s Wild Gear‑Up | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0009_s051_caseoh_p17.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0009_s051_caseoh_p17.txt) |
 |  | 50 | CaseOh | CaseOh Lost It In GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0021_s050_caseoh_p20.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0021_s050_caseoh_p20.txt) |
 |  | 45 | CaseOh | CaseOh Can'T Believe What Just Happened #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0033_s045_caseoh_p22.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0033_s045_caseoh_p22.txt) |
+|  | 40 | CaseOh | GTA 6 Broke CaseOh #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0043_s040_caseoh_p23.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0043_s040_caseoh_p23.txt) |
 
 ### 23/11/2026 23:00–00:00 CET
 
