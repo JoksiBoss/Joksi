@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 23 Nov 2026 22:36 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 23 Nov 2026 22:37 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -21,6 +21,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 83 | Kai Cenat | Kai's fresh look before the grind #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2224_s083_kaicenat_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2224_s083_kaicenat_p02.txt) |
 |  | 82 | Kai Cenat | #GTA6: Kai hunts missing names and finds a collectible | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2227_s082_kaicenat_p05.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2227_s082_kaicenat_p05.txt) |
 |  | 78 | Kai Cenat | #GTA6 Skyhouse Secrets with Kai | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2235_s078_kaicenat_p14.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2235_s078_kaicenat_p14.txt) |
+|  | 77 | Kai Cenat | #GTA6 Kai's wild club showdown | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2236_s077_kaicenat_p15.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2236_s077_kaicenat_p15.txt) |
 |  | 73 | Kai Cenat | #GTA6 Kai’s heated showdown at the club | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2234_s073_kaicenat_p12.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2234_s073_kaicenat_p12.txt) |
 |  | 67 | Kai Cenat | #GTA6 Mystery Glitch During Kai's Grind | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2229_s067_kaicenat_p06.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2229_s067_kaicenat_p06.txt) |
 
