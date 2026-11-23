@@ -13,6 +13,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 56 | CaseOh | #GTA6 Madness: CaseOh Saves the Dog! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0019_s056_caseoh_p19.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0019_s056_caseoh_p19.txt) |
 |  | 51 | CaseOh | #GTA6 Bridge Blunder – Chaos Unleashed | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0012_s051_caseoh_p18.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0012_s051_caseoh_p18.txt) |
 |  | 51 | CaseOh | #GTA6 Chaos Unleashed – CaseOh’s Wild Gear‑Up | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0009_s051_caseoh_p17.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0009_s051_caseoh_p17.txt) |
+|  | 50 | CaseOh | CaseOh Lost It In GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0021_s050_caseoh_p20.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0021_s050_caseoh_p20.txt) |
 
 ### 23/11/2026 23:00–00:00 CET
 
