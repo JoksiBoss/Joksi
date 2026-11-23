@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 23 Nov 2026 22:33 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 23 Nov 2026 22:34 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -16,6 +16,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 87 | Kai Cenat | #GTA6 Kai's club prep chaos | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2232_s087_kaicenat_p10.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2232_s087_kaicenat_p10.txt) |
 |  | 86 | Kai Cenat | #GTA6 Chaos: Kai’s cops chase and nap plan | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2230_s086_kaicenat_p08.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2230_s086_kaicenat_p08.txt) |
 |  | 84 | Kai Cenat | #GTA6 Kai's $50K hustle in Vice City | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2223_s084_kaicenat_p01.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2223_s084_kaicenat_p01.txt) |
+|  | 83 | Kai Cenat | Kai's snack showdown #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2233_s083_kaicenat_p11.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2233_s083_kaicenat_p11.txt) |
 |  | 83 | Kai Cenat | Kai's fresh look before the grind #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2224_s083_kaicenat_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2224_s083_kaicenat_p02.txt) |
 |  | 82 | Kai Cenat | #GTA6: Kai hunts missing names and finds a collectible | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2227_s082_kaicenat_p05.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2227_s082_kaicenat_p05.txt) |
 |  | 67 | Kai Cenat | #GTA6 Mystery Glitch During Kai's Grind | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2229_s067_kaicenat_p06.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2229_s067_kaicenat_p06.txt) |
