@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 23 Nov 2026 22:42 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 23 Nov 2026 22:43 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,9 +9,10 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 88 | Kai Cenat | #GTA6 Live: Kai's wild glitch panic | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2242_s088_kaicenat_p22.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2242_s088_kaicenat_p22.txt) |
 | 🔥 **POST THESE** | 88 | Kai Cenat | Kai's tough makeover and car pick #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2234_s088_kaicenat_p13.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2234_s088_kaicenat_p13.txt) |
 | 🔥 **POST THESE** | 88 | Kai Cenat | Easy Find? Kai Spots Missable Secret on Launch Day #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2231_s088_kaicenat_p09.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2231_s088_kaicenat_p09.txt) |
-| 🔥 **POST THESE** | 88 | Kai Cenat | #GTA6 Kai finds secret crystal stash on launch day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2229_s088_kaicenat_p07.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2229_s088_kaicenat_p07.txt) |
+|  | 88 | Kai Cenat | #GTA6 Kai finds secret crystal stash on launch day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2229_s088_kaicenat_p07.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2229_s088_kaicenat_p07.txt) |
 |  | 88 | Kai Cenat | #GTA6 Lost House Madness | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2226_s088_kaicenat_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2226_s088_kaicenat_p04.txt) |
 |  | 88 | Kai Cenat | #GTA6 Chaos: Kai’s Hunt for the Mystery House | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2225_s088_kaicenat_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2225_s088_kaicenat_p03.txt) |
 |  | 87 | Kai Cenat | #GTA6 Kai's club prep chaos | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2232_s087_kaicenat_p10.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2232_s087_kaicenat_p10.txt) |
