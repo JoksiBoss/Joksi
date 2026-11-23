@@ -19,9 +19,10 @@ def check_twitch(c):
 
 def check_youtube(c):
     url = live_url(c)
-    r = run(ytdlp() + ["-J", "--no-warnings", "--skip-download", "--playlist-items", "1", url], check=False, timeout=120)
+    r = run(ytdlp() + ["-J", "--skip-download", "--playlist-items", "1", url], check=False, timeout=120)
     if r.returncode != 0:
         err = (r.stderr or "").strip().splitlines()
+        print("\n".join("[yt-dlp] " + l for l in err[-8:]), flush=True)
         err = err[-1] if err else "error"
         blocked = "confirm you" in err.lower() or "bot" in err.lower()
         if blocked:  # fall back to streamlink's YouTube plugin

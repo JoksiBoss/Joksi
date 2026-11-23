@@ -120,4 +120,6 @@ def ytdlp():
         if not p.exists():
             p.write_text(ck + "\n")
         cmd += ["--cookies", str(p)]
+    # web_safari/tv still return live HLS formats when the default web client gets none
+    cmd += ["--extractor-args", "youtube:player_client=" + os.environ.get("YT_CLIENTS", "default,web_safari,tv")]
     return cmd
