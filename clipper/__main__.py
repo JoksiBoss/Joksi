@@ -177,7 +177,8 @@ class Clipper:
         stem = f"{stamp}_s{score:03d}_{c['id']}_p{self.part:02d}"
         mp4 = self.out / f"{stem}.mp4"
         edit.render(seg, start, end_rel, mp4, work, st["hook_card"], st["storyline"], credit, words, p_rel, speech,
-                    context_card=st.get("context_card", ""))
+                    context_card=st.get("context_card", ""),
+                    watermark=(os.environ.get("WATERMARK", "").strip() or str(c.get("watermark", "") or "")))
         self.session.add_clip(seg_wall_start + peak, stem, score, st["summary"], st["storyline"] if st.get("ai_model") else "",
                               ai=bool(st.get("ai_model")))
         self.session.save()

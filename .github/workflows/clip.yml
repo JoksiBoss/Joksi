@@ -21,6 +21,10 @@ on:
         description: "TEST ONLY: minutes of the VOD to use"
         required: false
         default: "10"
+      watermark:
+        description: "Watermark text on every clip (blank = the creator's watermark from streamers.yml)"
+        required: false
+        default: ""
       require_gta6:
         description: "Only clip when the stream title/category is Grand Theft Auto VI"
         type: boolean
@@ -44,6 +48,7 @@ env:
   REQUIRE_GTA6: ${{ github.event_name == 'schedule' || inputs.require_gta6 }}
   MUTE_MUSIC: ${{ inputs.mute_music == true || vars.MUTE_MUSIC == 'true' }}
   PYTHONUNBUFFERED: "1"
+  WATERMARK: ${{ inputs.watermark }}
   YT_COOKIES: ${{ secrets.YT_COOKIES }}   # optional: cookies.txt for YouTube if it blocks the runner
   # optional AI context provider (clipper/ai.py). No key = template hooks, pipeline unchanged.
   GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}

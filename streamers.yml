@@ -22,10 +22,12 @@ creators:
     short: Speed
     platform: youtube
     channel: "@IShowSpeed"
-    permission: "check-campaign"      # Reach / Expedia campaign only — confirm you are accepted before posting
-    program: "Reach (Expedia campaign)"
-    sponsored: true
+    permission: "direct"              # Teodor has direct permission from Speed to clip
+    sponsored: false
     enabled: false
+    account: 1                        # GTA 6 Account 1 = Metricool brand "Vice City Clipz"
+    watermark: "@rocketman_vicecity"  # burned into every clip of this creator
+    game: "GTA 6"
     hashtags: ["#IShowSpeed", "#Speed"]
 
   - id: lacy
