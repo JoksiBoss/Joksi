@@ -1,6 +1,8 @@
 name: Clip GTA 6 streams
 
 on:
+  push:                     # Claude can start a run by editing .github/run-now.txt (all enabled creators)
+    paths: [".github/run-now.txt"]
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch:
