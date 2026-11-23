@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 23 Nov 2026 23:38 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 23 Nov 2026 23:48 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -10,8 +10,9 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 78 | CaseOh | CaseOh in a Hangar Chaos #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2312_s078_caseoh_p05.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2312_s078_caseoh_p05.txt) |
+| 🔥 **POST THESE** | 66 | CaseOh | CaseOh’s crazy garage rant #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2344_s066_caseoh_p11.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2344_s066_caseoh_p11.txt) |
 | 🔥 **POST THESE** | 64 | CaseOh | CaseOh Investigates a Guard House #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2300_s064_caseoh_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2300_s064_caseoh_p03.txt) |
-| 🔥 **POST THESE** | 63 | CaseOh | CaseOh's Bridge Battle #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2304_s063_caseoh_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2304_s063_caseoh_p04.txt) |
+|  | 63 | CaseOh | CaseOh's Bridge Battle #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2304_s063_caseoh_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2304_s063_caseoh_p04.txt) |
 |  | 60 | CaseOh | Mazzwell 94% Fitness Check #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2327_s060_caseoh_p07.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2327_s060_caseoh_p07.txt) |
 |  | 59 | CaseOh | CaseOh: "Oh my god cover your balls" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2322_s059_caseoh_p08.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2322_s059_caseoh_p08.txt) |
 |  | 58 | CaseOh | CaseOh: "What do you mean Anne?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2311_s058_caseoh_p06.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261123-2311_s058_caseoh_p06.txt) |
