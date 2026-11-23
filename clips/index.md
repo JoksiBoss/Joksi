@@ -15,6 +15,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 51 | CaseOh | #GTA6 Bridge Blunder – Chaos Unleashed | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0012_s051_caseoh_p18.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0012_s051_caseoh_p18.txt) |
 |  | 51 | CaseOh | #GTA6 Chaos Unleashed – CaseOh’s Wild Gear‑Up | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0009_s051_caseoh_p17.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0009_s051_caseoh_p17.txt) |
 |  | 50 | CaseOh | CaseOh Lost It In GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0021_s050_caseoh_p20.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0021_s050_caseoh_p20.txt) |
+|  | 45 | CaseOh | CaseOh Can'T Believe What Just Happened #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0033_s045_caseoh_p22.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0033_s045_caseoh_p22.txt) |
 
 ### 23/11/2026 23:00–00:00 CET
 
