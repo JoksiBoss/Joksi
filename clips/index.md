@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 23 Nov 2026 22:37 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 23 Nov 2026 22:38 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -25,6 +25,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 73 | Kai Cenat | #GTA6 Kai’s heated showdown at the club | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2234_s073_kaicenat_p12.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2234_s073_kaicenat_p12.txt) |
 |  | 72 | Kai Cenat | #GTA6 Hair Check Chaos | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2237_s072_kaicenat_p16.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2237_s072_kaicenat_p16.txt) |
 |  | 67 | Kai Cenat | #GTA6 Mystery Glitch During Kai's Grind | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2229_s067_kaicenat_p06.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2229_s067_kaicenat_p06.txt) |
+|  | 66 | Kai Cenat | #GTA6 Kai's club confusion on launch day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2237_s066_kaicenat_p17.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2237_s066_kaicenat_p17.txt) |
 
 ### 18/11/2026 02:00–03:00 CET
 
