@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 23 Nov 2026 22:40 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 23 Nov 2026 22:41 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -28,6 +28,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 67 | Kai Cenat | #GTA6 Mystery Glitch During Kai's Grind | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2229_s067_kaicenat_p06.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2229_s067_kaicenat_p06.txt) |
 |  | 66 | Kai Cenat | #GTA6 Kai's club confusion on launch day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2237_s066_kaicenat_p17.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2237_s066_kaicenat_p17.txt) |
 |  | 57 | Kai Cenat | Kai: "VIP 1000 want one?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2238_s057_kaicenat_p18.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2238_s057_kaicenat_p18.txt) |
+|  | 46 | Kai Cenat | #GTA6 Chaos: Kai's baffling moment | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2240_s046_kaicenat_p20.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2240_s046_kaicenat_p20.txt) |
 
 ### 18/11/2026 02:00–03:00 CET
 
