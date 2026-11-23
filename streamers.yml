@@ -115,3 +115,15 @@ creators:
     sponsored: false
     enabled: false           # run by name from Actions; set true to check every 30 min
     hashtags: ["#Luality", "#GTA5", "#GTAV"]
+
+  # GTA 6 Account 2 — Dylan Page GTA 6 marathon campaign (from 19.11.2026). English captions, #DylanPage required, no watermark.
+  - id: dylanpage
+    name: Dylan Page
+    short: Dylan
+    platform: youtube
+    channel: "@dylan.page."
+    permission: "Dylan Page GTA 6 marathon clipping campaign"
+    program: "Dylan Page GTA 6 marathon"
+    sponsored: false
+    enabled: true            # checked every 30 min while the marathon runs
+    hashtags: ["#DylanPage", "#GTA6"]
