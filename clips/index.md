@@ -1,9 +1,15 @@
 # GTA 6 clips — newest first
 
-_Updated 23 Nov 2026 23:59 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 00:08 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
+
+### 24/11/2026 00:00–01:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 68 | CaseOh | #GTA6 Hospital scramble spirals out of control | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0003_s068_caseoh_p15.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0003_s068_caseoh_p15.txt) |
 
 ### 23/11/2026 23:00–00:00 CET
 
