@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 23 Nov 2026 22:25 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 23 Nov 2026 22:26 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,6 +9,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 88 | Kai Cenat | #GTA6 Chaos: Kai’s Hunt for the Mystery House | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2225_s088_kaicenat_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2225_s088_kaicenat_p03.txt) |
 | 🔥 **POST THESE** | 84 | Kai Cenat | #GTA6 Kai's $50K hustle in Vice City | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2223_s084_kaicenat_p01.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2223_s084_kaicenat_p01.txt) |
 | 🔥 **POST THESE** | 83 | Kai Cenat | Kai's fresh look before the grind #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2224_s083_kaicenat_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261123/20261123-2224_s083_kaicenat_p02.txt) |
 
