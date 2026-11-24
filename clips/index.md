@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 20:33 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 20:34 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -13,6 +13,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 65 | Kai Cenat | #GTA6 chaotic glitch moment | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2009_s065_kaicenat_p35.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2009_s065_kaicenat_p35.txt) |
 | 🔥 **POST THESE** | 65 | ohnePixel | #GTA6 Launch Day Chaos: Unexpected Teleport! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2001_s065_ohnepixel_p56.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2001_s065_ohnepixel_p56.txt) |
 |  | 64 | Kai Cenat | #GTA6 Van Heist Debate – Kai Weighs the Payoff | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2022_s064_kaicenat_p38.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2022_s064_kaicenat_p38.txt) |
+|  | 63 | ohnePixel | Pixel's NFT frenzy #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2033_s063_ohnepixel_p64.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2033_s063_ohnepixel_p64.txt) |
 |  | 63 | Kai Cenat | #GTA6 Live: Kai spots $183k in the heist! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2001_s063_kaicenat_p33.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2001_s063_kaicenat_p33.txt) |
 |  | 61 | ohnePixel | Pixel's sticky bomb showdown #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2021_s061_ohnepixel_p60.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2021_s061_ohnepixel_p60.txt) |
 |  | 61 | Kai Cenat | #GTA6 Kai's explosive moment! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2011_s061_kaicenat_p36.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2011_s061_kaicenat_p36.txt) |
