@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 21:10 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 21:16 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,9 +9,10 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 66 | ohnePixel | Pixel’s frantic restart in Vice City #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2107_s066_ohnepixel_p71.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2107_s066_ohnepixel_p71.txt) |
 | 🔥 **POST THESE** | 64 | Kai Cenat | #GTA6 Chaos: Kai pleads for mercy as enemies swarm | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2101_s064_kaicenat_p45.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2101_s064_kaicenat_p45.txt) |
 | 🔥 **POST THESE** | 62 | Kai Cenat | #GTA6 Kai's risky double‑bank plan | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2100_s062_kaicenat_p46.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2100_s062_kaicenat_p46.txt) |
-| 🔥 **POST THESE** | 60 | ohnePixel | #GTA6 Vice City chase erupts as Pixel faces three stars | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2100_s060_ohnepixel_p70.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2100_s060_ohnepixel_p70.txt) |
+|  | 60 | ohnePixel | #GTA6 Vice City chase erupts as Pixel faces three stars | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2100_s060_ohnepixel_p70.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2100_s060_ohnepixel_p70.txt) |
 
 ### 24/11/2026 20:00–21:00 CET
 
