@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 04:20 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 04:21 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -11,6 +11,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 61 | CaseOh | #GTA6 Chaos Unleashed: Safe Gone Wrong | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0413_s061_caseoh_p01.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0413_s061_caseoh_p01.txt) |
 | 🔥 **POST THESE** | 60 | CaseOh | #GTA6 Vault Dilemma – Stay or Run? | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0407_s060_caseoh_p61.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0407_s060_caseoh_p61.txt) |
+|  | 57 | CaseOh | #GTA6 Safe discovery turns chaotic | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0416_s057_caseoh_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0416_s057_caseoh_p02.txt) |
 |  | 34 | CaseOh | #GTA6: Vault Dilemma on Launch Day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0408_s034_caseoh_p62.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0408_s034_caseoh_p62.txt) |
 
 ### 24/11/2026 03:00–04:00 CET
