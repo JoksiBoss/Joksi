@@ -1,9 +1,15 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 18:03 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 18:13 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
+
+### 24/11/2026 18:00–19:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 59 | ohnePixel | #GTA6 Launch Day Mayhem – Pixel's Fast Move | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1804_s059_ohnepixel_p34.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1804_s059_ohnepixel_p34.txt) |
 
 ### 24/11/2026 17:00–18:00 CET
 
