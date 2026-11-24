@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 07:20 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 07:21 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -13,6 +13,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 60 | CaseOh | Chasing the Canon Ending in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0714_s060_caseoh_p35.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0714_s060_caseoh_p35.txt) |
 |  | 53 | CaseOh | Unexpected obstacle shocks CaseOh #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0700_s053_caseoh_p34.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0700_s053_caseoh_p34.txt) |
 |  | 51 | CaseOh | #GTA6 chaotic block moment! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0700_s051_caseoh_p32.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0700_s051_caseoh_p32.txt) |
+|  | 47 | CaseOh | CaseOh: "Search all the endings some are pretty bad" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0710_s047_caseoh_p36.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0710_s047_caseoh_p36.txt) |
 
 ### 24/11/2026 06:00–07:00 CET
 
