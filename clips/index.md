@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 04:50 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 04:51 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -15,6 +15,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 55 | CaseOh | #GTA6 Chaotic Outfit Switch! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0425_s055_caseoh_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0425_s055_caseoh_p04.txt) |
 |  | 50 | CaseOh | #GTA6 Shoe Store Standoff – What Happens Next? | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0420_s050_caseoh_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0420_s050_caseoh_p03.txt) |
 |  | 49 | CaseOh | CaseOh: "Just believe in a chat just believe" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0446_s049_caseoh_p07.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0446_s049_caseoh_p07.txt) |
+|  | 49 | CaseOh | CaseOh Went Full GTA Mode #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0443_s049_caseoh_p08.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0443_s049_caseoh_p08.txt) |
 |  | 49 | CaseOh | CaseOh: "We'll be in the same place" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0434_s049_caseoh_p05.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0434_s049_caseoh_p05.txt) |
 |  | 48 | CaseOh | CaseOh: "I'm gonna be sucking crap in your kitchen" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0437_s048_caseoh_p06.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0437_s048_caseoh_p06.txt) |
 |  | 34 | CaseOh | #GTA6: Vault Dilemma on Launch Day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0408_s034_caseoh_p62.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0408_s034_caseoh_p62.txt) |
