@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 22:00 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 22:06 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -10,8 +10,9 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 81 | Kai Cenat | #GTA6 Chaos: Unexpected Wall Collapse! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2137_s081_kaicenat_p51.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2137_s081_kaicenat_p51.txt) |
+| 🔥 **POST THESE** | 76 | ohnePixel | #GTA6 Chaos: Pixel tests a knife on a strange inflatable! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2156_s076_ohnepixel_p81.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2156_s076_ohnepixel_p81.txt) |
 | 🔥 **POST THESE** | 72 | ohnePixel | #GTA6 Pixel uncovers a cryptic message | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2150_s072_ohnepixel_p79.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2150_s072_ohnepixel_p79.txt) |
-| 🔥 **POST THESE** | 71 | Kai Cenat | #GTA6 Kai’s comeback moment | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2149_s071_kaicenat_p55.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2149_s071_kaicenat_p55.txt) |
+|  | 71 | Kai Cenat | #GTA6 Kai’s comeback moment | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2149_s071_kaicenat_p55.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2149_s071_kaicenat_p55.txt) |
 |  | 69 | Kai Cenat | Day 1 Chaos: Kai debates a missed bank heist #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2142_s069_kaicenat_p53.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2142_s069_kaicenat_p53.txt) |
 |  | 67 | Kai Cenat | #GTA6 Chaos: Sticky Bombs Fail in Vice City | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2122_s067_kaicenat_p49.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2122_s067_kaicenat_p49.txt) |
 |  | 66 | ohnePixel | Pixel’s frantic restart in Vice City #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2107_s066_ohnepixel_p71.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2107_s066_ohnepixel_p71.txt) |
