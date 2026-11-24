@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 03:48 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 03:58 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -13,6 +13,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 51 | CaseOh | #GTA6 Launch Day Chaos: Safe Grab Under Fire | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0316_s051_caseoh_p52.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0316_s051_caseoh_p52.txt) |
 |  | 50 | CaseOh | #GTA6 chaotic bag grab | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0341_s050_caseoh_p57.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0341_s050_caseoh_p57.txt) |
 |  | 49 | CaseOh | #GTA6 Launch Day Chaos: The Big Sack Grab | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0317_s049_caseoh_p53.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0317_s049_caseoh_p53.txt) |
+|  | 46 | CaseOh | CaseOh: "We're gonna get our helicopters in it" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0354_s046_caseoh_p59.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0354_s046_caseoh_p59.txt) |
 |  | 46 | CaseOh | CaseOh: "We're not in danger to society!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0345_s046_caseoh_p58.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0345_s046_caseoh_p58.txt) |
 |  | 43 | CaseOh | CaseOh's Reaction Is Everything #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0328_s043_caseoh_p55.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0328_s043_caseoh_p55.txt) |
 |  | 43 | CaseOh | CaseOh's Reaction Is Everything #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0320_s043_caseoh_p54.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0320_s043_caseoh_p54.txt) |
