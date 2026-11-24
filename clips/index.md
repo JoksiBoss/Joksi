@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 05:51 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 06:00 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -18,6 +18,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 54 | CaseOh | CaseOh's Reaction Is Everything #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0531_s054_caseoh_p18.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0531_s054_caseoh_p18.txt) |
 |  | 54 | CaseOh | #GTA6 Money Mayhem in Vice City! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0502_s054_caseoh_p12.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0502_s054_caseoh_p12.txt) |
 |  | 51 | CaseOh | #GTA6 Bank Heist Panic – Take Off! Move! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0510_s051_caseoh_p11.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0510_s051_caseoh_p11.txt) |
+|  | 49 | CaseOh | CaseOh: "I do take pleasure in your work" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0558_s049_caseoh_p21.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0558_s049_caseoh_p21.txt) |
 |  | 46 | CaseOh | CaseOh: "But you're going to miss it" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0548_s046_caseoh_p20.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0548_s046_caseoh_p20.txt) |
 
 ### 24/11/2026 04:00–05:00 CET
