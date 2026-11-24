@@ -14,6 +14,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 61 | Kai Cenat | #GTA6 Kai’s comeback plan | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2213_s061_kaicenat_p59.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2213_s061_kaicenat_p59.txt) |
 |  | 58 | Kai Cenat | Kai: "It's over GGs" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2216_s058_kaicenat_p60.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2216_s058_kaicenat_p60.txt) |
 |  | 53 | Kai Cenat | Kai: "I think the big first" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2219_s053_kaicenat_p61.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2219_s053_kaicenat_p61.txt) |
+|  | 52 | Kai Cenat | Kai: "It's almost killed me!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2220_s052_kaicenat_p62.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2220_s052_kaicenat_p62.txt) |
 |  | 50 | ohnePixel | Pixel reveals 40k & 100k heists #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2206_s050_ohnepixel_p83.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2206_s050_ohnepixel_p83.txt) |
 
 ### 24/11/2026 21:00–22:00 CET
