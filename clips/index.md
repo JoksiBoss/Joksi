@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 13:51 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 13:52 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -13,6 +13,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 88 | Kai Cenat | #GTA6 Kai's chaotic mid‑floor adventure | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1347_s088_kaicenat_p06.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1347_s088_kaicenat_p06.txt) |
 | 🔥 **POST THESE** | 88 | Kai Cenat | #GTA6 Kai demands the ultimate ride with nitro | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1347_s088_kaicenat_p07.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1347_s088_kaicenat_p07.txt) |
 |  | 88 | Kai Cenat | #GTA6 Hospital Chaos on Launch Day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1346_s088_kaicenat_p05.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1346_s088_kaicenat_p05.txt) |
+|  | 87 | Kai Cenat | #GTA6 Launch Day Chaos: Kai's Bank Plan | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1351_s087_kaicenat_p15.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1351_s087_kaicenat_p15.txt) |
 |  | 87 | Kai Cenat | Kai's chaotic chase on launch day #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1344_s087_kaicenat_p01.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1344_s087_kaicenat_p01.txt) |
 |  | 86 | Kai Cenat | #GTA6 Launch Day: Kai's 3‑Night Sleep Plan | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1348_s086_kaicenat_p09.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1348_s086_kaicenat_p09.txt) |
 |  | 84 | Kai Cenat | #GTA6 Launch Mayhem: Kai's Car Trouble | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1348_s084_kaicenat_p08.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1348_s084_kaicenat_p08.txt) |
