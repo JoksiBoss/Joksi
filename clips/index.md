@@ -10,6 +10,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 57 | CaseOh | #GTA6 Launch Day: Explosive Store Run | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0201_s057_caseoh_p38.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0201_s057_caseoh_p38.txt) |
+| 🔥 **POST THESE** | 51 | CaseOh | #GTA6 Silent Search for Explosives | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0203_s051_caseoh_p39.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0203_s051_caseoh_p39.txt) |
 
 ### 24/11/2026 01:00–02:00 CET
 
