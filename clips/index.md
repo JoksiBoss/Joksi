@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 21:20 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 21:26 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -11,7 +11,8 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 66 | ohnePixel | Pixel’s frantic restart in Vice City #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2107_s066_ohnepixel_p71.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2107_s066_ohnepixel_p71.txt) |
 | 🔥 **POST THESE** | 64 | Kai Cenat | #GTA6 Chaos: Kai pleads for mercy as enemies swarm | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2101_s064_kaicenat_p45.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2101_s064_kaicenat_p45.txt) |
-| 🔥 **POST THESE** | 63 | ohnePixel | Pixel's chaotic car drop and casino curiosity #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2112_s063_ohnepixel_p72.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2112_s063_ohnepixel_p72.txt) |
+| 🔥 **POST THESE** | 63 | ohnePixel | Pixel's scrap grab #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2118_s063_ohnepixel_p73.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2118_s063_ohnepixel_p73.txt) |
+|  | 63 | ohnePixel | Pixel's chaotic car drop and casino curiosity #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2112_s063_ohnepixel_p72.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2112_s063_ohnepixel_p72.txt) |
 |  | 62 | Kai Cenat | #GTA6 Kai's risky double‑bank plan | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2100_s062_kaicenat_p46.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2100_s062_kaicenat_p46.txt) |
 |  | 60 | ohnePixel | #GTA6 Vice City chase erupts as Pixel faces three stars | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2100_s060_ohnepixel_p70.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2100_s060_ohnepixel_p70.txt) |
 |  | 59 | Kai Cenat | #GTA6 Chaos: Kai's Jammer Decision | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2113_s059_kaicenat_p47.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2113_s059_kaicenat_p47.txt) |
