@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 18:53 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 18:54 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -12,6 +12,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 76 | ohnePixel | #GTA6 Launch Day Chaos: Pixel Stops the Cops | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1831_s076_ohnepixel_p38.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1831_s076_ohnepixel_p38.txt) |
 | 🔥 **POST THESE** | 71 | ohnePixel | Pixel’s odd off‑stream chat #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1823_s071_ohnepixel_p39.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1823_s071_ohnepixel_p39.txt) |
 | 🔥 **POST THESE** | 70 | ohnePixel | #GTA6 Launch Day Chaos – Pixel’s Bold Store Grab | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1852_s070_ohnepixel_p42.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1852_s070_ohnepixel_p42.txt) |
+|  | 70 | ohnePixel | #GTA6 Launch Day Mayhem – Pixel’s Heist Panic | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1850_s070_ohnepixel_p43.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1850_s070_ohnepixel_p43.txt) |
 |  | 64 | ohnePixel | Pixel's Karekatu Amor dilemma #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1839_s064_ohnepixel_p40.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1839_s064_ohnepixel_p40.txt) |
 |  | 62 | ohnePixel | #GTA6 Launch Day Chaos with Pixel | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1842_s062_ohnepixel_p41.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1842_s062_ohnepixel_p41.txt) |
 |  | 61 | ohnePixel | #GTA6 Crazy Bot Fight on Launch Day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1815_s061_ohnepixel_p36.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1815_s061_ohnepixel_p36.txt) |
