@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 06:30 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 06:40 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -14,6 +14,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 53 | CaseOh | #GTA6 Party Chaos on Launch Day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0606_s053_caseoh_p24.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0606_s053_caseoh_p24.txt) |
 |  | 51 | CaseOh | #GTA6 Warzone Escape Chaos | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0619_s051_caseoh_p25.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0619_s051_caseoh_p25.txt) |
 |  | 50 | CaseOh | CaseOh's Reaction Is Everything #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0617_s050_caseoh_p26.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0617_s050_caseoh_p26.txt) |
+|  | 46 | CaseOh | CaseOh: "Yo this is cinema!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0631_s046_caseoh_p28.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0631_s046_caseoh_p28.txt) |
 
 ### 24/11/2026 05:00–06:00 CET
 
