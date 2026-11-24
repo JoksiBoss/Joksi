@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 13:45 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 13:46 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -11,7 +11,8 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 87 | Kai Cenat | Kai's chaotic chase on launch day #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1344_s087_kaicenat_p01.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1344_s087_kaicenat_p01.txt) |
 | 🔥 **POST THESE** | 79 | Kai Cenat | #GTA6 Kai's tasty break on launch day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1345_s079_kaicenat_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1345_s079_kaicenat_p03.txt) |
-| 🔥 **POST THESE** | 72 | Kai Cenat | #GTA6 Police showdown on launch day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1344_s072_kaicenat_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1344_s072_kaicenat_p02.txt) |
+| 🔥 **POST THESE** | 74 | Kai Cenat | #GTA6 Kai's tense hunt for a fort on launch day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1345_s074_kaicenat_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1345_s074_kaicenat_p04.txt) |
+|  | 72 | Kai Cenat | #GTA6 Police showdown on launch day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1344_s072_kaicenat_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1344_s072_kaicenat_p02.txt) |
 
 ### 24/11/2026 07:00–08:00 CET
 
