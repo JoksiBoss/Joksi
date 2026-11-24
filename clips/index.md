@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 20:23 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 20:29 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,9 +9,10 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 65 | Kai Cenat | #GTA6 Unexpected glitch shakes Kai's heist | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2020_s065_kaicenat_p37.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2020_s065_kaicenat_p37.txt) |
 | 🔥 **POST THESE** | 65 | Kai Cenat | #GTA6 chaotic glitch moment | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2009_s065_kaicenat_p35.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2009_s065_kaicenat_p35.txt) |
 | 🔥 **POST THESE** | 65 | ohnePixel | #GTA6 Launch Day Chaos: Unexpected Teleport! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2001_s065_ohnepixel_p56.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2001_s065_ohnepixel_p56.txt) |
-| 🔥 **POST THESE** | 63 | Kai Cenat | #GTA6 Live: Kai spots $183k in the heist! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2001_s063_kaicenat_p33.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2001_s063_kaicenat_p33.txt) |
+|  | 63 | Kai Cenat | #GTA6 Live: Kai spots $183k in the heist! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2001_s063_kaicenat_p33.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2001_s063_kaicenat_p33.txt) |
 |  | 61 | ohnePixel | Pixel's sticky bomb showdown #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2021_s061_ohnepixel_p60.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2021_s061_ohnepixel_p60.txt) |
 |  | 61 | Kai Cenat | #GTA6 Kai's explosive moment! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2011_s061_kaicenat_p36.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2011_s061_kaicenat_p36.txt) |
 |  | 60 | ohnePixel | #GTA6 Pixel's explosive $45k plan on launch day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2005_s060_ohnepixel_p58.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2005_s060_ohnepixel_p58.txt) |
