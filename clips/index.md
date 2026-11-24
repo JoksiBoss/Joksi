@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 05:00 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 05:01 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -13,6 +13,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 61 | CaseOh | #GTA6 Chaos Unleashed: Safe Gone Wrong | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0413_s061_caseoh_p01.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0413_s061_caseoh_p01.txt) |
 | 🔥 **POST THESE** | 60 | CaseOh | #GTA6 Vault Dilemma – Stay or Run? | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0407_s060_caseoh_p61.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0407_s060_caseoh_p61.txt) |
 |  | 57 | CaseOh | #GTA6 Safe discovery turns chaotic | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0416_s057_caseoh_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0416_s057_caseoh_p02.txt) |
+|  | 56 | CaseOh | CaseOh: "We can't sell the cars anymore bro" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0452_s056_caseoh_p10.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0452_s056_caseoh_p10.txt) |
 |  | 55 | CaseOh | #GTA6 Chaotic Outfit Switch! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0425_s055_caseoh_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0425_s055_caseoh_p04.txt) |
 |  | 50 | CaseOh | #GTA6 Shoe Store Standoff – What Happens Next? | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0420_s050_caseoh_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0420_s050_caseoh_p03.txt) |
 |  | 49 | CaseOh | CaseOh: "Just believe in a chat just believe" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0446_s049_caseoh_p07.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0446_s049_caseoh_p07.txt) |
