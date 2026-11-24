@@ -1,9 +1,15 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 22:59 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 23:09 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
+
+### 24/11/2026 23:00–00:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 63 | Kai Cenat | #GTA6: Kai's risky decision on the truck run | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2302_s063_kaicenat_p69.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2302_s063_kaicenat_p69.txt) |
 
 ### 24/11/2026 22:00–23:00 CET
 
