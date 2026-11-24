@@ -158,9 +158,9 @@ creators:
     short: Monte
     platform: twitch
     channel: montanablack88
-    permission: "none"        # TODO: set to the permission source once confirmed, then enabled: true
+    permission: "Direct permission from MontanaBlack"
     sponsored: false
-    enabled: false
+    enabled: true             # clip live when he streams GTA 6
     account: 3
     game: "GTA 6"
     language: de
