@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 19:59 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 20:00 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -22,6 +22,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 63 | ohnePixel | #GTA6 Launch Day Chaos: 40k Pending! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1900_s063_ohnepixel_p45.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1900_s063_ohnepixel_p45.txt) |
 |  | 59 | Kai Cenat | #GTA6 Loot Reveal Madness | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1938_s059_kaicenat_p27.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1938_s059_kaicenat_p27.txt) |
 |  | 58 | ohnePixel | Pixel: "I'm being that ass you got this" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1950_s058_ohnepixel_p55.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1950_s058_ohnepixel_p55.txt) |
+|  | 56 | Kai Cenat | Kai: "We need Lucia on the LMG" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1953_s056_kaicenat_p32.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1953_s056_kaicenat_p32.txt) |
 |  | 56 | Kai Cenat | #GTA6 Stream Quality Clash – Kai Reacts | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1939_s056_kaicenat_p29.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1939_s056_kaicenat_p29.txt) |
 |  | 56 | Kai Cenat | #GTA6 Bank Standoff – Kai's risky pause | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1930_s056_kaicenat_p28.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1930_s056_kaicenat_p28.txt) |
 |  | 53 | ohnePixel | Pixel: "Chad ribbing so fucking product of right now" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1940_s053_ohnepixel_p52.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1940_s053_ohnepixel_p52.txt) |
