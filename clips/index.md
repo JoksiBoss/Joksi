@@ -10,6 +10,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 57 | CaseOh | #GTA6 Old House Money Reveal | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0108_s057_caseoh_p26.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0108_s057_caseoh_p26.txt) |
+| 🔥 **POST THESE** | 55 | CaseOh | #GTA6 Launch Day Chaos: Paying the Fee | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0106_s055_caseoh_p27.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0106_s055_caseoh_p27.txt) |
 
 ### 24/11/2026 00:00–01:00 CET
 
