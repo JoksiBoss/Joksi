@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 07:21 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 07:30 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,6 +9,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 64 | CaseOh | #GTA6 True Ending Theory with CaseOh | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0725_s064_caseoh_p37.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0725_s064_caseoh_p37.txt) |
 | 🔥 **POST THESE** | 62 | CaseOh | #GTA6 Shocked by the Wrong Ending – What Now? | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0706_s062_caseoh_p33.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0706_s062_caseoh_p33.txt) |
 | 🔥 **POST THESE** | 60 | CaseOh | Chasing the Canon Ending in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0714_s060_caseoh_p35.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0714_s060_caseoh_p35.txt) |
 |  | 53 | CaseOh | Unexpected obstacle shocks CaseOh #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0700_s053_caseoh_p34.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0700_s053_caseoh_p34.txt) |
