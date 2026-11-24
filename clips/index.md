@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 22:19 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 22:20 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -12,6 +12,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 70 | Kai Cenat | #GTA6 Chaos: Kai's bike burglary panic | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2202_s070_kaicenat_p57.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2202_s070_kaicenat_p57.txt) |
 | 🔥 **POST THESE** | 62 | Kai Cenat | #GTA6 Kai's tense showdown on launch day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2200_s062_kaicenat_p58.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2200_s062_kaicenat_p58.txt) |
 | 🔥 **POST THESE** | 61 | Kai Cenat | #GTA6 Kai’s comeback plan | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2213_s061_kaicenat_p59.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2213_s061_kaicenat_p59.txt) |
+|  | 58 | Kai Cenat | Kai: "It's over GGs" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2216_s058_kaicenat_p60.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2216_s058_kaicenat_p60.txt) |
 |  | 50 | ohnePixel | Pixel reveals 40k & 100k heists #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2206_s050_ohnepixel_p83.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2206_s050_ohnepixel_p83.txt) |
 
 ### 24/11/2026 21:00–22:00 CET
