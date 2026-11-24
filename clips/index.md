@@ -1,9 +1,15 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 01:58 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 02:08 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
+
+### 24/11/2026 02:00–03:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 57 | CaseOh | #GTA6 Launch Day: Explosive Store Run | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0201_s057_caseoh_p38.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0201_s057_caseoh_p38.txt) |
 
 ### 24/11/2026 01:00–02:00 CET
 
