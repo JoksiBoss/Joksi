@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 19:29 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 19:30 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -16,6 +16,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 66 | ohnePixel | #GTA6 Launch Day Chaos: Pixel's Unexpected Pause | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1919_s066_ohnepixel_p49.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1919_s066_ohnepixel_p49.txt) |
 |  | 63 | ohnePixel | #GTA6 Outfit Drama: Pixel’s Warm-Up | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1903_s063_ohnepixel_p47.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1903_s063_ohnepixel_p47.txt) |
 |  | 63 | ohnePixel | #GTA6 Launch Day Chaos: 40k Pending! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1900_s063_ohnepixel_p45.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1900_s063_ohnepixel_p45.txt) |
+|  | 49 | Kai Cenat | #GTA6 Live: Kai Secures the Heist Loot | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1926_s049_kaicenat_p26.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1926_s049_kaicenat_p26.txt) |
 
 ### 24/11/2026 18:00–19:00 CET
 
