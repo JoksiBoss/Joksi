@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 15:53 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 16:03 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -10,7 +10,8 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 57 | ohnePixel | Pixel's impromptu GTA 6 workout #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1532_s057_ohnepixel_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1532_s057_ohnepixel_p03.txt) |
-| 🔥 **POST THESE** | 54 | ohnePixel | Pixel's genta hunt in #GTA6 launch day chaos | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1547_s054_ohnepixel_p07.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1547_s054_ohnepixel_p07.txt) |
+| 🔥 **POST THESE** | 55 | ohnePixel | #GTA6 Launch Day: Maxed Relationship Madness | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1555_s055_ohnepixel_p09.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1555_s055_ohnepixel_p09.txt) |
+|  | 54 | ohnePixel | Pixel's genta hunt in #GTA6 launch day chaos | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1547_s054_ohnepixel_p07.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1547_s054_ohnepixel_p07.txt) |
 |  | 54 | ohnePixel | Pixel's wild workout glitch #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1533_s054_ohnepixel_p05.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1533_s054_ohnepixel_p05.txt) |
 |  | 53 | ohnePixel | Pixel: "Wait I know her" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1550_s053_ohnepixel_p08.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1550_s053_ohnepixel_p08.txt) |
 |  | 52 | ohnePixel | Pixel's club hunt on launch day #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1537_s052_ohnepixel_p06.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1537_s052_ohnepixel_p06.txt) |
