@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 22:29 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 22:39 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,9 +9,10 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 79 | Kai Cenat | #GTA6 Kai races to dock and head back to the city | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2238_s079_kaicenat_p63.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2238_s079_kaicenat_p63.txt) |
 | 🔥 **POST THESE** | 70 | Kai Cenat | #GTA6 Chaos: Kai's bike burglary panic | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2202_s070_kaicenat_p57.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2202_s070_kaicenat_p57.txt) |
 | 🔥 **POST THESE** | 62 | Kai Cenat | #GTA6 Kai's tense showdown on launch day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2200_s062_kaicenat_p58.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2200_s062_kaicenat_p58.txt) |
-| 🔥 **POST THESE** | 61 | Kai Cenat | #GTA6 Kai’s comeback plan | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2213_s061_kaicenat_p59.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2213_s061_kaicenat_p59.txt) |
+|  | 61 | Kai Cenat | #GTA6 Kai’s comeback plan | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2213_s061_kaicenat_p59.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2213_s061_kaicenat_p59.txt) |
 |  | 58 | Kai Cenat | Kai: "It's over GGs" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2216_s058_kaicenat_p60.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2216_s058_kaicenat_p60.txt) |
 |  | 53 | Kai Cenat | Kai: "I think the big first" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2219_s053_kaicenat_p61.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2219_s053_kaicenat_p61.txt) |
 |  | 52 | Kai Cenat | Kai: "It's almost killed me!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2220_s052_kaicenat_p62.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2220_s052_kaicenat_p62.txt) |
