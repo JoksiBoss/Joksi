@@ -25,6 +25,18 @@ creators:
     vods: "https://www.youtube.com/@KaiCenatLive/streams"
     hashtags: ["#KaiCenat"]
 
+  - id: ohnepixel
+    name: ohnePixel
+    short: Pixel
+    platform: twitch
+    channel: ohnepixel
+    permission: "direct"              # added for Account 1 on Teodor's request (24.11)
+    sponsored: false
+    enabled: true                     # clip live when he streams GTA 6
+    account: 1                        # GTA 6 Account 1 = Metricool brand "Vice City Clipz"
+    game: "GTA 6"
+    hashtags: ["#ohnePixel"]
+
   - id: ishowspeed
     name: IShowSpeed
     short: Speed
