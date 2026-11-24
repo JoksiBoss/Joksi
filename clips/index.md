@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 15:43 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 15:44 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -11,6 +11,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 57 | ohnePixel | Pixel's impromptu GTA 6 workout #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1532_s057_ohnepixel_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1532_s057_ohnepixel_p03.txt) |
 | 🔥 **POST THESE** | 54 | ohnePixel | Pixel's wild workout glitch #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1533_s054_ohnepixel_p05.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1533_s054_ohnepixel_p05.txt) |
+|  | 52 | ohnePixel | Pixel's club hunt on launch day #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1537_s052_ohnepixel_p06.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1537_s052_ohnepixel_p06.txt) |
 |  | 50 | ohnePixel | #GTA6 Pixel battles a sudden robbery! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1526_s050_ohnepixel_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1526_s050_ohnepixel_p04.txt) |
 |  | 50 | ohnePixel | #GTA6 Launch Day: Pixel shares a surprise hair tip! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1521_s050_ohnepixel_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1521_s050_ohnepixel_p02.txt) |
 |  | 50 | ohnePixel | Pixel's eye‑tracker driving test #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1517_s050_ohnepixel_p01.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1517_s050_ohnepixel_p01.txt) |
