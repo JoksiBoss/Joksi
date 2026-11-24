@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 05:20 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 05:21 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -10,7 +10,8 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 72 | CaseOh | #GTA6 Heist Rush: Car Chaos Before the Bank | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0516_s072_caseoh_p13.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0516_s072_caseoh_p13.txt) |
-| 🔥 **POST THESE** | 54 | CaseOh | #GTA6 Money Mayhem in Vice City! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0502_s054_caseoh_p12.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0502_s054_caseoh_p12.txt) |
+| 🔥 **POST THESE** | 56 | CaseOh | #GTA6 Heist Rush: Targeting the Security Van | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0514_s056_caseoh_p14.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0514_s056_caseoh_p14.txt) |
+|  | 54 | CaseOh | #GTA6 Money Mayhem in Vice City! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0502_s054_caseoh_p12.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0502_s054_caseoh_p12.txt) |
 |  | 51 | CaseOh | #GTA6 Bank Heist Panic – Take Off! Move! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0510_s051_caseoh_p11.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0510_s051_caseoh_p11.txt) |
 
 ### 24/11/2026 04:00–05:00 CET
