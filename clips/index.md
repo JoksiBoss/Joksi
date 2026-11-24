@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 20:56 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 20:59 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,9 +9,10 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 67 | Kai Cenat | #GTA6 Chaos: Kai's high‑speed escape attempt | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2054_s067_kaicenat_p43.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2054_s067_kaicenat_p43.txt) |
 | 🔥 **POST THESE** | 66 | ohnePixel | #GTA6 Pixel's wild tow attempt! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2047_s066_ohnepixel_p67.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2047_s066_ohnepixel_p67.txt) |
 | 🔥 **POST THESE** | 66 | Kai Cenat | Kai's explosive gas station stunt #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2044_s066_kaicenat_p41.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2044_s066_kaicenat_p41.txt) |
-| 🔥 **POST THESE** | 66 | Kai Cenat | #GTA6 Live: Kai's surprise outfit change | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2038_s066_kaicenat_p39.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2038_s066_kaicenat_p39.txt) |
+|  | 66 | Kai Cenat | #GTA6 Live: Kai's surprise outfit change | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2038_s066_kaicenat_p39.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2038_s066_kaicenat_p39.txt) |
 |  | 65 | ohnePixel | Pixel picks a GTA 6 bank job #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2036_s065_ohnepixel_p65.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2036_s065_ohnepixel_p65.txt) |
 |  | 65 | Kai Cenat | #GTA6 Unexpected glitch shakes Kai's heist | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2020_s065_kaicenat_p37.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2020_s065_kaicenat_p37.txt) |
 |  | 65 | Kai Cenat | #GTA6 chaotic glitch moment | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2009_s065_kaicenat_p35.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2009_s065_kaicenat_p35.txt) |
