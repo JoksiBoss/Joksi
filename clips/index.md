@@ -35,6 +35,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 51 | Kai Cenat | Kai: "It's gonna be a good robbery" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1946_s051_kaicenat_p30.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1946_s051_kaicenat_p30.txt) |
 |  | 50 | ohnePixel | Pixel: "We couldn't open it" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1933_s050_ohnepixel_p53.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1933_s050_ohnepixel_p53.txt) |
 |  | 49 | Kai Cenat | #GTA6 Live: Kai Secures the Heist Loot | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1926_s049_kaicenat_p26.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1926_s049_kaicenat_p26.txt) |
+|  | 48 | ohnePixel | Pixel: "Please dear please!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1956_s048_ohnepixel_p57.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1956_s048_ohnepixel_p57.txt) |
 
 ### 24/11/2026 18:00–19:00 CET
 
