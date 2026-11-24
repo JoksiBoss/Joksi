@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 16:54 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 17:03 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -10,6 +10,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 76 | ohnePixel | Pixel uncovers secret exit on jet yacht #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1645_s076_ohnepixel_p18.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1645_s076_ohnepixel_p18.txt) |
+| 🔥 **POST THESE** | 70 | ohnePixel | #GTA6 Launch Day Madness: Pixel's Speed Challenge | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1658_s070_ohnepixel_p20.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1658_s070_ohnepixel_p20.txt) |
 | 🔥 **POST THESE** | 60 | ohnePixel | Pixel's chaotic car drop and bag grab! #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1615_s060_ohnepixel_p12.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1615_s060_ohnepixel_p12.txt) |
 |  | 58 | ohnePixel | #GTA6 stealth infiltration surprise | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1641_s058_ohnepixel_p16.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1641_s058_ohnepixel_p16.txt) |
 |  | 56 | ohnePixel | #GTA6 Chaos at the roadblock | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1624_s056_ohnepixel_p14.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1624_s056_ohnepixel_p14.txt) |
