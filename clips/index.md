@@ -12,6 +12,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 57 | CaseOh | #GTA6 Launch Day: Explosive Store Run | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0201_s057_caseoh_p38.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0201_s057_caseoh_p38.txt) |
 | 🔥 **POST THESE** | 51 | CaseOh | #GTA6 Chaos: CaseOh Calls Out Jason Mid‑Heist | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0211_s051_caseoh_p40.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0211_s051_caseoh_p40.txt) |
 |  | 51 | CaseOh | #GTA6 Silent Search for Explosives | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0203_s051_caseoh_p39.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0203_s051_caseoh_p39.txt) |
+|  | 50 | CaseOh | CaseOh: "They're not they're not bad criminals" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0208_s050_caseoh_p41.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0208_s050_caseoh_p41.txt) |
 
 ### 24/11/2026 01:00–02:00 CET
 
