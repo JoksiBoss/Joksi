@@ -10,6 +10,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 60 | CaseOh | #GTA6 Vault Dilemma – Stay or Run? | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0407_s060_caseoh_p61.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0407_s060_caseoh_p61.txt) |
+| 🔥 **POST THESE** | 34 | CaseOh | #GTA6: Vault Dilemma on Launch Day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0408_s034_caseoh_p62.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0408_s034_caseoh_p62.txt) |
 
 ### 24/11/2026 03:00–04:00 CET
 
