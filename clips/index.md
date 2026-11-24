@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 13:49 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 13:50 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -16,6 +16,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 86 | Kai Cenat | #GTA6 Launch Day: Kai's 3‑Night Sleep Plan | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1348_s086_kaicenat_p09.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1348_s086_kaicenat_p09.txt) |
 |  | 84 | Kai Cenat | #GTA6 Launch Mayhem: Kai's Car Trouble | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1348_s084_kaicenat_p08.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1348_s084_kaicenat_p08.txt) |
 |  | 83 | Kai Cenat | Kai's Sleep Challenge on Launch Day #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1349_s083_kaicenat_p10.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1349_s083_kaicenat_p10.txt) |
+|  | 80 | Kai Cenat | #GTA6 Launch Day Dilemma – Kai's Sleep Debate | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1349_s080_kaicenat_p11.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1349_s080_kaicenat_p11.txt) |
 |  | 79 | Kai Cenat | #GTA6 Kai's tasty break on launch day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1345_s079_kaicenat_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1345_s079_kaicenat_p03.txt) |
 |  | 74 | Kai Cenat | #GTA6 Kai's tense hunt for a fort on launch day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1345_s074_kaicenat_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1345_s074_kaicenat_p04.txt) |
 |  | 72 | Kai Cenat | #GTA6 Police showdown on launch day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1344_s072_kaicenat_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1344_s072_kaicenat_p02.txt) |
