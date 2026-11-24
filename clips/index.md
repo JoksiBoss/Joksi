@@ -19,6 +19,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 53 | Kai Cenat | Kai: "I think the big first" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2219_s053_kaicenat_p61.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2219_s053_kaicenat_p61.txt) |
 |  | 52 | Kai Cenat | Kai: "It's almost killed me!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2220_s052_kaicenat_p62.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2220_s052_kaicenat_p62.txt) |
 |  | 50 | ohnePixel | Pixel reveals 40k & 100k heists #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2206_s050_ohnepixel_p83.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2206_s050_ohnepixel_p83.txt) |
+|  | 49 | Kai Cenat | Kai: "Go for another bank right?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2239_s049_kaicenat_p66.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2239_s049_kaicenat_p66.txt) |
 
 ### 24/11/2026 21:00–22:00 CET
 
