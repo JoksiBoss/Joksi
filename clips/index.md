@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 05:41 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 05:50 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,6 +9,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 74 | CaseOh | #GTA6: New Plans After the Heist | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0547_s074_caseoh_p19.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0547_s074_caseoh_p19.txt) |
 | 🔥 **POST THESE** | 72 | CaseOh | #GTA6 Heist Rush: Car Chaos Before the Bank | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0516_s072_caseoh_p13.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0516_s072_caseoh_p13.txt) |
 | 🔥 **POST THESE** | 62 | CaseOh | #GTA6 Bank escape turns into a heated call | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0536_s062_caseoh_p17.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0536_s062_caseoh_p17.txt) |
 |  | 59 | CaseOh | #GTA6 Beach dash on launch day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0522_s059_caseoh_p15.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261124/20261124-0522_s059_caseoh_p15.txt) |
