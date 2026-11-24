@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 03:58 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 04:08 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,8 +9,9 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 68 | CaseOh | #GTA6 Wild Helicopter Chase with CaseOh | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0359_s068_caseoh_p60.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0359_s068_caseoh_p60.txt) |
 | 🔥 **POST THESE** | 60 | CaseOh | #GTA6 Launch Day Bank Heist Talk | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0307_s060_caseoh_p50.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0307_s060_caseoh_p50.txt) |
-| 🔥 **POST THESE** | 51 | CaseOh | #GTA6 Launch Day Chaos: Safe Grab Under Fire | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0316_s051_caseoh_p52.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0316_s051_caseoh_p52.txt) |
+|  | 51 | CaseOh | #GTA6 Launch Day Chaos: Safe Grab Under Fire | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0316_s051_caseoh_p52.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0316_s051_caseoh_p52.txt) |
 |  | 50 | CaseOh | #GTA6 chaotic bag grab | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0341_s050_caseoh_p57.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0341_s050_caseoh_p57.txt) |
 |  | 49 | CaseOh | #GTA6 Launch Day Chaos: The Big Sack Grab | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0317_s049_caseoh_p53.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0317_s049_caseoh_p53.txt) |
 |  | 46 | CaseOh | CaseOh: "We're gonna get our helicopters in it" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0354_s046_caseoh_p59.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0354_s046_caseoh_p59.txt) |
