@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 21:19 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 21:20 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -15,6 +15,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 62 | Kai Cenat | #GTA6 Kai's risky double‑bank plan | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2100_s062_kaicenat_p46.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2100_s062_kaicenat_p46.txt) |
 |  | 60 | ohnePixel | #GTA6 Vice City chase erupts as Pixel faces three stars | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2100_s060_ohnepixel_p70.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2100_s060_ohnepixel_p70.txt) |
 |  | 59 | Kai Cenat | #GTA6 Chaos: Kai's Jammer Decision | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2113_s059_kaicenat_p47.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2113_s059_kaicenat_p47.txt) |
+|  | 58 | Kai Cenat | Kai: "Where's the entrance to the gas station?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2111_s058_kaicenat_p48.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2111_s058_kaicenat_p48.txt) |
 
 ### 24/11/2026 20:00–21:00 CET
 
