@@ -1,9 +1,15 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 04:08 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 04:09 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
+
+### 24/11/2026 04:00–05:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 60 | CaseOh | #GTA6 Vault Dilemma – Stay or Run? | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0407_s060_caseoh_p61.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0407_s060_caseoh_p61.txt) |
 
 ### 24/11/2026 03:00–04:00 CET
 
