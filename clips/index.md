@@ -5,6 +5,12 @@ _Updated 24 Nov 2026 21:06 CET · [All releases](https://github.com/JoksiBoss/Jo
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
+### 24/11/2026 21:00–22:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 60 | ohnePixel | #GTA6 Vice City chase erupts as Pixel faces three stars | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2100_s060_ohnepixel_p70.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2100_s060_ohnepixel_p70.txt) |
+
 ### 24/11/2026 20:00–21:00 CET
 
 | | Score | Creator | Title | Video | Title + description |
