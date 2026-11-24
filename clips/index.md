@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 21:00 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 21:06 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -25,6 +25,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 61 | ohnePixel | Pixel's sticky bomb showdown #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2021_s061_ohnepixel_p60.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2021_s061_ohnepixel_p60.txt) |
 |  | 61 | Kai Cenat | #GTA6 Kai's explosive moment! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2011_s061_kaicenat_p36.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2011_s061_kaicenat_p36.txt) |
 |  | 60 | Kai Cenat | Chaotic Escape: Kai’s Four‑Star Run for Cash #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2057_s060_kaicenat_p44.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2057_s060_kaicenat_p44.txt) |
+|  | 60 | ohnePixel | #GTA6 Pixel's near‑miss on launch day! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2056_s060_ohnepixel_p69.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2056_s060_ohnepixel_p69.txt) |
 |  | 60 | ohnePixel | #GTA6 Pixel's explosive $45k plan on launch day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2005_s060_ohnepixel_p58.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2005_s060_ohnepixel_p58.txt) |
 |  | 59 | Kai Cenat | Kai: "Is there a ATM here?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2046_s059_kaicenat_p42.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2046_s059_kaicenat_p42.txt) |
 |  | 58 | ohnePixel | Pixel: "Oh my god!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2025_s058_ohnepixel_p62.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2025_s058_ohnepixel_p62.txt) |
