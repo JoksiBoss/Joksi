@@ -41,6 +41,8 @@ def load_config():
         # watermark: the creator's own, else the watermark of the GTA 6 account the creator belongs to
         c["watermark"] = str(c.get("watermark") or marks.get(str(c.get("account", "")), "") or "")
         c.setdefault("short", c["name"])
+        # language: force captions + on-screen text language for this creator (e.g. "de"); "" = auto/English
+        c["language"] = str(c.get("language") or "").strip().lower()
         c.setdefault("enabled", False)
         c.setdefault("sponsored", False)
         c.setdefault("permission", "none")

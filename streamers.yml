@@ -10,6 +10,7 @@ defaults:
   account_watermarks:
     1: "@rocketman_vicecity"      # Account 1 = Metricool brand "Vice City Clipz"
     2: "@gta_vicesity_vi"         # Account 2 = Metricool brand "Ludi mak mail - Gta Vici Sity Clipzy"
+    3: "@aspirine_vicecity"       # Account 3 = Metricool brand "Aspirine Vice City - lonarishop"
 
 creators:
   - id: kaicenat
@@ -150,3 +151,17 @@ creators:
     sponsored: false
     enabled: false            # checked every 30 min while the marathon runs
     hashtags: ["#DylanPage", "#GTA6"]
+
+  # GTA 6 Account 3 (Aspirine Vice City). German streamer: captions + on-screen text in German (language: de).
+  - id: montanablack88
+    name: MontanaBlack
+    short: Monte
+    platform: twitch
+    channel: montanablack88
+    permission: "Direct permission from MontanaBlack"
+    sponsored: false
+    enabled: true             # clip live when he streams GTA 6
+    account: 3
+    game: "GTA 6"
+    language: de
+    hashtags: ["#MontanaBlack", "#GTA6Deutsch"]

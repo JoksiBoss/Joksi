@@ -158,7 +158,7 @@ class Clipper:
             return
         work = self.out / "tmp"
         work.mkdir(exist_ok=True)
-        segs = edit.transcribe(seg, start, win_end - start, work)
+        segs = edit.transcribe(seg, start, win_end - start, work, lang=c.get("language") or None)
         p_rel = peak - start
         target = p_rel + tail
         end_rel = target
@@ -179,7 +179,8 @@ class Clipper:
         seed = f"{c['id']}{stamp}{peak}"
         st = story.build(c, segs, p_rel, self.part, seed)
         st = self.add_context(edit, st, seg, seg_wall_start, start, end_rel, peak, score, segs, work)
-        credit = f"Clip: {handle(c)} live on {platform_name(c)}"
+        credit = (f"Clip: {handle(c)} live auf {platform_name(c)}" if c.get("language") == "de"
+                  else f"Clip: {handle(c)} live on {platform_name(c)}")
         stem = f"{stamp}_s{score:03d}_{c['id']}_p{self.part:02d}"
         mp4 = self.out / f"{stem}.mp4"
         edit.render(seg, start, end_rel, mp4, work, st["hook_card"], st["storyline"], credit, words, p_rel, speech,
@@ -221,7 +222,8 @@ class Clipper:
             if clip_t0 - g0 >= 8:
                 t1 = time.time()
                 try:
-                    lead = edit.transcribe(seg, g0 - seg_wall_start, clip_t0 - g0, work, words=False)
+                    lead = edit.transcribe(seg, g0 - seg_wall_start, clip_t0 - g0, work, words=False,
+                                          lang=self.c.get("language") or None)
                     self.session.add_lines(lead, g0)
                     log(f"[ai] lead-in {clip_t0 - g0:.0f}s transcribed in {time.time() - t1:.0f}s")
                 except Exception as e:
@@ -229,7 +231,7 @@ class Clipper:
             lead_text = self.session.lead_text(clip_t0 - CONTEXT_S, clip_t0)
             clip_text = " ".join(s["text"] for s in segs)
             res = ai.generate(self.c["short"], story.day_number(), clip_text, lead_text,
-                              self.session.summaries(), self.session.storyline)
+                              self.session.summaries(), self.session.storyline, language=self.c.get("language", ""))
             self.session.ai_used(t_wall)
             self.session.save()
             return story.apply_ai(st, res) if res else st
@@ -246,9 +248,14 @@ class Clipper:
             lines.append(st["context_card"])
         if st.get("ai_model") and st.get("summary") and st.get("summary") != st.get("context_card"):
             lines.append(st["summary"])
-        lines += [f"{c['name']} in GTA 6 — {st['chapter']} ({st['storyline']})",
-                 f"🎮 Clipped from {c['name']}'s live stream on {platform_name(c)}.",
-                 f"👉 Watch {c['name']} live: {channel_url(c)}"]
+        if c.get("language") == "de":
+            lines += [f"{c['name']} in GTA 6 — {st['chapter']} ({st['storyline']})",
+                      f"🎮 Clip aus dem Livestream von {c['name']} auf {platform_name(c)}.",
+                      f"👉 {c['name']} live: {channel_url(c)}"]
+        else:
+            lines += [f"{c['name']} in GTA 6 — {st['chapter']} ({st['storyline']})",
+                      f"🎮 Clipped from {c['name']}'s live stream on {platform_name(c)}.",
+                      f"👉 Watch {c['name']} live: {channel_url(c)}"]
         if perm.lower() not in ("none", "check-campaign"):
             lines.append(f"✅ Posted under the {program} clipping program.")
         if perm.lower() == "check-campaign":
