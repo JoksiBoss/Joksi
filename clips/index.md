@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 17:13 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 17:14 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -10,6 +10,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 63 | ohnePixel | #GTA6 Launch Day Chaos: Pixel's Shop Showdown | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1710_s063_ohnepixel_p22.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1710_s063_ohnepixel_p22.txt) |
+| 🔥 **POST THESE** | 61 | ohnePixel | Pixel's No‑Kill Challenge #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1712_s061_ohnepixel_p23.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1712_s061_ohnepixel_p23.txt) |
 
 ### 24/11/2026 16:00–17:00 CET
 
