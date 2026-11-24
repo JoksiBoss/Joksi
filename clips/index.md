@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 01:28 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 01:29 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -10,7 +10,8 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 73 | CaseOh | CaseOh's low‑flying stunt earns 4 stars #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0121_s073_caseoh_p30.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0121_s073_caseoh_p30.txt) |
-| 🔥 **POST THESE** | 57 | CaseOh | #GTA6 Old House Money Reveal | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0108_s057_caseoh_p26.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0108_s057_caseoh_p26.txt) |
+| 🔥 **POST THESE** | 63 | CaseOh | #GTA6 chaotic low‑fly chase with Jason | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0122_s063_caseoh_p31.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0122_s063_caseoh_p31.txt) |
+|  | 57 | CaseOh | #GTA6 Old House Money Reveal | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0108_s057_caseoh_p26.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0108_s057_caseoh_p26.txt) |
 |  | 55 | CaseOh | #GTA6 Launch Day Chaos: Paying the Fee | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0106_s055_caseoh_p27.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0106_s055_caseoh_p27.txt) |
 |  | 49 | CaseOh | #GTA6 Launch Day Madness – Tau Mystery! | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0113_s049_caseoh_p28.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0113_s049_caseoh_p28.txt) |
 |  | 49 | CaseOh | #GTA6 Launch Day Madness: Tension Peaks | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0112_s049_caseoh_p29.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0112_s049_caseoh_p29.txt) |
