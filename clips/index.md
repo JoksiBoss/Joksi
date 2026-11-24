@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 02:49 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 02:58 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -16,6 +16,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 57 | CaseOh | #GTA6 Unexpected Cult Encounter | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0237_s057_caseoh_p44.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0237_s057_caseoh_p44.txt) |
 |  | 57 | CaseOh | #GTA6 Launch Day: Explosive Store Run | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0201_s057_caseoh_p38.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0201_s057_caseoh_p38.txt) |
 |  | 52 | CaseOh | CaseOh: "So I gave him 17 solarica gummies" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0234_s052_caseoh_p45.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0234_s052_caseoh_p45.txt) |
+|  | 51 | CaseOh | CaseOh: "This song a bomb by the way" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0256_s051_caseoh_p48.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0256_s051_caseoh_p48.txt) |
 |  | 51 | CaseOh | #GTA6 Chaos: CaseOh Calls Out Jason Mid‑Heist | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0211_s051_caseoh_p40.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0211_s051_caseoh_p40.txt) |
 |  | 51 | CaseOh | #GTA6 Silent Search for Explosives | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0203_s051_caseoh_p39.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0203_s051_caseoh_p39.txt) |
 |  | 50 | CaseOh | CaseOh: "They're not they're not bad criminals" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0208_s050_caseoh_p41.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0208_s050_caseoh_p41.txt) |
