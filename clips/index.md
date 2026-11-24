@@ -11,6 +11,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 60 | ohnePixel | Pixel's chaotic car drop and bag grab! #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1615_s060_ohnepixel_p12.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1615_s060_ohnepixel_p12.txt) |
 | 🔥 **POST THESE** | 54 | ohnePixel | Pixel hits a $1M trunk find on launch day #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1600_s054_ohnepixel_p10.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1600_s054_ohnepixel_p10.txt) |
+|  | 47 | ohnePixel | #GTA6 Pixel’s chaotic car chase | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1614_s047_ohnepixel_p13.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1614_s047_ohnepixel_p13.txt) |
 |  | 44 | ohnePixel | #GTA6 Launch Day Madness: Pixel's Greedy Sprint | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1610_s044_ohnepixel_p11.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1610_s044_ohnepixel_p11.txt) |
 
 ### 24/11/2026 15:00–16:00 CET
