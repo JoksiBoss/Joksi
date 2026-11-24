@@ -19,16 +19,33 @@ THEMES = [
      ["{NAME} CAN'T BELIEVE WHAT JUST HAPPENED", "{NAME} LOST IT IN GTA 6", "GTA 6 BROKE {NAME}", "{NAME}'S REACTION IS EVERYTHING", "{NAME} WAS NOT READY"], "😭"),
 ]
 
+# German streamers (creator `language: de`): German keywords; hooks written in normal case,
+# hook card = UPPER, title = hook + " in GTA 6".
+THEMES_DE = [
+    ("cops", "Polizei", ["polizei", "bullen", "cops", "cop", "sterne", "stern", "verfolgung", "jagd", "sirene", "knast", "gefängnis", "swat", "heli", "festgenommen"],
+     ["{NAME} gegen die Polizei", "{NAME} auf der Flucht", "Die Cops jagen {NAME}", "{NAME} hat 5 Sterne"], "🚔"),
+    ("heist", "Das Geld", ["bank", "überfall", "raub", "rauben", "geld", "kohle", "cash", "tresor", "laden", "kasse", "klauen", "geklaut"],
+     ["{NAME} will die Kohle", "{NAME} auf Raubzug", "{NAME} und das Geld", "{NAME} geht aufs Ganze"], "💰"),
+    ("fight", "Schießerei", ["schießen", "schießt", "waffe", "waffen", "knarre", "tot", "sterben", "gestorben", "kampf", "schlägerei", "schuss", "sniper", "kugel"],
+     ["{NAME} eskaliert komplett", "{NAME} überlebt das nicht", "{NAME} im Full GTA Modus", "{NAME} legt sich falsch an"], "🔫"),
+    ("drive", "Spritztour", ["auto", "autos", "fahren", "fährt", "unfall", "crash", "gecrasht", "flugzeug", "boot", "motorrad", "sprung", "rampe", "rennen"],
+     ["{NAME} kann nicht fahren", "{NAME}s krassester Crash", "{NAME} am Steuer", "{NAME} nimmt die Abkürzung"], "🚗"),
+    ("story", "Jason & Lucia", ["lucia", "jason", "freundin", "freund", "mission", "cutscene", "story", "geschichte"],
+     ["{NAME} reagiert auf GTA 6", "Diese Mission zerstört {NAME}", "{NAME} war nicht bereit"], "🎬"),
+    ("wild", "Verrückte Momente", ["was", "alter", "digga", "junge", "nein", "krass", "wtf", "warte", "bruder", "wieso", "warum"],
+     ["{NAME} kann es nicht glauben", "{NAME} rastet aus", "GTA 6 zerstört {NAME}", "{NAME} war nicht bereit"], "😭"),
+]
+
 
 def _pick(options, seed):
     h = int(hashlib.md5(seed.encode()).hexdigest(), 16)
     return options[h % len(options)]
 
 
-def theme_for(text):
-    t = " " + re.sub(r"[^a-z0-9' ]", " ", text.lower()) + " "
-    best, best_n = THEMES[-1], 0
-    for th in THEMES[:-1]:
+def theme_for(text, themes=THEMES):
+    t = " " + re.sub(r"[^\w' ]", " ", text.lower()) + " "
+    best, best_n = themes[-1], 0
+    for th in themes[:-1]:
         n = sum(t.count(f" {k} ") for k in th[2])
         if n > best_n:
             best, best_n = th, n
@@ -63,6 +80,8 @@ def day_number():
 
 def build(creator, segments, t_rel, part, seed):
     full = " ".join(s["text"] for s in segments)
+    if creator.get("language") == "de":
+        return _build_de(creator, segments, t_rel, part, seed, full)
     key, chapter, _kw, hooks, emoji = theme_for(full)
     name = creator["short"].upper()
     tmpl = _pick(hooks, seed)
@@ -83,6 +102,30 @@ def build(creator, segments, t_rel, part, seed):
         "alt_title": f"{title_hook} {emoji}"[:100],
         "quote": quote,
         "context_card": "",  # only filled by the AI context provider (clipper/ai.py)
+        "summary": template_summary(creator, chapter, quote, full),
+        "ai_model": "",
+    }
+
+
+def _build_de(creator, segments, t_rel, part, seed, full):
+    key, chapter, _kw, hooks, emoji = theme_for(full, THEMES_DE)
+    tmpl = _pick(hooks, seed)
+    hook = tmpl.format(NAME=creator["short"])
+    quote = quote_near(segments, t_rel)
+    title_hook = f"{hook} in GTA 6" if "GTA 6" not in hook else hook
+    if quote and len(quote) <= 45:
+        yt_title = f'{creator["short"]}: "{quote[0].upper() + quote[1:]}" {emoji} #GTA6'
+    else:
+        yt_title = f"{title_hook} {emoji} #GTA6"
+    return {
+        "theme": key,
+        "chapter": chapter,
+        "hook_card": hook.upper(),
+        "storyline": f"{creator['short']} vs Vice City – Tag {day_number()}, Teil {part}",
+        "title": yt_title[:100],
+        "alt_title": f"{title_hook} {emoji}"[:100],
+        "quote": quote,
+        "context_card": "",
         "summary": template_summary(creator, chapter, quote, full),
         "ai_model": "",
     }

@@ -24,7 +24,7 @@ def whisper():
     return _model
 
 
-def transcribe(src, start, dur, workdir, words=True):
+def transcribe(src, start, dur, workdir, words=True, lang=None):
     wav = Path(workdir) / "a.wav"
     run(["ffmpeg", "-y", "-hide_banner", "-loglevel", "error", "-ss", f"{start:.2f}", "-t", f"{dur:.2f}", "-i", str(src),
          "-vn", "-ac", "1", "-ar", "16000", str(wav)])
@@ -32,7 +32,7 @@ def transcribe(src, start, dur, workdir, words=True):
     import numpy as np
     with wave.open(str(wav)) as wf:
         audio = np.frombuffer(wf.readframes(wf.getnframes()), dtype=np.int16).astype(np.float32) / 32768.0
-    lang = os.environ.get("WHISPER_LANG", "auto").strip().lower()
+    lang = (lang or os.environ.get("WHISPER_LANG", "auto")).strip().lower()
     segs, _info = whisper().transcribe(audio, language=None if lang in ("", "auto") else lang, word_timestamps=words,
                                        vad_filter=True, beam_size=1, condition_on_previous_text=False)
     out = []

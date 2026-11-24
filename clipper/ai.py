@@ -73,7 +73,13 @@ def _head(text, n):
     return cut[:cut.rfind(" ")] + "…" if " " in cut else cut
 
 
-def build_messages(creator_name, day, clip_text, lead_text, summaries, storyline):
+LANG_NOTE = {
+    "de": "LANGUAGE: The stream is in German and the audience is German-speaking. Write context_card, hook, "
+          "title, storyline and summary in GERMAN (Deutsch), natural and casual. Keep #GTA6 in the title.",
+}
+
+
+def build_messages(creator_name, day, clip_text, lead_text, summaries, storyline, language=""):
     prev = "\n".join(f"- {s}" for s in summaries) if summaries else "(none yet)"
     prev = _tail(prev, SUMMARY_CHARS)
     user = (
@@ -82,7 +88,8 @@ def build_messages(creator_name, day, clip_text, lead_text, summaries, storyline
         f"Earlier clips this stream:\n{prev}\n\n"
         f"Transcript of the minutes BEFORE the clip:\n{_tail(lead_text, LEAD_CHARS) or '(not available)'}\n\n"
         f"Transcript of the CLIP itself (the moment):\n{_head(clip_text, CLIP_CHARS) or '(silent)'}\n\n"
-        "Return the JSON object now."
+        + (LANG_NOTE.get(language, "") + "\n" if LANG_NOTE.get(language) else "")
+        + "Return the JSON object now."
     )
     return [{"role": "system", "content": SYSTEM}, {"role": "user", "content": user}]
 
@@ -139,13 +146,13 @@ def clean(d):
     return out
 
 
-def generate(creator_name, day, clip_text, lead_text="", summaries=(), storyline=""):
+def generate(creator_name, day, clip_text, lead_text="", summaries=(), storyline="", language=""):
     """Returns {context_card, hook, title, storyline, summary, model} or None. Never raises."""
     try:
         provs = _providers()
         if not provs:
             return None
-        msgs = build_messages(creator_name, day, clip_text, lead_text, list(summaries), storyline)
+        msgs = build_messages(creator_name, day, clip_text, lead_text, list(summaries), storyline, language)
         deadline = time.time() + TIMEOUT
         for name, url, key, model, extra in provs:
             left = deadline - time.time()
