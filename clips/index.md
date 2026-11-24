@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 02:38 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 02:48 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,8 +9,9 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 67 | CaseOh | #GTA6 Crazy Driving Fail on Launch Day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0244_s067_caseoh_p46.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0244_s067_caseoh_p46.txt) |
 | 🔥 **POST THESE** | 60 | CaseOh | #GTA6 Missed House Madness on Launch Day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0220_s060_caseoh_p42.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0220_s060_caseoh_p42.txt) |
-| 🔥 **POST THESE** | 59 | CaseOh | #GTA6 House Hunt Gone Wrong | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0218_s059_caseoh_p43.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0218_s059_caseoh_p43.txt) |
+|  | 59 | CaseOh | #GTA6 House Hunt Gone Wrong | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0218_s059_caseoh_p43.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0218_s059_caseoh_p43.txt) |
 |  | 57 | CaseOh | #GTA6 Unexpected Cult Encounter | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0237_s057_caseoh_p44.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0237_s057_caseoh_p44.txt) |
 |  | 57 | CaseOh | #GTA6 Launch Day: Explosive Store Run | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0201_s057_caseoh_p38.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0201_s057_caseoh_p38.txt) |
 |  | 52 | CaseOh | CaseOh: "So I gave him 17 solarica gummies" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0234_s052_caseoh_p45.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0234_s052_caseoh_p45.txt) |
