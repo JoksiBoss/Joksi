@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 22:09 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 22:10 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -10,7 +10,8 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 70 | Kai Cenat | #GTA6 Chaos: Kai's bike burglary panic | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2202_s070_kaicenat_p57.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2202_s070_kaicenat_p57.txt) |
-| 🔥 **POST THESE** | 50 | ohnePixel | Pixel reveals 40k & 100k heists #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2206_s050_ohnepixel_p83.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2206_s050_ohnepixel_p83.txt) |
+| 🔥 **POST THESE** | 62 | Kai Cenat | #GTA6 Kai's tense showdown on launch day | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2200_s062_kaicenat_p58.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-2200_s062_kaicenat_p58.txt) |
+|  | 50 | ohnePixel | Pixel reveals 40k & 100k heists #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2206_s050_ohnepixel_p83.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-2206_s050_ohnepixel_p83.txt) |
 
 ### 24/11/2026 21:00–22:00 CET
 
