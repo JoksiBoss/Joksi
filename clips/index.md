@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 19:49 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 19:50 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -22,6 +22,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 56 | Kai Cenat | #GTA6 Stream Quality Clash – Kai Reacts | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1939_s056_kaicenat_p29.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1939_s056_kaicenat_p29.txt) |
 |  | 56 | Kai Cenat | #GTA6 Bank Standoff – Kai's risky pause | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1930_s056_kaicenat_p28.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1930_s056_kaicenat_p28.txt) |
 |  | 53 | ohnePixel | Pixel: "Chad ribbing so fucking product of right now" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1940_s053_ohnepixel_p52.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1940_s053_ohnepixel_p52.txt) |
+|  | 51 | Kai Cenat | Kai: "It's gonna be a good robbery" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1946_s051_kaicenat_p30.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1946_s051_kaicenat_p30.txt) |
 |  | 50 | ohnePixel | Pixel: "We couldn't open it" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1933_s050_ohnepixel_p53.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261124/20261124-1933_s050_ohnepixel_p53.txt) |
 |  | 49 | Kai Cenat | #GTA6 Live: Kai Secures the Heist Loot | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1926_s049_kaicenat_p26.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261124/20261124-1926_s049_kaicenat_p26.txt) |
 
