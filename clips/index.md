@@ -15,6 +15,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 43 | CaseOh | CaseOh's Reaction Is Everything #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0328_s043_caseoh_p55.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0328_s043_caseoh_p55.txt) |
 |  | 43 | CaseOh | CaseOh's Reaction Is Everything #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0320_s043_caseoh_p54.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0320_s043_caseoh_p54.txt) |
 |  | 42 | CaseOh | #GTA6 Launch Day Chaos: Silent Office Standoff | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0300_s042_caseoh_p51.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0300_s042_caseoh_p51.txt) |
+|  | 40 | CaseOh | CaseOh Can'T Believe What Just Happened #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0330_s040_caseoh_p56.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0330_s040_caseoh_p56.txt) |
 
 ### 24/11/2026 02:00–03:00 CET
 
