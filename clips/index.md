@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 01:49 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 01:58 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -14,6 +14,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 63 | CaseOh | #GTA6 chaotic low‑fly chase with Jason | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0122_s063_caseoh_p31.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0122_s063_caseoh_p31.txt) |
 |  | 60 | CaseOh | #GTA6 Glitchy Phone Panic in Vice City | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0144_s060_caseoh_p35.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0144_s060_caseoh_p35.txt) |
 |  | 60 | CaseOh | #GTA6 Crazy police chase spikes wanted level | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0131_s060_caseoh_p32.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0131_s060_caseoh_p32.txt) |
+|  | 57 | CaseOh | CaseOh: "He don't live in a trailer!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0148_s057_caseoh_p36.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0148_s057_caseoh_p36.txt) |
 |  | 57 | CaseOh | #GTA6 Old House Money Reveal | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0108_s057_caseoh_p26.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0108_s057_caseoh_p26.txt) |
 |  | 55 | CaseOh | #GTA6 Launch Day Chaos: Paying the Fee | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0106_s055_caseoh_p27.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0106_s055_caseoh_p27.txt) |
 |  | 51 | CaseOh | CaseOh: "What does it mean?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0132_s051_caseoh_p33.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0132_s051_caseoh_p33.txt) |
