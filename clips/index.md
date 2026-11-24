@@ -10,6 +10,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 60 | CaseOh | #GTA6 Launch Day Bank Heist Talk | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0307_s060_caseoh_p50.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0307_s060_caseoh_p50.txt) |
+| 🔥 **POST THESE** | 42 | CaseOh | #GTA6 Launch Day Chaos: Silent Office Standoff | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0300_s042_caseoh_p51.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0300_s042_caseoh_p51.txt) |
 
 ### 24/11/2026 02:00–03:00 CET
 
