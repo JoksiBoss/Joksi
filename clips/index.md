@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 24 Nov 2026 03:18 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 24 Nov 2026 03:19 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -11,6 +11,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 60 | CaseOh | #GTA6 Launch Day Bank Heist Talk | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0307_s060_caseoh_p50.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0307_s060_caseoh_p50.txt) |
 | 🔥 **POST THESE** | 51 | CaseOh | #GTA6 Launch Day Chaos: Safe Grab Under Fire | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0316_s051_caseoh_p52.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0316_s051_caseoh_p52.txt) |
+|  | 49 | CaseOh | #GTA6 Launch Day Chaos: The Big Sack Grab | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0317_s049_caseoh_p53.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0317_s049_caseoh_p53.txt) |
 |  | 42 | CaseOh | #GTA6 Launch Day Chaos: Silent Office Standoff | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0300_s042_caseoh_p51.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261123/20261124-0300_s042_caseoh_p51.txt) |
 
 ### 24/11/2026 02:00–03:00 CET
