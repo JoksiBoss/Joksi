@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 25 Nov 2026 13:31 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 25 Nov 2026 13:41 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -15,6 +15,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 67 | MontanaBlack | Monte: "Popmonen noch die waffen sind schon weg" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1318_s067_montanablack88_p40.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1318_s067_montanablack88_p40.txt) |
 |  | 62 | MontanaBlack | Monte: "An was erinnert mich dieser anlama laget" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1310_s062_montanablack88_p37.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1310_s062_montanablack88_p37.txt) |
 |  | 61 | MontanaBlack | Monte: "Ist nicht sein ernst oder?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1301_s061_montanablack88_p38.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1301_s061_montanablack88_p38.txt) |
+|  | 57 | MontanaBlack | Monte: "Wir haben eine schöne sammelkarte geile digga" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1339_s057_montanablack88_p43.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1339_s057_montanablack88_p43.txt) |
 
 ### 25/11/2026 12:00–13:00 CET
 
