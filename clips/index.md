@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 25 Nov 2026 12:51 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 25 Nov 2026 13:01 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,9 +9,10 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 78 | MontanaBlack | Monte: "Oh oh mein Gott da ist die riesengrabbe" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1254_s078_montanablack88_p35.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1254_s078_montanablack88_p35.txt) |
 | 🔥 **POST THESE** | 74 | MontanaBlack | Monte: "Der nächste Geheimerort ist die 10 KKrabbe" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1239_s074_montanablack88_p31.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1239_s074_montanablack88_p31.txt) |
 | 🔥 **POST THESE** | 73 | MontanaBlack | GTA 6 zerstört Monte #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1214_s073_montanablack88_p27.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1214_s073_montanablack88_p27.txt) |
-| 🔥 **POST THESE** | 72 | MontanaBlack | Monte: "Ich muss sie an der richtigen Rheinfolge dann" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1247_s072_montanablack88_p33.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1247_s072_montanablack88_p33.txt) |
+|  | 72 | MontanaBlack | Monte: "Ich muss sie an der richtigen Rheinfolge dann" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1247_s072_montanablack88_p33.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1247_s072_montanablack88_p33.txt) |
 |  | 71 | MontanaBlack | Monte: "Und Lachkick zu unfassbar peinlich" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1234_s071_montanablack88_p32.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1234_s071_montanablack88_p32.txt) |
 |  | 69 | MontanaBlack | Monte: "Okay okay wo ist Mr" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1245_s069_montanablack88_p34.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1245_s069_montanablack88_p34.txt) |
 |  | 69 | MontanaBlack | Monte: "Ja das ist aber noch nicht als YouTubeApload" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1230_s069_montanablack88_p30.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1230_s069_montanablack88_p30.txt) |
