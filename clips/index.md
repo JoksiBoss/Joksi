@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 25 Nov 2026 17:41 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 25 Nov 2026 17:51 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -12,6 +12,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 77 | ohnePixel | Pixel: "Whoa whoa whoa what?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1704_s077_ohnepixel_p20.mp4) |  |
 | 🔥 **POST THESE** | 76 | ohnePixel | Pixel: "Watch the fucking girl" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1729_s076_ohnepixel_p24.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1729_s076_ohnepixel_p24.txt) |
 | 🔥 **POST THESE** | 64 | ohnePixel | Pixel: "How are you doing?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1711_s064_ohnepixel_p22.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1711_s064_ohnepixel_p22.txt) |
+|  | 60 | ohnePixel | Pixel Started A Shootout In Vice City #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1749_s060_ohnepixel_p28.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1749_s060_ohnepixel_p28.txt) |
 |  | 56 | ohnePixel | Pixel: "Cómo quiero tomar dinero?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1728_s056_ohnepixel_p25.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1728_s056_ohnepixel_p25.txt) |
 |  | 53 | ohnePixel | Pixel Was Not Ready For This Mission #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1736_s053_ohnepixel_p26.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1736_s053_ohnepixel_p26.txt) |
 |  | 48 | ohnePixel | Pixel: "Our ticket to what?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1732_s048_ohnepixel_p27.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1732_s048_ohnepixel_p27.txt) |
