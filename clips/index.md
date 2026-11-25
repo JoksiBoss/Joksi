@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 25 Nov 2026 15:11 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 25 Nov 2026 15:12 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -11,6 +11,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 76 | MontanaBlack | Monte rastet aus in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1500_s076_montanablack88_p59.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1500_s076_montanablack88_p59.txt) |
 | 🔥 **POST THESE** | 69 | MontanaBlack | Monte: "Steig ein bitch!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1502_s069_montanablack88_p61.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1502_s069_montanablack88_p61.txt) |
+| 🔥 **POST THESE** | 68 | MontanaBlack | Monte: "Nur im Fokusmodus funktioniert das gut" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1504_s068_montanablack88_p62.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1504_s068_montanablack88_p62.txt) |
 
 ### 25/11/2026 14:00–15:00 CET
 
