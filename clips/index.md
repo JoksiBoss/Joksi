@@ -1,9 +1,15 @@
 # GTA 6 clips — newest first
 
-_Updated 25 Nov 2026 16:01 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 25 Nov 2026 16:11 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
+
+### 25/11/2026 16:00–17:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 61 | ohnePixel | Pixel: "Do I clear a crack?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1609_s061_ohnepixel_p08.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1609_s061_ohnepixel_p08.txt) |
 
 ### 25/11/2026 15:00–16:00 CET
 
