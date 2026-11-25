@@ -10,6 +10,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 56 | ohnePixel | Pixel: "What if we just laid up all day?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1801_s056_ohnepixel_p31.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1801_s056_ohnepixel_p31.txt) |
+| 🔥 **POST THESE** | 54 | ohnePixel | Pixel: "I'm not doing Kyle the Zaz bro" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1804_s054_ohnepixel_p32.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1804_s054_ohnepixel_p32.txt) |
 
 ### 25/11/2026 17:00–18:00 CET
 
