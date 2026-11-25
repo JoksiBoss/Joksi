@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 25 Nov 2026 21:23 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 25 Nov 2026 21:24 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -10,8 +10,9 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 76 | ohnePixel | Pixel: "We need to lock in their main vision" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2115_s076_ohnepixel_p69.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2115_s076_ohnepixel_p69.txt) |
+| 🔥 **POST THESE** | 74 | ohnePixel | Pixel: "Fuck how do we do this?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2117_s074_ohnepixel_p70.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2117_s074_ohnepixel_p70.txt) |
 | 🔥 **POST THESE** | 62 | ohnePixel | Pixel: "Bro I think I'm" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2112_s062_ohnepixel_p67.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2112_s062_ohnepixel_p67.txt) |
-| 🔥 **POST THESE** | 60 | ohnePixel | Pixel: "I want to steal one more car" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2107_s060_ohnepixel_p68.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2107_s060_ohnepixel_p68.txt) |
+|  | 60 | ohnePixel | Pixel: "I want to steal one more car" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2107_s060_ohnepixel_p68.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2107_s060_ohnepixel_p68.txt) |
 
 ### 25/11/2026 20:00–21:00 CET
 
