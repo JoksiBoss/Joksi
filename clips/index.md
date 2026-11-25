@@ -1,9 +1,15 @@
 # GTA 6 clips — newest first
 
-_Updated 25 Nov 2026 13:02 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 25 Nov 2026 13:11 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
+
+### 25/11/2026 13:00–14:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 62 | MontanaBlack | Monte: "An was erinnert mich dieser anlama laget" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1310_s062_montanablack88_p37.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1310_s062_montanablack88_p37.txt) |
 
 ### 25/11/2026 12:00–13:00 CET
 
