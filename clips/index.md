@@ -1,9 +1,15 @@
 # GTA 6 clips — newest first
 
-_Updated 25 Nov 2026 14:01 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 25 Nov 2026 14:11 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
+
+### 25/11/2026 14:00–15:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 76 | MontanaBlack | Monte am Steuer in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1409_s076_montanablack88_p49.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1409_s076_montanablack88_p49.txt) |
 
 ### 25/11/2026 13:00–14:00 CET
 
