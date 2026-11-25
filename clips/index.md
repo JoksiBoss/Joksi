@@ -14,6 +14,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 68 | MontanaBlack | Monte: "War ich da richtig ja saus aber irgendwie" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1513_s068_montanablack88_p63.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1513_s068_montanablack88_p63.txt) |
 |  | 68 | MontanaBlack | Monte: "Nur im Fokusmodus funktioniert das gut" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1504_s068_montanablack88_p62.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1504_s068_montanablack88_p62.txt) |
 |  | 65 | MontanaBlack | GTA 6 zerstört Monte #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1515_s065_montanablack88_p64.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1515_s065_montanablack88_p64.txt) |
+|  | 57 | MontanaBlack | Monte: "This item could prove to be very significant" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1521_s057_montanablack88_p65.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1521_s057_montanablack88_p65.txt) |
 
 ### 25/11/2026 14:00–15:00 CET
 
