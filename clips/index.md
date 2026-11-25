@@ -16,6 +16,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 61 | MontanaBlack | Monte: "Ja ja ja!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1413_s061_montanablack88_p52.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1413_s061_montanablack88_p52.txt) |
 |  | 60 | MontanaBlack | Monte: "Oh oh schaut mal zum Glück" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1407_s060_montanablack88_p50.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1407_s060_montanablack88_p50.txt) |
 |  | 58 | MontanaBlack | Monte: "Geheim versteck oh" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1435_s058_montanablack88_p55.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1435_s058_montanablack88_p55.txt) |
+|  | 54 | MontanaBlack | Monte: "Das waren 5 Geheimer Orte in GTA 6" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1436_s054_montanablack88_p56.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1436_s054_montanablack88_p56.txt) |
 
 ### 25/11/2026 13:00–14:00 CET
 
