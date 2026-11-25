@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 25 Nov 2026 17:21 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 25 Nov 2026 17:32 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -10,6 +10,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 77 | ohnePixel | Pixel: "Whoa whoa whoa what?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1704_s077_ohnepixel_p20.mp4) |  |
+| 🔥 **POST THESE** | 76 | ohnePixel | Pixel: "Watch the fucking girl" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1729_s076_ohnepixel_p24.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1729_s076_ohnepixel_p24.txt) |
 | 🔥 **POST THESE** | 64 | ohnePixel | Pixel: "How are you doing?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1711_s064_ohnepixel_p22.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1711_s064_ohnepixel_p22.txt) |
 |  | 46 | ohnePixel | Pixel: "How the fuck down?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1716_s046_ohnepixel_p23.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1716_s046_ohnepixel_p23.txt) |
 
