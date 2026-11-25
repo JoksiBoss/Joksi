@@ -12,6 +12,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 73 | MontanaBlack | GTA 6 zerstört Monte #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1214_s073_montanablack88_p27.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1214_s073_montanablack88_p27.txt) |
 | 🔥 **POST THESE** | 67 | MontanaBlack | Monte rastet aus in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1206_s067_montanablack88_p25.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1206_s067_montanablack88_p25.txt) |
 | 🔥 **POST THESE** | 64 | MontanaBlack | Monte kann nicht fahren in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1203_s064_montanablack88_p26.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1203_s064_montanablack88_p26.txt) |
+|  | 63 | MontanaBlack | Monte: "Ah ok check!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1218_s063_montanablack88_p28.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1218_s063_montanablack88_p28.txt) |
 
 ### 25/11/2026 11:00–12:00 CET
 
