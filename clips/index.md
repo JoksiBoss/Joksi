@@ -1,9 +1,15 @@
 # GTA 6 clips — newest first
 
-_Updated 25 Nov 2026 18:01 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 25 Nov 2026 18:11 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
+
+### 25/11/2026 18:00–19:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 56 | ohnePixel | Pixel: "What if we just laid up all day?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1801_s056_ohnepixel_p31.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1801_s056_ohnepixel_p31.txt) |
 
 ### 25/11/2026 17:00–18:00 CET
 
