@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 25 Nov 2026 19:51 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 25 Nov 2026 20:01 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -12,6 +12,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 73 | ohnePixel | Pixel: "I'll take him oh shit fool" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1912_s073_ohnepixel_p45.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1912_s073_ohnepixel_p45.txt) |
 | 🔥 **POST THESE** | 69 | ohnePixel | Pixel: "Are those rare?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1942_s069_ohnepixel_p51.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1942_s069_ohnepixel_p51.txt) |
 | 🔥 **POST THESE** | 68 | ohnePixel | Pixel: "What the fuck are you doing?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1917_s068_ohnepixel_p46.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1917_s068_ohnepixel_p46.txt) |
+|  | 65 | ohnePixel | Pixel: "I think we got both" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1951_s065_ohnepixel_p53.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1951_s065_ohnepixel_p53.txt) |
 |  | 65 | ohnePixel | Pixel: "Very big where you going?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1937_s065_ohnepixel_p49.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1937_s065_ohnepixel_p49.txt) |
 |  | 64 | ohnePixel | Pixel: "You know what's away bro?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1929_s064_ohnepixel_p47.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1929_s064_ohnepixel_p47.txt) |
 |  | 58 | ohnePixel | Pixel: "Nice car no cosmetic damage what?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1950_s058_ohnepixel_p52.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1950_s058_ohnepixel_p52.txt) |
