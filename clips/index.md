@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 25 Nov 2026 20:42 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 25 Nov 2026 20:53 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,9 +9,10 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 77 | ohnePixel | Pixel: "Launcher with the five hot sun shot" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2048_s077_ohnepixel_p63.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2048_s077_ohnepixel_p63.txt) |
 | 🔥 **POST THESE** | 71 | ohnePixel | Pixel: "Maybe I'm just buying a watch" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2032_s071_ohnepixel_p61.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2032_s071_ohnepixel_p61.txt) |
 | 🔥 **POST THESE** | 71 | ohnePixel | Pixel: "What the hell?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2030_s071_ohnepixel_p59.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2030_s071_ohnepixel_p59.txt) |
-| 🔥 **POST THESE** | 70 | ohnePixel | Pixel: "That's a fishing lure" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2033_s070_ohnepixel_p62.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2033_s070_ohnepixel_p62.txt) |
+|  | 70 | ohnePixel | Pixel: "That's a fishing lure" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2033_s070_ohnepixel_p62.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2033_s070_ohnepixel_p62.txt) |
 |  | 70 | ohnePixel | Pixel: "That's not is that allowed?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2021_s070_ohnepixel_p60.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2021_s070_ohnepixel_p60.txt) |
 |  | 70 | ohnePixel | Pixel: "These these three one one two three" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2003_s070_ohnepixel_p55.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2003_s070_ohnepixel_p55.txt) |
 |  | 69 | ohnePixel | Pixel: "You do need these shoes know oh" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2004_s069_ohnepixel_p56.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2004_s069_ohnepixel_p56.txt) |
