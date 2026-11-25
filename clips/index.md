@@ -11,7 +11,8 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 77 | MontanaBlack | Monte kann es nicht glauben in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1109_s077_montanablack88_p13.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1109_s077_montanablack88_p13.txt) |
 | 🔥 **POST THESE** | 73 | MontanaBlack | GTA 6 zerstört Monte #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1103_s073_montanablack88_p14.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1103_s073_montanablack88_p14.txt) |
-| 🔥 **POST THESE** | 65 | MontanaBlack | Monte: "Plan ist nicht aufgegangen" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1116_s065_montanablack88_p15.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1116_s065_montanablack88_p15.txt) |
+| 🔥 **POST THESE** | 65 | MontanaBlack | Monte: "Mein Gott ja ja!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1120_s065_montanablack88_p16.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1120_s065_montanablack88_p16.txt) |
+|  | 65 | MontanaBlack | Monte: "Plan ist nicht aufgegangen" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1116_s065_montanablack88_p15.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1116_s065_montanablack88_p15.txt) |
 
 ### 25/11/2026 10:00–11:00 CET
 
