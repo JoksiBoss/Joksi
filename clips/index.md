@@ -10,6 +10,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 61 | ohnePixel | Pixel: "Do I clear a crack?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1609_s061_ohnepixel_p08.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1609_s061_ohnepixel_p08.txt) |
+| 🔥 **POST THESE** | 52 | ohnePixel | Pixel: "Alright yo guys" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1602_s052_ohnepixel_p09.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1602_s052_ohnepixel_p09.txt) |
 
 ### 25/11/2026 15:00–16:00 CET
 
