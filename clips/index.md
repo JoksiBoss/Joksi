@@ -10,6 +10,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 56 | ohnePixel | Pixel: "Oh it's daytime now" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1902_s056_ohnepixel_p43.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1902_s056_ohnepixel_p43.txt) |
+| 🔥 **POST THESE** | 46 | ohnePixel | Pixel: "No why are we taking my shit?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1905_s046_ohnepixel_p44.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1905_s046_ohnepixel_p44.txt) |
 
 ### 25/11/2026 18:00–19:00 CET
 
