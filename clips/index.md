@@ -17,6 +17,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 57 | MontanaBlack | Monte: "This item could prove to be very significant" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1521_s057_montanablack88_p65.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1521_s057_montanablack88_p65.txt) |
 |  | 52 | ohnePixel | Pixel: "It died because I touched the cable guys" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1522_s052_ohnepixel_p01.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1522_s052_ohnepixel_p01.txt) |
 |  | 51 | MontanaBlack | Monte: "Heute 6 Stunden" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1522_s051_montanablack88_p66.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1522_s051_montanablack88_p66.txt) |
+|  | 48 | ohnePixel | Pixel: "Already ordered the new camera" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1523_s048_ohnepixel_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1523_s048_ohnepixel_p02.txt) |
 
 ### 25/11/2026 14:00–15:00 CET
 
