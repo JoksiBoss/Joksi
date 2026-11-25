@@ -16,6 +16,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 62 | MontanaBlack | Monte: "An was erinnert mich dieser anlama laget" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1310_s062_montanablack88_p37.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1310_s062_montanablack88_p37.txt) |
 |  | 61 | MontanaBlack | Monte: "Ist nicht sein ernst oder?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1301_s061_montanablack88_p38.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1301_s061_montanablack88_p38.txt) |
 |  | 57 | MontanaBlack | Monte: "Wir haben eine schöne sammelkarte geile digga" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1339_s057_montanablack88_p43.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1339_s057_montanablack88_p43.txt) |
+|  | 54 | MontanaBlack | Monte: "Ist das das hier?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1335_s054_montanablack88_p44.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1335_s054_montanablack88_p44.txt) |
 
 ### 25/11/2026 12:00–13:00 CET
 
