@@ -1,17 +1,26 @@
 # GTA 6 clips — newest first
 
-_Updated 25 Nov 2026 16:41 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 25 Nov 2026 17:21 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
+
+### 25/11/2026 17:00–18:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 77 | ohnePixel | Pixel: "Whoa whoa whoa what?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1704_s077_ohnepixel_p20.mp4) |  |
+| 🔥 **POST THESE** | 64 | ohnePixel | Pixel: "How are you doing?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1711_s064_ohnepixel_p22.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1711_s064_ohnepixel_p22.txt) |
 
 ### 25/11/2026 16:00–17:00 CET
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 69 | ohnePixel | Pixel Went Full GTA Mode #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1622_s069_ohnepixel_p12.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1622_s069_ohnepixel_p12.txt) |
+| 🔥 **POST THESE** | 66 | ohnePixel | Pixel: "Alright where are we at our old house?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1648_s066_ohnepixel_p16.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1648_s066_ohnepixel_p16.txt) |
 | 🔥 **POST THESE** | 65 | ohnePixel | Pixel Can'T Believe What Just Happened #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1616_s065_ohnepixel_p10.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1616_s065_ohnepixel_p10.txt) |
-| 🔥 **POST THESE** | 63 | ohnePixel | Pixel: "So what the hell do we do now?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1639_s063_ohnepixel_p14.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1639_s063_ohnepixel_p14.txt) |
+|  | 63 | ohnePixel | GTA 6 Broke Pixel #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1651_s063_ohnepixel_p18.mp4) |  |
+|  | 63 | ohnePixel | Pixel: "So what the hell do we do now?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1639_s063_ohnepixel_p14.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1639_s063_ohnepixel_p14.txt) |
 |  | 63 | ohnePixel | This GTA 6 Mission Broke Pixel #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1638_s063_ohnepixel_p15.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1638_s063_ohnepixel_p15.txt) |
 |  | 61 | ohnePixel | Pixel: "Do I clear a crack?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1609_s061_ohnepixel_p08.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1609_s061_ohnepixel_p08.txt) |
 |  | 52 | ohnePixel | Pixel: "What are you saying?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1628_s052_ohnepixel_p13.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1628_s052_ohnepixel_p13.txt) |
