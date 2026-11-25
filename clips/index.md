@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 25 Nov 2026 15:02 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 25 Nov 2026 15:03 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -17,7 +17,8 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 76 | MontanaBlack | Monte am Steuer in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1409_s076_montanablack88_p49.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1409_s076_montanablack88_p49.txt) |
 | 🔥 **POST THESE** | 70 | MontanaBlack | Monte: "Nicht so ja weiß nicht" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1428_s070_montanablack88_p53.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1428_s070_montanablack88_p53.txt) |
-| 🔥 **POST THESE** | 67 | MontanaBlack | Monte: "Wie machen wir es?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1424_s067_montanablack88_p54.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1424_s067_montanablack88_p54.txt) |
+| 🔥 **POST THESE** | 69 | MontanaBlack | Monte: "Ich habe eine eine für die Prices" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1455_s069_montanablack88_p60.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1455_s069_montanablack88_p60.txt) |
+|  | 67 | MontanaBlack | Monte: "Wie machen wir es?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1424_s067_montanablack88_p54.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1424_s067_montanablack88_p54.txt) |
 |  | 63 | MontanaBlack | GTA 6 zerstört Monte #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1450_s063_montanablack88_p57.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1450_s063_montanablack88_p57.txt) |
 |  | 63 | MontanaBlack | Monte: "Schmutz wird 10 gebt in Zabst danke schön" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1446_s063_montanablack88_p58.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1446_s063_montanablack88_p58.txt) |
 |  | 62 | MontanaBlack | Monte: "Die kommt ja gar nicht klar!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1419_s062_montanablack88_p51.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1419_s062_montanablack88_p51.txt) |
