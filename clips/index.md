@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 25 Nov 2026 17:32 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 25 Nov 2026 17:41 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -13,6 +13,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 76 | ohnePixel | Pixel: "Watch the fucking girl" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1729_s076_ohnepixel_p24.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1729_s076_ohnepixel_p24.txt) |
 | 🔥 **POST THESE** | 64 | ohnePixel | Pixel: "How are you doing?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1711_s064_ohnepixel_p22.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1711_s064_ohnepixel_p22.txt) |
 |  | 56 | ohnePixel | Pixel: "Cómo quiero tomar dinero?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1728_s056_ohnepixel_p25.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1728_s056_ohnepixel_p25.txt) |
+|  | 53 | ohnePixel | Pixel Was Not Ready For This Mission #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1736_s053_ohnepixel_p26.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1736_s053_ohnepixel_p26.txt) |
 |  | 46 | ohnePixel | Pixel: "How the fuck down?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1716_s046_ohnepixel_p23.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1716_s046_ohnepixel_p23.txt) |
 
 ### 25/11/2026 16:00–17:00 CET
