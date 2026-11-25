@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 25 Nov 2026 13:41 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 25 Nov 2026 13:51 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -11,7 +11,8 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 72 | MontanaBlack | Monte: "Jedes Mal wenn ich so eine Alarmanlage höre" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1311_s072_montanablack88_p39.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1311_s072_montanablack88_p39.txt) |
 | 🔥 **POST THESE** | 71 | MontanaBlack | Monte: "Du musst es nicht tun!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1321_s071_montanablack88_p41.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1321_s071_montanablack88_p41.txt) |
-| 🔥 **POST THESE** | 68 | MontanaBlack | Monte rastet aus in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1330_s068_montanablack88_p42.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1330_s068_montanablack88_p42.txt) |
+| 🔥 **POST THESE** | 70 | MontanaBlack | Monte: "Na na na na ich geh" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1343_s070_montanablack88_p45.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1343_s070_montanablack88_p45.txt) |
+|  | 68 | MontanaBlack | Monte rastet aus in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1330_s068_montanablack88_p42.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1330_s068_montanablack88_p42.txt) |
 |  | 67 | MontanaBlack | Monte: "Popmonen noch die waffen sind schon weg" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1318_s067_montanablack88_p40.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1318_s067_montanablack88_p40.txt) |
 |  | 62 | MontanaBlack | Monte: "An was erinnert mich dieser anlama laget" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1310_s062_montanablack88_p37.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1310_s062_montanablack88_p37.txt) |
 |  | 61 | MontanaBlack | Monte: "Ist nicht sein ernst oder?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1301_s061_montanablack88_p38.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1301_s061_montanablack88_p38.txt) |
