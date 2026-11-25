@@ -10,6 +10,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 62 | ohnePixel | Pixel: "Bro I think I'm" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2112_s062_ohnepixel_p67.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2112_s062_ohnepixel_p67.txt) |
+| 🔥 **POST THESE** | 60 | ohnePixel | Pixel: "I want to steal one more car" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2107_s060_ohnepixel_p68.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-2107_s060_ohnepixel_p68.txt) |
 
 ### 25/11/2026 20:00–21:00 CET
 
