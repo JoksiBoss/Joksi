@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 25 Nov 2026 11:52 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 25 Nov 2026 12:01 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -10,8 +10,9 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 87 | MontanaBlack | Monte: "Gut dann machen wir jetzt kurz YouTubeIndro" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1148_s087_montanablack88_p21.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1148_s087_montanablack88_p21.txt) |
+| 🔥 **POST THESE** | 84 | MontanaBlack | Diese Mission zerstört Monte in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1155_s084_montanablack88_p23.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1155_s084_montanablack88_p23.txt) |
 | 🔥 **POST THESE** | 83 | MontanaBlack | Monte: "Wer von euch?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1128_s083_montanablack88_p17.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1128_s083_montanablack88_p17.txt) |
-| 🔥 **POST THESE** | 78 | MontanaBlack | Monte rastet aus in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1150_s078_montanablack88_p22.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1150_s078_montanablack88_p22.txt) |
+|  | 78 | MontanaBlack | Monte rastet aus in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1150_s078_montanablack88_p22.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1150_s078_montanablack88_p22.txt) |
 |  | 77 | MontanaBlack | Monte kann es nicht glauben in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1109_s077_montanablack88_p13.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1109_s077_montanablack88_p13.txt) |
 |  | 73 | MontanaBlack | Monte: "Oh mein Gott!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1136_s073_montanablack88_p19.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1136_s073_montanablack88_p19.txt) |
 |  | 73 | MontanaBlack | GTA 6 zerstört Monte #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1103_s073_montanablack88_p14.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1103_s073_montanablack88_p14.txt) |
