@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 25 Nov 2026 18:41 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 25 Nov 2026 18:51 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -14,6 +14,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 60 | ohnePixel | Pixel: "Keeping eye out for valuables" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1813_s060_ohnepixel_p33.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1813_s060_ohnepixel_p33.txt) |
 |  | 59 | ohnePixel | Pixel: "I got a chill I got a chill" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1821_s059_ohnepixel_p36.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1821_s059_ohnepixel_p36.txt) |
 |  | 58 | ohnePixel | Pixel: "Are you sure 40 minutes have passed?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1832_s058_ohnepixel_p38.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1832_s058_ohnepixel_p38.txt) |
+|  | 57 | ohnePixel | Pixel: "I think I can but it's risky" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1844_s057_ohnepixel_p39.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1844_s057_ohnepixel_p39.txt) |
 |  | 56 | ohnePixel | Pixel: "What if we just laid up all day?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1801_s056_ohnepixel_p31.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1801_s056_ohnepixel_p31.txt) |
 |  | 54 | ohnePixel | Pixel: "I'm not doing Kyle the Zaz bro" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1804_s054_ohnepixel_p32.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1804_s054_ohnepixel_p32.txt) |
 |  | 49 | ohnePixel | Pixel: "Massive Massive Chill Brody" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1814_s049_ohnepixel_p34.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261125/20261125-1814_s049_ohnepixel_p34.txt) |
