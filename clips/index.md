@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 25 Nov 2026 10:52 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 25 Nov 2026 11:01 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,9 +9,10 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 86 | MontanaBlack | Monte: "Die auf dem Mesen Bro" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1056_s086_montanablack88_p11.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1056_s086_montanablack88_p11.txt) |
 | 🔥 **POST THESE** | 78 | MontanaBlack | Monte: "In Aluminium oder?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1019_s078_montanablack88_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1019_s078_montanablack88_p03.txt) |
 | 🔥 **POST THESE** | 69 | MontanaBlack | Monte: "Wir scheißen einfach so sehr auf alle Stegger" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1021_s069_montanablack88_p05.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1021_s069_montanablack88_p05.txt) |
-| 🔥 **POST THESE** | 69 | MontanaBlack | Monte: "Wo kann ich denn?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1014_s069_montanablack88_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1014_s069_montanablack88_p04.txt) |
+|  | 69 | MontanaBlack | Monte: "Wo kann ich denn?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1014_s069_montanablack88_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1014_s069_montanablack88_p04.txt) |
 |  | 64 | MontanaBlack | Monte: "Rhofer fallen ja fang" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1049_s064_montanablack88_p09.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1049_s064_montanablack88_p09.txt) |
 |  | 63 | MontanaBlack | Monte: "War'n low rider oder bin ich NPC gerade?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1043_s063_montanablack88_p10.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1043_s063_montanablack88_p10.txt) |
 |  | 63 | MontanaBlack | Monte: "Wer Sick hätte der auch noch Luftverwerk?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1040_s063_montanablack88_p07.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261125/20261125-1040_s063_montanablack88_p07.txt) |
