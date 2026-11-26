@@ -1,9 +1,15 @@
 # GTA 6 clips — newest first
 
-_Updated 26 Nov 2026 18:59 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 26 Nov 2026 19:09 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
+
+### 26/11/2026 19:00–20:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 65 | ohnePixel | Pixel: "What do it?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1908_s065_ohnepixel_p41.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1908_s065_ohnepixel_p41.txt) |
 
 ### 26/11/2026 18:00–19:00 CET
 
