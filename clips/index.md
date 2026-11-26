@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 26 Nov 2026 18:49 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 26 Nov 2026 18:59 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -14,6 +14,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 61 | ohnePixel | Pixel: "No way I can go here" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1844_s061_ohnepixel_p37.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1844_s061_ohnepixel_p37.txt) |
 |  | 60 | ohnePixel | The Cops Were Not Ready For Pixel #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1802_s060_ohnepixel_p30.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1802_s060_ohnepixel_p30.txt) |
 |  | 59 | ohnePixel | Pixel: "You know who lives close to here bro" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1846_s059_ohnepixel_p38.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1846_s059_ohnepixel_p38.txt) |
+|  | 56 | ohnePixel | Pixel: "Bro I literally know Spanish" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1853_s056_ohnepixel_p39.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1853_s056_ohnepixel_p39.txt) |
 |  | 52 | ohnePixel | Pixel's Craziest Crash Yet #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1832_s052_ohnepixel_p35.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1832_s052_ohnepixel_p35.txt) |
 |  | 51 | ohnePixel | Pixel: "No I misclicked" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1824_s051_ohnepixel_p34.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1824_s051_ohnepixel_p34.txt) |
 |  | 48 | ohnePixel | Pixel Tried To Outrun The Cops #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1829_s048_ohnepixel_p36.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1829_s048_ohnepixel_p36.txt) |
