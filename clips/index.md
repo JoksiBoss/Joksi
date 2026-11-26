@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 26 Nov 2026 15:59 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 26 Nov 2026 16:02 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -12,6 +12,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 80 | MontanaBlack | Monte: "Wir haben geschafft!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1535_s080_montanablack88_p67.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1535_s080_montanablack88_p67.txt) |
 | 🔥 **POST THESE** | 78 | MontanaBlack | Monte: "Oder nicht wenn wir am Land ankommen" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1523_s078_montanablack88_p65.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1523_s078_montanablack88_p65.txt) |
 | 🔥 **POST THESE** | 78 | MontanaBlack | Monte rastet aus in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1506_s078_montanablack88_p59.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1506_s078_montanablack88_p59.txt) |
+|  | 76 | MontanaBlack | Monte: "Kommt auch raus" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1554_s076_montanablack88_p71.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1554_s076_montanablack88_p71.txt) |
 |  | 67 | MontanaBlack | GTA 6 zerstört Monte #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1548_s067_montanablack88_p69.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1548_s067_montanablack88_p69.txt) |
 |  | 63 | MontanaBlack | Monte war nicht bereit in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1508_s063_montanablack88_p60.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1508_s063_montanablack88_p60.txt) |
 |  | 62 | MontanaBlack | Monte: "Also der würde ich gar keine Chance" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1544_s062_montanablack88_p70.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1544_s062_montanablack88_p70.txt) |
