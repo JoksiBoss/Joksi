@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 26 Nov 2026 13:39 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 26 Nov 2026 13:49 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,9 +9,10 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 83 | MontanaBlack | Monte: "Bisschen weniger Schaden wäre nicht schlecht" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1341_s083_montanablack88_p43.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1341_s083_montanablack88_p43.txt) |
 | 🔥 **POST THESE** | 70 | MontanaBlack | Die Cops jagen Monte in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1300_s070_montanablack88_p35.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1300_s070_montanablack88_p35.txt) |
 | 🔥 **POST THESE** | 69 | MontanaBlack | Monte rastet aus in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1334_s069_montanablack88_p41.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1334_s069_montanablack88_p41.txt) |
-| 🔥 **POST THESE** | 67 | MontanaBlack | Monte: "Okay Freunde möge die Mission beginnen" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1337_s067_montanablack88_p42.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1337_s067_montanablack88_p42.txt) |
+|  | 67 | MontanaBlack | Monte: "Okay Freunde möge die Mission beginnen" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1337_s067_montanablack88_p42.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1337_s067_montanablack88_p42.txt) |
 |  | 66 | MontanaBlack | Monte: "Verpisst ich du Bitch" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1314_s066_montanablack88_p37.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1314_s066_montanablack88_p37.txt) |
 |  | 63 | MontanaBlack | Monte: "Ich bin blind wie ne nutter" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1318_s063_montanablack88_p38.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1318_s063_montanablack88_p38.txt) |
 |  | 61 | MontanaBlack | Monte: "Wir schneller tot als wir gucken können" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1321_s061_montanablack88_p39.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1321_s061_montanablack88_p39.txt) |
