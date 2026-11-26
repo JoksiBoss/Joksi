@@ -18,6 +18,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 57 | ohnePixel | Pixel: "Oh my god" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1708_s057_ohnepixel_p17.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1708_s057_ohnepixel_p17.txt) |
 |  | 55 | ohnePixel | The Cops Were Not Ready For Pixel #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1742_s055_ohnepixel_p25.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1742_s055_ohnepixel_p25.txt) |
 |  | 55 | ohnePixel | Pixel Can'T Believe What Just Happened #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1705_s055_ohnepixel_p18.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1705_s055_ohnepixel_p18.txt) |
+|  | 50 | ohnePixel | Pixel: "Where you going?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1747_s050_ohnepixel_p26.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1747_s050_ohnepixel_p26.txt) |
 
 ### 26/11/2026 16:00–17:00 CET
 
