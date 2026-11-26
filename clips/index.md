@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 26 Nov 2026 14:59 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 26 Nov 2026 15:00 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -11,7 +11,8 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 81 | MontanaBlack | GTA 6 zerstört Monte #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1451_s081_montanablack88_p57.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1451_s081_montanablack88_p57.txt) |
 | 🔥 **POST THESE** | 81 | MontanaBlack | Montes krassester Crash in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1409_s081_montanablack88_p49.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1409_s081_montanablack88_p49.txt) |
-| 🔥 **POST THESE** | 75 | MontanaBlack | Monte: "Hey das kann doch nicht sein!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1405_s075_montanablack88_p47.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1405_s075_montanablack88_p47.txt) |
+| 🔥 **POST THESE** | 77 | MontanaBlack | Monte: "Leuf lauf lauf lauf leuf lauf lauf leuf" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1453_s077_montanablack88_p58.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1453_s077_montanablack88_p58.txt) |
+|  | 75 | MontanaBlack | Monte: "Hey das kann doch nicht sein!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1405_s075_montanablack88_p47.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1405_s075_montanablack88_p47.txt) |
 |  | 73 | MontanaBlack | GTA 6 zerstört Monte #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1407_s073_montanablack88_p48.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1407_s073_montanablack88_p48.txt) |
 |  | 72 | MontanaBlack | Monte: "Wir schaffen's nicht" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1440_s072_montanablack88_p55.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1440_s072_montanablack88_p55.txt) |
 |  | 70 | MontanaBlack | Monte: "Wir sind so close lecker" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1441_s070_montanablack88_p56.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1441_s070_montanablack88_p56.txt) |
