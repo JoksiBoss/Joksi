@@ -14,6 +14,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 60 | MontanaBlack | Monte: "Gleich kommen die Panzer" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1519_s060_montanablack88_p63.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1519_s060_montanablack88_p63.txt) |
 |  | 59 | MontanaBlack | Monte nimmt die Abkürzung in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1509_s059_montanablack88_p61.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1509_s059_montanablack88_p61.txt) |
 |  | 56 | MontanaBlack | Monte war nicht bereit in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1517_s056_montanablack88_p62.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1517_s056_montanablack88_p62.txt) |
+|  | 46 | MontanaBlack | Monte: "Ja okay okay wir machen das" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1519_s046_montanablack88_p64.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1519_s046_montanablack88_p64.txt) |
 
 ### 26/11/2026 14:00–15:00 CET
 
