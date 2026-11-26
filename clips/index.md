@@ -9,9 +9,10 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 61 | ohnePixel | Pixel: "Elzuk machine gun silence" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1728_s061_ohnepixel_p22.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1728_s061_ohnepixel_p22.txt) |
 | 🔥 **POST THESE** | 61 | ohnePixel | Pixel: "Ferry McTan is for Jason" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1727_s061_ohnepixel_p21.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1727_s061_ohnepixel_p21.txt) |
 | 🔥 **POST THESE** | 61 | ohnePixel | Pixel: "You know like with the business" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1713_s061_ohnepixel_p19.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1713_s061_ohnepixel_p19.txt) |
-| 🔥 **POST THESE** | 60 | ohnePixel | Pixel: "I'm not gonna die right now" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1709_s060_ohnepixel_p20.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1709_s060_ohnepixel_p20.txt) |
+|  | 60 | ohnePixel | Pixel: "I'm not gonna die right now" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1709_s060_ohnepixel_p20.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1709_s060_ohnepixel_p20.txt) |
 |  | 57 | ohnePixel | Pixel: "Oh my god" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1708_s057_ohnepixel_p17.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1708_s057_ohnepixel_p17.txt) |
 |  | 55 | ohnePixel | Pixel Can'T Believe What Just Happened #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1705_s055_ohnepixel_p18.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1705_s055_ohnepixel_p18.txt) |
 
