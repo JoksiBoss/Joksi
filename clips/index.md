@@ -11,6 +11,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 70 | MontanaBlack | Die Cops jagen Monte in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1300_s070_montanablack88_p35.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1300_s070_montanablack88_p35.txt) |
 | 🔥 **POST THESE** | 66 | MontanaBlack | Monte: "Verpisst ich du Bitch" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1314_s066_montanablack88_p37.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1314_s066_montanablack88_p37.txt) |
+| 🔥 **POST THESE** | 63 | MontanaBlack | Monte: "Ich bin blind wie ne nutter" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1318_s063_montanablack88_p38.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1318_s063_montanablack88_p38.txt) |
 
 ### 26/11/2026 12:00–13:00 CET
 
