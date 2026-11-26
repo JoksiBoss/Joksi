@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 26 Nov 2026 17:49 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 26 Nov 2026 17:59 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,9 +9,10 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 66 | ohnePixel | Pixel: "It's a coin man" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1754_s066_ohnepixel_p27.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1754_s066_ohnepixel_p27.txt) |
 | 🔥 **POST THESE** | 65 | ohnePixel | Pixel: "And then if you want to put" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1735_s065_ohnepixel_p23.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1735_s065_ohnepixel_p23.txt) |
 | 🔥 **POST THESE** | 62 | ohnePixel | Pixel: "Alright that's it" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1730_s062_ohnepixel_p24.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1730_s062_ohnepixel_p24.txt) |
-| 🔥 **POST THESE** | 61 | ohnePixel | Pixel: "Elzuk machine gun silence" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1728_s061_ohnepixel_p22.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1728_s061_ohnepixel_p22.txt) |
+|  | 61 | ohnePixel | Pixel: "Elzuk machine gun silence" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1728_s061_ohnepixel_p22.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1728_s061_ohnepixel_p22.txt) |
 |  | 61 | ohnePixel | Pixel: "Ferry McTan is for Jason" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1727_s061_ohnepixel_p21.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1727_s061_ohnepixel_p21.txt) |
 |  | 61 | ohnePixel | Pixel: "You know like with the business" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1713_s061_ohnepixel_p19.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1713_s061_ohnepixel_p19.txt) |
 |  | 60 | ohnePixel | Pixel: "I'm not gonna die right now" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1709_s060_ohnepixel_p20.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1709_s060_ohnepixel_p20.txt) |
