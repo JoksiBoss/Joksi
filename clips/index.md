@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 26 Nov 2026 12:19 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 26 Nov 2026 12:20 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -11,6 +11,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 69 | MontanaBlack | Monte: "Auch lustig wie keiner wegen den Kraki kommt" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1207_s069_montanablack88_p24.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1207_s069_montanablack88_p24.txt) |
 | 🔥 **POST THESE** | 59 | MontanaBlack | Monte: "Nimm doch den Schmuck jetzt bro!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1217_s059_montanablack88_p25.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1217_s059_montanablack88_p25.txt) |
+|  | 58 | MontanaBlack | GTA 6 zerstört Monte #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1214_s058_montanablack88_p26.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1214_s058_montanablack88_p26.txt) |
 
 ### 26/11/2026 11:00–12:00 CET
 
