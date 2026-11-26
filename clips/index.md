@@ -11,6 +11,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 62 | ohnePixel | Pixel: "No no no!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2009_s062_ohnepixel_p54.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2009_s062_ohnepixel_p54.txt) |
 | 🔥 **POST THESE** | 56 | ohnePixel | Pixel's Craziest Crash Yet #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2003_s056_ohnepixel_p52.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2003_s056_ohnepixel_p52.txt) |
+|  | 54 | ohnePixel | Pixel: "Fuck you dumbass!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2014_s054_ohnepixel_p55.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2014_s054_ohnepixel_p55.txt) |
 |  | 45 | ohnePixel | Pixel: "I'm taking this one" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2004_s045_ohnepixel_p53.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2004_s045_ohnepixel_p53.txt) |
 
 ### 26/11/2026 19:00–20:00 CET
