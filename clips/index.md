@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 26 Nov 2026 19:49 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 26 Nov 2026 19:59 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -19,6 +19,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 53 | ohnePixel | Pixel: "There's so much you shit every day" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1928_s053_ohnepixel_p45.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1928_s053_ohnepixel_p45.txt) |
 |  | 52 | ohnePixel | Pixel: "Hey there big guy" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1922_s052_ohnepixel_p46.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1922_s052_ohnepixel_p46.txt) |
 |  | 51 | ohnePixel | GTA 6 Broke Pixel #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1901_s051_ohnepixel_p42.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1901_s051_ohnepixel_p42.txt) |
+|  | 47 | ohnePixel | Pixel Took The Worst Shortcut #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1950_s047_ohnepixel_p51.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1950_s047_ohnepixel_p51.txt) |
 
 ### 26/11/2026 18:00–19:00 CET
 
