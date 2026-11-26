@@ -10,6 +10,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 62 | ohnePixel | Pixel: "Do I kill them?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1801_s062_ohnepixel_p29.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1801_s062_ohnepixel_p29.txt) |
+| 🔥 **POST THESE** | 60 | ohnePixel | The Cops Were Not Ready For Pixel #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1802_s060_ohnepixel_p30.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1802_s060_ohnepixel_p30.txt) |
 
 ### 26/11/2026 17:00–18:00 CET
 
