@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 26 Nov 2026 12:39 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 26 Nov 2026 12:49 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,9 +9,10 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 87 | MontanaBlack | Monte: "Wie schießt der Helikopter hier auf mich?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1240_s087_montanablack88_p31.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1240_s087_montanablack88_p31.txt) |
 | 🔥 **POST THESE** | 87 | MontanaBlack | Monte nimmt die Abkürzung in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1227_s087_montanablack88_p27.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1227_s087_montanablack88_p27.txt) |
 | 🔥 **POST THESE** | 74 | MontanaBlack | Monte kann es nicht glauben in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1220_s074_montanablack88_p28.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1220_s074_montanablack88_p28.txt) |
-| 🔥 **POST THESE** | 69 | MontanaBlack | Monte: "Auch lustig wie keiner wegen den Kraki kommt" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1207_s069_montanablack88_p24.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1207_s069_montanablack88_p24.txt) |
+|  | 69 | MontanaBlack | Monte: "Auch lustig wie keiner wegen den Kraki kommt" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1207_s069_montanablack88_p24.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1207_s069_montanablack88_p24.txt) |
 |  | 64 | MontanaBlack | Monte gegen die Polizei in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1231_s064_montanablack88_p29.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1231_s064_montanablack88_p29.txt) |
 |  | 63 | MontanaBlack | Monte: "Da hat jemand aus einer Lagerhalle geschrien" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1229_s063_montanablack88_p30.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1229_s063_montanablack88_p30.txt) |
 |  | 59 | MontanaBlack | Monte: "Nimm doch den Schmuck jetzt bro!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1217_s059_montanablack88_p25.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1217_s059_montanablack88_p25.txt) |
