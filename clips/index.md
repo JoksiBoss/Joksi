@@ -5,6 +5,12 @@ _Updated 26 Nov 2026 12:09 CET · [All releases](https://github.com/JoksiBoss/Jo
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
+### 26/11/2026 12:00–13:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 69 | MontanaBlack | Monte: "Auch lustig wie keiner wegen den Kraki kommt" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1207_s069_montanablack88_p24.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1207_s069_montanablack88_p24.txt) |
+
 ### 26/11/2026 11:00–12:00 CET
 
 | | Score | Creator | Title | Video | Title + description |
