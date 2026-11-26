@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 26 Nov 2026 20:52 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 26 Nov 2026 21:01 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -11,7 +11,8 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 72 | ohnePixel | Pixel: "I know he's okay" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2042_s072_ohnepixel_p61.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2042_s072_ohnepixel_p61.txt) |
 | 🔥 **POST THESE** | 64 | ohnePixel | Pixel: "I can fuck them up" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2037_s064_ohnepixel_p58.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2037_s064_ohnepixel_p58.txt) |
-| 🔥 **POST THESE** | 62 | ohnePixel | Pixel: "No no no!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2009_s062_ohnepixel_p54.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2009_s062_ohnepixel_p54.txt) |
+| 🔥 **POST THESE** | 62 | ohnePixel | Pixel: "Oh this shit is y'all" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2054_s062_ohnepixel_p63.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2054_s062_ohnepixel_p63.txt) |
+|  | 62 | ohnePixel | Pixel: "No no no!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2009_s062_ohnepixel_p54.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2009_s062_ohnepixel_p54.txt) |
 |  | 61 | ohnePixel | Pixel: "Watch this I'm a big on support" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2024_s061_ohnepixel_p56.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2024_s061_ohnepixel_p56.txt) |
 |  | 58 | ohnePixel | Pixel: "Get your girl back to the chill" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2036_s058_ohnepixel_p59.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2036_s058_ohnepixel_p59.txt) |
 |  | 58 | ohnePixel | Pixel: "She sounds like a good friend" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2028_s058_ohnepixel_p57.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2028_s058_ohnepixel_p57.txt) |
