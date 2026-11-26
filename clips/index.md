@@ -10,6 +10,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 57 | ohnePixel | Pixel: "Oh my god" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1708_s057_ohnepixel_p17.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1708_s057_ohnepixel_p17.txt) |
+| 🔥 **POST THESE** | 55 | ohnePixel | Pixel Can'T Believe What Just Happened #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1705_s055_ohnepixel_p18.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1705_s055_ohnepixel_p18.txt) |
 
 ### 26/11/2026 16:00–17:00 CET
 
