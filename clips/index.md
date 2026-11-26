@@ -16,6 +16,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 62 | ohnePixel | Pixel: "Can you not need me?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2216_s062_ohnepixel_p80.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2216_s062_ohnepixel_p80.txt) |
 |  | 60 | ohnePixel | Pixel: "Yes all right" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2233_s060_ohnepixel_p83.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2233_s060_ohnepixel_p83.txt) |
 |  | 57 | ohnePixel | Pixel: "Then the heels are too much though no?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2210_s057_ohnepixel_p78.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2210_s057_ohnepixel_p78.txt) |
+|  | 50 | ohnePixel | Pixel: "This is Florida" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2231_s050_ohnepixel_p84.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2231_s050_ohnepixel_p84.txt) |
 
 ### 26/11/2026 21:00–22:00 CET
 
