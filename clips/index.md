@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 26 Nov 2026 10:39 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 26 Nov 2026 10:49 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -15,6 +15,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 56 | MontanaBlack | Monte rastet aus in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1031_s056_montanablack88_p07.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1031_s056_montanablack88_p07.txt) |
 |  | 54 | MontanaBlack | Monte: "Hier meine Hand reichen" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1024_s054_montanablack88_p05.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1024_s054_montanablack88_p05.txt) |
 |  | 48 | MontanaBlack | GTA 6 zerstört Monte #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1015_s048_montanablack88_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1015_s048_montanablack88_p04.txt) |
+|  | 46 | MontanaBlack | Monte: "Bevor ihr mal realisiert dass ihr es abgeht" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1041_s046_montanablack88_p08.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1041_s046_montanablack88_p08.txt) |
 
 ### 26/11/2026 09:00–10:00 CET
 
