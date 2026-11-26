@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 26 Nov 2026 20:51 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 26 Nov 2026 20:52 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -17,6 +17,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 58 | ohnePixel | Pixel: "She sounds like a good friend" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2028_s058_ohnepixel_p57.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2028_s058_ohnepixel_p57.txt) |
 |  | 56 | ohnePixel | Pixel's Craziest Crash Yet #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2003_s056_ohnepixel_p52.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2003_s056_ohnepixel_p52.txt) |
 |  | 54 | ohnePixel | Pixel: "Fuck you dumbass!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2014_s054_ohnepixel_p55.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2014_s054_ohnepixel_p55.txt) |
+|  | 53 | ohnePixel | Pixel: "Chad what's his addy?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2049_s053_ohnepixel_p62.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2049_s053_ohnepixel_p62.txt) |
 |  | 51 | ohnePixel | Pixel: "I didn't think they were in secular" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2039_s051_ohnepixel_p60.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2039_s051_ohnepixel_p60.txt) |
 |  | 45 | ohnePixel | Pixel: "I'm taking this one" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2004_s045_ohnepixel_p53.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-2004_s045_ohnepixel_p53.txt) |
 
