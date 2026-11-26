@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 26 Nov 2026 14:19 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 26 Nov 2026 14:29 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -13,6 +13,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 75 | MontanaBlack | Monte: "Hey das kann doch nicht sein!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1405_s075_montanablack88_p47.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1405_s075_montanablack88_p47.txt) |
 | 🔥 **POST THESE** | 73 | MontanaBlack | GTA 6 zerstört Monte #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1407_s073_montanablack88_p48.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1407_s073_montanablack88_p48.txt) |
 |  | 66 | MontanaBlack | Monte: "Können wir nicht wir müssen Schlüssel klonen" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1411_s066_montanablack88_p50.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1411_s066_montanablack88_p50.txt) |
+|  | 60 | MontanaBlack | Monte: "Wenn so fort wir da" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1427_s060_montanablack88_p51.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1427_s060_montanablack88_p51.txt) |
 
 ### 26/11/2026 13:00–14:00 CET
 
