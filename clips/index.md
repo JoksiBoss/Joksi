@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 26 Nov 2026 15:43 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 26 Nov 2026 15:49 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -18,6 +18,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 60 | MontanaBlack | Monte: "Gleich kommen die Panzer" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1519_s060_montanablack88_p63.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1519_s060_montanablack88_p63.txt) |
 |  | 59 | MontanaBlack | Monte nimmt die Abkürzung in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1509_s059_montanablack88_p61.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1509_s059_montanablack88_p61.txt) |
 |  | 57 | ohnePixel | Pixel Tried To Outrun The Cops #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1533_s057_ohnepixel_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1533_s057_ohnepixel_p02.txt) |
+|  | 56 | ohnePixel | Pixel: "Yeah someone typed before even said it" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1544_s056_ohnepixel_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1544_s056_ohnepixel_p04.txt) |
 |  | 56 | MontanaBlack | Monte war nicht bereit in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1517_s056_montanablack88_p62.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1517_s056_montanablack88_p62.txt) |
 |  | 53 | ohnePixel | Pixel: "Let's say pay me bro" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1537_s053_ohnepixel_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1537_s053_ohnepixel_p03.txt) |
 |  | 46 | MontanaBlack | Monte: "Ja okay okay wir machen das" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1519_s046_montanablack88_p64.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1519_s046_montanablack88_p64.txt) |
