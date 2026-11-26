@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 26 Nov 2026 16:29 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 26 Nov 2026 16:39 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -10,7 +10,8 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 57 | MontanaBlack | Monte: "Das ist das was am Ende zählt" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1602_s057_montanablack88_p73.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1602_s057_montanablack88_p73.txt) |
-| 🔥 **POST THESE** | 55 | ohnePixel | Pixel: "Furious top tens yes?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1609_s055_ohnepixel_p07.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1609_s055_ohnepixel_p07.txt) |
+| 🔥 **POST THESE** | 55 | ohnePixel | Pixel: "This area looks dead" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1633_s055_ohnepixel_p11.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1633_s055_ohnepixel_p11.txt) |
+|  | 55 | ohnePixel | Pixel: "Furious top tens yes?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1609_s055_ohnepixel_p07.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1609_s055_ohnepixel_p07.txt) |
 |  | 53 | ohnePixel | Pixel: "I've seen so many" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1624_s053_ohnepixel_p10.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1624_s053_ohnepixel_p10.txt) |
 |  | 53 | ohnePixel | Pixel: "Fucking two hour fucking Kyle missions bro" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1604_s053_ohnepixel_p06.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1604_s053_ohnepixel_p06.txt) |
 |  | 50 | ohnePixel | Pixel Reacts To This GTA 6 Moment #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1619_s050_ohnepixel_p09.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261126/20261126-1619_s050_ohnepixel_p09.txt) |
