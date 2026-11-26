@@ -1,9 +1,15 @@
 # GTA 6 clips — newest first
 
-_Updated 26 Nov 2026 14:00 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 26 Nov 2026 14:09 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
+
+### 26/11/2026 14:00–15:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 75 | MontanaBlack | Monte: "Hey das kann doch nicht sein!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1405_s075_montanablack88_p47.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1405_s075_montanablack88_p47.txt) |
 
 ### 26/11/2026 13:00–14:00 CET
 
