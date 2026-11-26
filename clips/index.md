@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 26 Nov 2026 13:59 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 26 Nov 2026 14:00 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -18,6 +18,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 65 | MontanaBlack | GTA 6 zerstört Monte #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1344_s065_montanablack88_p44.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1344_s065_montanablack88_p44.txt) |
 |  | 63 | MontanaBlack | Monte: "Ich bin blind wie ne nutter" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1318_s063_montanablack88_p38.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1318_s063_montanablack88_p38.txt) |
 |  | 61 | MontanaBlack | Monte: "Wir schneller tot als wir gucken können" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1321_s061_montanablack88_p39.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1321_s061_montanablack88_p39.txt) |
+|  | 58 | MontanaBlack | Monte: "Nee das Torgrader aus kann man nicht nutzen" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1354_s058_montanablack88_p46.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1354_s058_montanablack88_p46.txt) |
 |  | 57 | MontanaBlack | Monte: "Jetzt warten wir bis der Morgen einbricht" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1327_s057_montanablack88_p40.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1327_s057_montanablack88_p40.txt) |
 
 ### 26/11/2026 12:00–13:00 CET
