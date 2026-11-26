@@ -11,6 +11,12 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 71 | MontanaBlack | Monte kann es nicht glauben in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1000_s071_montanablack88_p01.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-1000_s071_montanablack88_p01.txt) |
 
+### 26/11/2026 09:00–10:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 61 | MontanaBlack | Monte: "Dann sollte es eigentlich funktionieren" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-0958_s061_montanablack88_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261126/20261126-0958_s061_montanablack88_p02.txt) |
+
 ### 25/11/2026 21:00–22:00 CET
 
 | | Score | Creator | Title | Video | Title + description |
