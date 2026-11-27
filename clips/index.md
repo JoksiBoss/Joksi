@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 27 Nov 2026 11:59 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 27 Nov 2026 12:00 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -14,6 +14,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 79 | MontanaBlack | Monte: "Hinten die Flambe bro" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1151_s079_montanablack88_p23.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1151_s079_montanablack88_p23.txt) |
 |  | 77 | MontanaBlack | Monte: "Ich glaube das war's" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1125_s077_montanablack88_p17.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1125_s077_montanablack88_p17.txt) |
 |  | 71 | MontanaBlack | GTA 6 zerstört Monte #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1143_s071_montanablack88_p21.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1143_s071_montanablack88_p21.txt) |
+|  | 69 | MontanaBlack | Monte: "Sobald es offen ist eintragen" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1157_s069_montanablack88_p24.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1157_s069_montanablack88_p24.txt) |
 |  | 69 | MontanaBlack | Monte: "Ja egal scheiß drauf" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1123_s069_montanablack88_p18.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1123_s069_montanablack88_p18.txt) |
 |  | 67 | MontanaBlack | Monte: "Das war klin das war perfect timing Digger" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1101_s067_montanablack88_p13.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1101_s067_montanablack88_p13.txt) |
 |  | 65 | MontanaBlack | Monte: "Hier sind noch deutlich deutlich mehr bro" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1114_s065_montanablack88_p15.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1114_s065_montanablack88_p15.txt) |
