@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 27 Nov 2026 14:50 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 27 Nov 2026 14:59 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -12,6 +12,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 87 | MontanaBlack | Monte: "Merkt ihr wie gut ich Fahrmübrücken hier ne?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1439_s087_montanablack88_p57.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1439_s087_montanablack88_p57.txt) |
 | 🔥 **POST THESE** | 87 | MontanaBlack | Monte: "Oh mein Gott ich bin gleich tot digger" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1407_s087_montanablack88_p49.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1407_s087_montanablack88_p49.txt) |
 | 🔥 **POST THESE** | 84 | MontanaBlack | Monte war nicht bereit in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1436_s084_montanablack88_p55.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1436_s084_montanablack88_p55.txt) |
+|  | 79 | MontanaBlack | Monte: "Na kommt zeigt mal einmal eine fickzrezer Ega" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1453_s079_montanablack88_p59.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1453_s079_montanablack88_p59.txt) |
 |  | 77 | MontanaBlack | Montes krassester Crash in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1406_s077_montanablack88_p50.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1406_s077_montanablack88_p50.txt) |
 |  | 71 | MontanaBlack | Monte war nicht bereit in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1444_s071_montanablack88_p58.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1444_s071_montanablack88_p58.txt) |
 |  | 69 | MontanaBlack | Monte: "Der ist schon ein Macht der Wagen" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1438_s069_montanablack88_p56.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1438_s069_montanablack88_p56.txt) |
