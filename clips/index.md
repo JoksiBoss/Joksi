@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 27 Nov 2026 21:02 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 27 Nov 2026 21:03 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,8 +9,9 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 75 | Kai Cenat | Kai: "Are you ready bro?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2102_s075_kaicenat_p06.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2102_s075_kaicenat_p06.txt) |
 | 🔥 **POST THESE** | 58 | Kai Cenat | Kai: "Oh I don't have cash" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2102_s058_kaicenat_p05.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2102_s058_kaicenat_p05.txt) |
-| 🔥 **POST THESE** | 58 | Kai Cenat | Kai: "No I'm excited" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2101_s058_kaicenat_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2101_s058_kaicenat_p04.txt) |
+|  | 58 | Kai Cenat | Kai: "No I'm excited" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2101_s058_kaicenat_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2101_s058_kaicenat_p04.txt) |
 |  | 58 | Kai Cenat | Kai: "Yo he's literally cheating" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2100_s058_kaicenat_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2100_s058_kaicenat_p02.txt) |
 |  | 55 | Kai Cenat | Kai: "Years ago we did what was needed" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2101_s055_kaicenat_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2101_s055_kaicenat_p03.txt) |
 
