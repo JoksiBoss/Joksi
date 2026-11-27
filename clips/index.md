@@ -11,7 +11,8 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 67 | MontanaBlack | Monte: "Das war klin das war perfect timing Digger" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1101_s067_montanablack88_p13.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1101_s067_montanablack88_p13.txt) |
 | 🔥 **POST THESE** | 65 | MontanaBlack | Monte: "Hier sind noch deutlich deutlich mehr bro" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1114_s065_montanablack88_p15.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1114_s065_montanablack88_p15.txt) |
-| 🔥 **POST THESE** | 61 | MontanaBlack | Monte: "Okay da müssen wir jetzt so Mr" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1104_s061_montanablack88_p14.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1104_s061_montanablack88_p14.txt) |
+| 🔥 **POST THESE** | 64 | MontanaBlack | Monte: "Wir wollen da alles klar machen" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1113_s064_montanablack88_p16.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1113_s064_montanablack88_p16.txt) |
+|  | 61 | MontanaBlack | Monte: "Okay da müssen wir jetzt so Mr" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1104_s061_montanablack88_p14.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1104_s061_montanablack88_p14.txt) |
 
 ### 27/11/2026 10:00–11:00 CET
 
