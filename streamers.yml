@@ -165,3 +165,17 @@ creators:
     game: "GTA 6"
     language: de
     hashtags: ["#MontanaBlack", "#GTA6Deutsch"]
+
+  # GTA 6 Account 3 (Aspirine Vice City). English streamer.
+  - id: nickeh30
+    name: Nick Eh 30
+    short: Nick
+    platform: twitch
+    channel: nickeh30
+    permission: "Direct permission from Nick Eh 30"
+    sponsored: false
+    enabled: true             # clip live when he streams GTA 6
+    account: 3
+    game: "GTA 6"
+    language: en
+    hashtags: ["#NickEh30"]
