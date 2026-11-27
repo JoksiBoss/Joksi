@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 28 Nov 2026 00:07 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 28 Nov 2026 00:17 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,6 +9,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 79 | Nick Eh 30 | Nick Can'T Believe What Just Happened #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261128-0013_s079_nickeh30_p32.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261128-0013_s079_nickeh30_p32.txt) |
 | 🔥 **POST THESE** | 55 | Nick Eh 30 | Nick: "We're getting caught" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261128-0001_s055_nickeh30_p31.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261128-0001_s055_nickeh30_p31.txt) |
 
 ### 27/11/2026 23:00–00:00 CET
