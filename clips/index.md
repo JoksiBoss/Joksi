@@ -14,6 +14,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 78 | MontanaBlack | Monte: "Könnte man das auch überfahren?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1511_s078_montanablack88_p63.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1511_s078_montanablack88_p63.txt) |
 |  | 67 | MontanaBlack | Monte: "Frage wo ist eine große Bank?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1509_s067_montanablack88_p64.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1509_s067_montanablack88_p64.txt) |
 |  | 58 | MontanaBlack | Monte: "Oder weil ich war wegen der Waffe" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1519_s058_montanablack88_p65.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1519_s058_montanablack88_p65.txt) |
+|  | 47 | MontanaBlack | Monte: "Also der macht 10 von 10 Spaß" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1518_s047_montanablack88_p66.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1518_s047_montanablack88_p66.txt) |
 
 ### 27/11/2026 14:00–15:00 CET
 
