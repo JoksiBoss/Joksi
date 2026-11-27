@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 27 Nov 2026 10:39 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 27 Nov 2026 10:40 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -14,6 +14,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 72 | MontanaBlack | Monte: "Doch möglich schon aber eher unwahrscheinlich" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1011_s072_montanablack88_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1011_s072_montanablack88_p03.txt) |
 |  | 68 | MontanaBlack | Monte: "Okay ich bin auch polizist" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1007_s068_montanablack88_p01.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1007_s068_montanablack88_p01.txt) |
 |  | 67 | MontanaBlack | Monte: "Bro die Polizei hat ihn erschossen" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1027_s067_montanablack88_p06.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1027_s067_montanablack88_p06.txt) |
+|  | 63 | MontanaBlack | Monte: "Das macht dann einfach am meisten Spaß" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1030_s063_montanablack88_p08.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1030_s063_montanablack88_p08.txt) |
 |  | 58 | MontanaBlack | Monte war nicht bereit in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1000_s058_montanablack88_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1000_s058_montanablack88_p02.txt) |
 |  | 46 | MontanaBlack | Monte: "Sie einmal die Augen bitte schließen" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1018_s046_montanablack88_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1018_s046_montanablack88_p04.txt) |
 
