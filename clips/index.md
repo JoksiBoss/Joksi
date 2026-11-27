@@ -30,6 +30,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 52 | Nick Eh 30 | Nick: "I don't think I can" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2117_s052_nickeh30_p06.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2117_s052_nickeh30_p06.txt) |
 |  | 52 | Nick Eh 30 | Nick: "Southwest Lennox County" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2116_s052_nickeh30_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2116_s052_nickeh30_p04.txt) |
 |  | 52 | Nick Eh 30 | Nick: "I don't want to go in the hotel" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2104_s052_nickeh30_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2104_s052_nickeh30_p02.txt) |
+|  | 50 | Nick Eh 30 | Nick: "A little surprising when they get back" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2132_s050_nickeh30_p08.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2132_s050_nickeh30_p08.txt) |
 
 ### 27/11/2026 20:00–21:00 CET
 
