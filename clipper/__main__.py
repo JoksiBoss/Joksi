@@ -133,7 +133,8 @@ class Clipper:
             return
         chat = self.chat.counts(seg_wall_start, len(loud)) if self.chat else None
         curve = detect.score_curve(loud, chat)
-        peaks = detect.pick_peaks(curve, max_n=self.max_per_seg)
+        peaks = detect.pick_peaks(curve, max_n=self.max_per_seg,
+                                  min_score2=int(os.environ.get("CLIP_MIN_SCORE2", "55")))
         log(f"[seg] {seg_path.name}: {len(loud)}s, chat msgs={sum(chat) if chat else 'n/a'}, peaks={peaks}")
         for peak, score in peaks:
             try:
@@ -144,32 +145,60 @@ class Clipper:
 
     def make_clip(self, edit, seg, seglen, peak, score, seg_wall_start):
         c = self.c
-        # Long clips: the strongest moments (score >= LONG_MIN_SCORE) may run past 1 minute, up to
-        # LONG_MAX_SECONDS, ending on the first sentence end after LONG_TAIL seconds past the peak.
-        long_ok = env_bool("LONG_CLIPS", False) and score >= int(os.environ.get("LONG_MIN_SCORE", "70"))
-        cap = float(os.environ.get("LONG_MAX_SECONDS", "90")) if long_ok else 55.0
-        lead = 30.0 if long_ok else 20.0
-        tail = float(os.environ.get("LONG_TAIL", "35")) if long_ok else 10.0
-        start = max(0.0, peak - lead)
-        win_end = min(float(seglen), start + cap)
-        if win_end - start < 25:
-            start = max(0.0, win_end - 25.0)
-        if win_end - start < 25:
+        # Short clips (27.11.2026): 12-30 s. Start a few seconds before the spike (the cause), end right
+        # after the reaction so the Short loops. Research: completion rate + rewatches decide reach.
+        if env_bool("LONG_CLIPS", False) and score >= int(os.environ.get("LONG_MIN_SCORE", "70")):
+            cap = float(os.environ.get("LONG_MAX_SECONDS", "90"))
+            lead, tail, min_len = 30.0, float(os.environ.get("LONG_TAIL", "35")), 25.0
+        else:
+            cap = float(os.environ.get("CLIP_MAX_SECONDS", "30"))
+            lead = float(os.environ.get("CLIP_LEAD", "7"))
+            tail = float(os.environ.get("CLIP_TAIL", "5"))
+            min_len = float(os.environ.get("CLIP_MIN_SECONDS", "12"))
+        # transcribe a little extra before the lead so the start can snap to the beginning of a sentence
+        snap = 4.0
+        t_from = max(0.0, peak - lead - snap)
+        win_end = min(float(seglen), peak - lead + cap + snap)
+        if win_end - t_from < min_len:
             return
         work = self.out / "tmp"
         work.mkdir(exist_ok=True)
-        segs = edit.transcribe(seg, start, win_end - start, work, lang=c.get("language") or None)
+        raw = edit.transcribe(seg, t_from, win_end - t_from, work, lang=c.get("language") or None)
+        # start: peak - lead, moved back to the start of the sentence that is running at that moment
+        # (never more than `snap` s earlier), so the clip doesn't open mid-word
+        start = max(0.0, peak - lead)
+        for s in raw:
+            s0, s1 = t_from + s["start"], t_from + s["end"]
+            if s0 < start < s1 and start - s0 <= snap:
+                start = max(0.0, s0 - 0.15)
+                break
+        off = start - t_from
+        segs = []
+        for s in raw:
+            if s["end"] - off <= 0.05:
+                continue
+            ws = [dict(w, start=w["start"] - off, end=w["end"] - off) for w in s["words"] if w["end"] - off > 0.05]
+            segs.append({"start": max(0.0, s["start"] - off), "end": s["end"] - off, "text": s["text"], "words": ws})
         p_rel = peak - start
+        avail = min(cap, float(seglen) - start)
+        if avail < min_len:
+            return
+        # end: first sentence end after peak + tail (the reaction lands), never past the cap
         target = p_rel + tail
         end_rel = target
         for s in segs:
             if s["end"] >= target:
-                end_rel = s["end"] + 0.4
+                end_rel = s["end"] + 0.3
                 break
-        end_rel = max(25.0, min(end_rel, win_end - start, cap))
+        end_rel = max(min_len, min(end_rel, avail))
         segs = [s for s in segs if s["start"] < end_rel]
         words = [w for s in segs for w in s["words"] if w["start"] < end_rel]
         speech = [(s["start"], min(s["end"], end_rel)) for s in segs]
+        # quality gate: a reaction clip with (almost) no talking rarely works -> skip unless the spike is huge
+        min_words = int(os.environ.get("CLIP_MIN_WORDS", "5"))
+        if len(words) < min_words and score < int(os.environ.get("CLIP_QUIET_MIN_SCORE", "85")):
+            log(f"[clip] skip at {peak}s: only {len(words)} words (score {score})")
+            return
         if len(words) >= 12:
             score = min(99, score + 5)
         self.release()

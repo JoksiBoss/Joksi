@@ -51,9 +51,15 @@ env:
   MUTE_MUSIC: ${{ inputs.mute_music == true || vars.MUTE_MUSIC == 'true' }}
   PYTHONUNBUFFERED: "1"
   WATERMARK: ${{ inputs.watermark }}
-  LONG_CLIPS: "true"         # the strongest moments may run past 1 minute ...
-  LONG_MIN_SCORE: "70"       # ... only when the hype score is >= 70 ...
-  LONG_MAX_SECONDS: "90"     # ... and never longer than 90 s
+  # Short clips (Teodor, 27.11.2026): 12-30 s so viewers watch to the end and the Short loops.
+  LONG_CLIPS: "false"        # no more 60-90 s clips
+  CLIP_MAX_SECONDS: "30"     # hard cap
+  CLIP_MIN_SECONDS: "12"
+  CLIP_LEAD: "7"             # seconds before the spike (the cause), snapped to a sentence start
+  CLIP_TAIL: "5"             # end on the first sentence end ~5 s after the spike (the reaction)
+  CLIP_MIN_WORDS: "5"        # skip near-silent clips ...
+  CLIP_QUIET_MIN_SCORE: "85" # ... unless the spike is huge
+  CLIP_MIN_SCORE2: "55"      # 2nd clip of a 10-min segment only if it is strong too
   YT_COOKIES: ${{ secrets.YT_COOKIES }}   # optional: cookies.txt for YouTube if it blocks the runner
   # optional AI context provider (clipper/ai.py). No key = template hooks, pipeline unchanged.
   GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
