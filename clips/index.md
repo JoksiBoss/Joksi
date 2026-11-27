@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 27 Nov 2026 21:10 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 27 Nov 2026 21:17 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -22,6 +22,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 58 | Kai Cenat | Kai: "Oh I don't have cash" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2102_s058_kaicenat_p05.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2102_s058_kaicenat_p05.txt) |
 |  | 58 | Kai Cenat | Kai: "No I'm excited" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2101_s058_kaicenat_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2101_s058_kaicenat_p04.txt) |
 |  | 58 | Kai Cenat | Kai: "Yo he's literally cheating" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2100_s058_kaicenat_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2100_s058_kaicenat_p02.txt) |
+|  | 57 | Nick Eh 30 | Nick: "How many chapters is it five or six?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2109_s057_nickeh30_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2109_s057_nickeh30_p03.txt) |
 |  | 55 | Kai Cenat | Kai: "Years ago we did what was needed" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2101_s055_kaicenat_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2101_s055_kaicenat_p03.txt) |
 |  | 54 | Nick Eh 30 | Nick Lost It In GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2100_s054_nickeh30_p01.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2100_s054_nickeh30_p01.txt) |
 |  | 52 | Nick Eh 30 | Nick: "I don't want to go in the hotel" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2104_s052_nickeh30_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2104_s052_nickeh30_p02.txt) |
