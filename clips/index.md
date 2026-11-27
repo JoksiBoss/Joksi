@@ -14,6 +14,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 65 | MontanaBlack | Monte: "Alter ist der aber am Rausbohlen ne?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1213_s065_montanablack88_p28.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1213_s065_montanablack88_p28.txt) |
 |  | 63 | MontanaBlack | Monte: "Oh Gott das will ich" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1203_s063_montanablack88_p26.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1203_s063_montanablack88_p26.txt) |
 |  | 61 | MontanaBlack | Monte: "Oh mein Gott" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1222_s061_montanablack88_p29.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1222_s061_montanablack88_p29.txt) |
+|  | 61 | MontanaBlack | Monte: "Das hier ist übergewichtig oder ist dick?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1219_s061_montanablack88_p30.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1219_s061_montanablack88_p30.txt) |
 
 ### 27/11/2026 11:00–12:00 CET
 
