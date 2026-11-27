@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 28 Nov 2026 00:37 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 28 Nov 2026 00:38 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -12,7 +12,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 88 | Kai Cenat | Kai: "I'm checking out money right now speed" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0037_s088_kaicenat_p07.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0037_s088_kaicenat_p07.txt) |
 | 🔥 **POST THESE** | 88 | CaseOh | CaseOh: "One moment I can't do a side stream" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0037_s088_caseoh_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0037_s088_caseoh_p03.txt) |
 | 🔥 **POST THESE** | 88 | CaseOh | CaseOh: "It's for your own good" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0037_s088_caseoh_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0037_s088_caseoh_p04.txt) |
-|  | 88 | CaseOh | CaseOh: "Let me just join one" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0037_s088_caseoh_p05.mp4) |  |
+|  | 88 | CaseOh | CaseOh: "Let me just join one" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0037_s088_caseoh_p05.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0037_s088_caseoh_p05.txt) |
 |  | 88 | ohnePixel | Pixel: "Furious top tens yes?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0036_s088_ohnepixel_p08.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0036_s088_ohnepixel_p08.txt) |
 |  | 85 | ohnePixel | Pixel: "If you know you know!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0035_s085_ohnepixel_p05.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0035_s085_ohnepixel_p05.txt) |
 |  | 83 | ohnePixel | Pixel: "Let's go clean driving" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0037_s083_ohnepixel_p10.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0037_s083_ohnepixel_p10.txt) |
