@@ -1,9 +1,15 @@
 # GTA 6 clips — newest first
 
-_Updated 27 Nov 2026 23:08 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 27 Nov 2026 23:27 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
+
+### 27/11/2026 23:00–00:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 73 | Nick Eh 30 | Nick: "Yeah I mean that now I've realized like" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2321_s073_nickeh30_p24.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2321_s073_nickeh30_p24.txt) |
 
 ### 27/11/2026 22:00–23:00 CET
 
