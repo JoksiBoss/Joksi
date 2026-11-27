@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 27 Nov 2026 21:05 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 27 Nov 2026 21:06 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,9 +9,10 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 80 | Kai Cenat | Kai: "Oh yeah hello seal" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2105_s080_kaicenat_p10.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2105_s080_kaicenat_p10.txt) |
 | 🔥 **POST THESE** | 75 | Kai Cenat | Kai: "Are you ready bro?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2102_s075_kaicenat_p06.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2102_s075_kaicenat_p06.txt) |
 | 🔥 **POST THESE** | 70 | Kai Cenat | Kai: "We need the overlay" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2104_s070_kaicenat_p08.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2104_s070_kaicenat_p08.txt) |
-| 🔥 **POST THESE** | 69 | Kai Cenat | Kai: "Would you be" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2104_s069_kaicenat_p09.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2104_s069_kaicenat_p09.txt) |
+|  | 69 | Kai Cenat | Kai: "Would you be" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2104_s069_kaicenat_p09.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2104_s069_kaicenat_p09.txt) |
 |  | 61 | Kai Cenat | Kai: "That's the fucking guy car bro" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2103_s061_kaicenat_p07.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2103_s061_kaicenat_p07.txt) |
 |  | 58 | Kai Cenat | Kai: "Oh I don't have cash" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2102_s058_kaicenat_p05.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2102_s058_kaicenat_p05.txt) |
 |  | 58 | Kai Cenat | Kai: "No I'm excited" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2101_s058_kaicenat_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2101_s058_kaicenat_p04.txt) |
