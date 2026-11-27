@@ -10,6 +10,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 58 | Kai Cenat | Kai: "Yo he's literally cheating" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2100_s058_kaicenat_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2100_s058_kaicenat_p02.txt) |
+| 🔥 **POST THESE** | 55 | Kai Cenat | Kai: "Years ago we did what was needed" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2101_s055_kaicenat_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261127/20261127-2101_s055_kaicenat_p03.txt) |
 
 ### 27/11/2026 20:00–21:00 CET
 
