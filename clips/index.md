@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 28 Nov 2026 00:38 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 28 Nov 2026 00:39 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -37,6 +37,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 69 | CaseOh | CaseOh: "There we go" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0038_s069_caseoh_p08.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0038_s069_caseoh_p08.txt) |
 |  | 69 | Kai Cenat | Kai: "I need a cash" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0036_s069_kaicenat_p05.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0036_s069_kaicenat_p05.txt) |
 |  | 68 | ohnePixel | Pixel: "Okay so let's see what we do see" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0036_s068_ohnepixel_p06.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0036_s068_ohnepixel_p06.txt) |
+|  | 67 | ohnePixel | Pixel: "Who's got some courage for this school?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0038_s067_ohnepixel_p15.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0038_s067_ohnepixel_p15.txt) |
 |  | 63 | ohnePixel | Pixel: "Blue tooth headphones guys" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0035_s063_ohnepixel_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0035_s063_ohnepixel_p03.txt) |
 |  | 61 | CaseOh | CaseOh: "We can't take a shower right now" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0036_s061_caseoh_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0036_s061_caseoh_p02.txt) |
 |  | 61 | ohnePixel | Pixel: "5 give to right now if you're real" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0035_s061_ohnepixel_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0035_s061_ohnepixel_p04.txt) |
