@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 28 Nov 2026 00:35 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 28 Nov 2026 00:36 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -13,6 +13,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 77 | Nick Eh 30 | Nick: "We got to go" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261128-0019_s077_nickeh30_p34.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261128-0019_s077_nickeh30_p34.txt) |
 | 🔥 **POST THESE** | 77 | Nick Eh 30 | Nick: "Like you remember" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261128-0012_s077_nickeh30_p33.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261128-0012_s077_nickeh30_p33.txt) |
 |  | 75 | Kai Cenat | Kai: "Are you ready sir?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0034_s075_kaicenat_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0034_s075_kaicenat_p02.txt) |
+|  | 70 | Kai Cenat | Kai: "Yeah we need the overlay" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0035_s070_kaicenat_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0035_s070_kaicenat_p04.txt) |
 |  | 70 | Nick Eh 30 | Nick: "Oh my gosh sorry for the language" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261128-0025_s070_nickeh30_p35.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261128-0025_s070_nickeh30_p35.txt) |
 |  | 63 | ohnePixel | Pixel: "Blue tooth headphones guys" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0035_s063_ohnepixel_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0035_s063_ohnepixel_p03.txt) |
 |  | 61 | ohnePixel | Pixel: "5 give to right now if you're real" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0035_s061_ohnepixel_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0035_s061_ohnepixel_p04.txt) |
