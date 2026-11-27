@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 28 Nov 2026 00:44 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 28 Nov 2026 00:54 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -57,6 +57,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 68 | ohnePixel | Pixel: "Okay so let's see what we do see" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0036_s068_ohnepixel_p06.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0036_s068_ohnepixel_p06.txt) |
 |  | 67 | ohnePixel | Pixel: "Who's got some courage for this school?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0038_s067_ohnepixel_p15.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0038_s067_ohnepixel_p15.txt) |
 |  | 63 | ohnePixel | Pixel: "Blue tooth headphones guys" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0035_s063_ohnepixel_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0035_s063_ohnepixel_p03.txt) |
+|  | 61 | Nick Eh 30 | Nick: "Not what you're gonna do" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0046_s061_nickeh30_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0046_s061_nickeh30_p03.txt) |
 |  | 61 | CaseOh | CaseOh: "We can't take a shower right now" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0036_s061_caseoh_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0036_s061_caseoh_p02.txt) |
 |  | 61 | ohnePixel | Pixel: "5 give to right now if you're real" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0035_s061_ohnepixel_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0035_s061_ohnepixel_p04.txt) |
 |  | 61 | Kai Cenat | Kai: "What are you talking about?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0035_s061_kaicenat_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0035_s061_kaicenat_p03.txt) |
