@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 27 Nov 2026 23:28 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 27 Nov 2026 23:37 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,8 +9,9 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 88 | Nick Eh 30 | Nick: "Okay so I'm gonna be Lucía" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2330_s088_nickeh30_p26.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2330_s088_nickeh30_p26.txt) |
 | 🔥 **POST THESE** | 73 | Nick Eh 30 | Nick: "Yeah I mean that now I've realized like" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2321_s073_nickeh30_p24.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2321_s073_nickeh30_p24.txt) |
-| 🔥 **POST THESE** | 58 | Nick Eh 30 | Nick's Reaction Is Everything #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2324_s058_nickeh30_p25.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2324_s058_nickeh30_p25.txt) |
+|  | 58 | Nick Eh 30 | Nick's Reaction Is Everything #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2324_s058_nickeh30_p25.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2324_s058_nickeh30_p25.txt) |
 
 ### 27/11/2026 22:00–23:00 CET
 
