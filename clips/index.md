@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 27 Nov 2026 23:37 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 27 Nov 2026 23:47 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -13,6 +13,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 73 | Nick Eh 30 | Nick: "Yeah I mean that now I've realized like" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2321_s073_nickeh30_p24.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2321_s073_nickeh30_p24.txt) |
 |  | 58 | Nick Eh 30 | Nick's Reaction Is Everything #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2324_s058_nickeh30_p25.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2324_s058_nickeh30_p25.txt) |
 |  | 55 | Nick Eh 30 | Nick: "Jason is now irredeemable" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2329_s055_nickeh30_p27.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2329_s055_nickeh30_p27.txt) |
+|  | 51 | Nick Eh 30 | Nick: "There we go oh oh oh oh" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2345_s051_nickeh30_p28.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2345_s051_nickeh30_p28.txt) |
 
 ### 27/11/2026 22:00–23:00 CET
 
