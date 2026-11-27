@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 27 Nov 2026 12:40 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 27 Nov 2026 12:49 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,9 +9,10 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 74 | MontanaBlack | Monte: "Sind wir wegen dem Motorrad hier?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1246_s074_montanablack88_p33.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1246_s074_montanablack88_p33.txt) |
 | 🔥 **POST THESE** | 68 | MontanaBlack | Monte am Steuer in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1205_s068_montanablack88_p25.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1205_s068_montanablack88_p25.txt) |
 | 🔥 **POST THESE** | 67 | MontanaBlack | Monte: "Nee das muss er irgendwie anders gehen zett" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1233_s067_montanablack88_p31.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1233_s067_montanablack88_p31.txt) |
-| 🔥 **POST THESE** | 67 | MontanaBlack | Monte: "Er stecken geblieben" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1212_s067_montanablack88_p27.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1212_s067_montanablack88_p27.txt) |
+|  | 67 | MontanaBlack | Monte: "Er stecken geblieben" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1212_s067_montanablack88_p27.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1212_s067_montanablack88_p27.txt) |
 |  | 65 | MontanaBlack | Monte: "Alter ist der aber am Rausbohlen ne?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1213_s065_montanablack88_p28.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1213_s065_montanablack88_p28.txt) |
 |  | 63 | MontanaBlack | Monte: "Oh Gott das will ich" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1203_s063_montanablack88_p26.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1203_s063_montanablack88_p26.txt) |
 |  | 61 | MontanaBlack | Monte: "Da kannst du da auch nicht viel machen" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1237_s061_montanablack88_p32.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1237_s061_montanablack88_p32.txt) |
