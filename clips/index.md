@@ -16,6 +16,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 58 | MontanaBlack | Monte war nicht bereit in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1336_s058_montanablack88_p43.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1336_s058_montanablack88_p43.txt) |
 |  | 56 | MontanaBlack | Monte: "Aha da ist es ja" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1317_s056_montanablack88_p39.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1317_s056_montanablack88_p39.txt) |
 |  | 56 | MontanaBlack | Monte: "Alter ist alles so dunkel Mann" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1313_s056_montanablack88_p40.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1313_s056_montanablack88_p40.txt) |
+|  | 47 | MontanaBlack | Monte: "Gehen wir die Uhrzeit" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1335_s047_montanablack88_p44.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1335_s047_montanablack88_p44.txt) |
 
 ### 27/11/2026 12:00–13:00 CET
 
