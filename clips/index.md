@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 27 Nov 2026 15:21 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 27 Nov 2026 15:33 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -12,6 +12,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 86 | MontanaBlack | Monte: "Was würdet ihr machen?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1501_s086_montanablack88_p61.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1501_s086_montanablack88_p61.txt) |
 | 🔥 **POST THESE** | 84 | MontanaBlack | Monte auf Raubzug in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1506_s084_montanablack88_p62.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1506_s084_montanablack88_p62.txt) |
 | 🔥 **POST THESE** | 78 | MontanaBlack | Monte: "Könnte man das auch überfahren?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1511_s078_montanablack88_p63.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1511_s078_montanablack88_p63.txt) |
+|  | 67 | MontanaBlack | Monte: "Beste Laden aller Zeiten Digger" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1525_s067_montanablack88_p67.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1525_s067_montanablack88_p67.txt) |
 |  | 67 | MontanaBlack | Monte: "Frage wo ist eine große Bank?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1509_s067_montanablack88_p64.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1509_s067_montanablack88_p64.txt) |
 |  | 58 | MontanaBlack | Monte: "Oder weil ich war wegen der Waffe" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1519_s058_montanablack88_p65.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1519_s058_montanablack88_p65.txt) |
 |  | 47 | MontanaBlack | Monte: "Also der macht 10 von 10 Spaß" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1518_s047_montanablack88_p66.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1518_s047_montanablack88_p66.txt) |
