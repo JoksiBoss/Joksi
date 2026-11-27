@@ -10,6 +10,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 55 | Nick Eh 30 | Nick: "Where could we go where's there another" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2201_s055_nickeh30_p13.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2201_s055_nickeh30_p13.txt) |
+| 🔥 **POST THESE** | 52 | Nick Eh 30 | Nick: "I feel like there's always some" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2206_s052_nickeh30_p14.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2206_s052_nickeh30_p14.txt) |
 
 ### 27/11/2026 21:00–22:00 CET
 
