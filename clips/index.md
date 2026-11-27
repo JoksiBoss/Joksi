@@ -12,6 +12,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 75 | MontanaBlack | Monte: "Ich schnaufe zu meiner Holy Shit" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1306_s075_montanablack88_p37.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1306_s075_montanablack88_p37.txt) |
 | 🔥 **POST THESE** | 70 | MontanaBlack | GTA 6 zerstört Monte #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1304_s070_montanablack88_p38.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1304_s070_montanablack88_p38.txt) |
 |  | 56 | MontanaBlack | Monte: "Aha da ist es ja" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1317_s056_montanablack88_p39.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1317_s056_montanablack88_p39.txt) |
+|  | 56 | MontanaBlack | Monte: "Alter ist alles so dunkel Mann" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1313_s056_montanablack88_p40.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1313_s056_montanablack88_p40.txt) |
 
 ### 27/11/2026 12:00–13:00 CET
 
