@@ -1,9 +1,15 @@
 # GTA 6 clips — newest first
 
-_Updated 26 Nov 2026 22:42 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 27 Nov 2026 10:09 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
+
+### 27/11/2026 10:00–11:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 68 | MontanaBlack | Monte: "Okay ich bin auch polizist" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1007_s068_montanablack88_p01.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1007_s068_montanablack88_p01.txt) |
 
 ### 26/11/2026 22:00–23:00 CET
 
