@@ -12,6 +12,13 @@ defaults:
     2: "@gta_vicesity_vi"         # Account 2 = Metricool brand "Ludi mak mail - Gta Vici Sity Clipzy"
     3: "@aspirine_vicecity"       # Account 3 = Metricool brand "Aspirine Vice City - lonarishop"
 
+  # Look per GTA 6 account (Teodor, 27.11): badge top-left + accent colour for the hook, the highlighted
+  # caption word and the line between facecam and gameplay -> every account is recognisable at a glance.
+  account_styles:
+    1: {name: "ROCKETMAN", accent: "#FF6A1A"}          # orange rocket
+    2: {name: "GRAND VICE SITY", accent: "#2EE6FF"}    # daytime beach, turquoise
+    3: {name: "ASPIRINE", accent: "#FF2BD6"}           # neon city, pink
+
 # facecam: [x0, y0, x1, y1] -> 9:16 layout with the facecam on top and gameplay below (blank = old layout).
 #   Fractions of the 16:9 stream frame. Re-check if the streamer moves their camera.
 creators:

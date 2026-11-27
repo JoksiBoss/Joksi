@@ -35,12 +35,15 @@ def load_config():
         cfg = yaml.safe_load(f)
     defaults = cfg.get("defaults", {}) or {}
     marks = {str(k): str(v) for k, v in (defaults.get("account_watermarks", {}) or {}).items()}
+    styles = {str(k): dict(v or {}) for k, v in (defaults.get("account_styles", {}) or {}).items()}
     out = []
     for c in cfg.get("creators", []):
         c = dict(c)
         # watermark: the creator's own, else the watermark of the GTA 6 account the creator belongs to
         c["watermark"] = str(c.get("watermark") or marks.get(str(c.get("account", "")), "") or "")
         c.setdefault("short", c["name"])
+        # look of the GTA 6 account the creator belongs to (badge name + accent colour)
+        c["style"] = dict(styles.get(str(c.get("account", "")), {}), **(c.get("style") or {}))
         # language: force captions + on-screen text language for this creator (e.g. "de"); "" = auto/English
         c["language"] = str(c.get("language") or "").strip().lower()
         c.setdefault("enabled", False)

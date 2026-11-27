@@ -12,7 +12,7 @@ on:
         required: false
         default: ""
       source_url:
-        description: "TEST ONLY: a Twitch VOD or YouTube video URL to clip instead of the live stream"
+        description: "A Twitch VOD / YouTube URL to clip instead of the live stream, or 'latest' = newest Twitch past broadcast"
         required: false
         default: ""
       start_at:

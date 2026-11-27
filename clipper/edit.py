@@ -111,7 +111,22 @@ def facecam_box(fc):
     return x0, y0, x1, y1
 
 
-def build_ass(path, hook, storyline, credit, words, dur, context_card="", watermark="", stacked=False):
+def ass_color(hex_rgb, default="&H00F0FF&"):
+    """'#RRGGBB' -> ASS '&HBBGGRR&'."""
+    h = str(hex_rgb or "").strip().lstrip("#")
+    if len(h) != 6:
+        return default
+    try:
+        int(h, 16)
+    except ValueError:
+        return default
+    return f"&H{h[4:6]}{h[2:4]}{h[0:2]}&".upper()
+
+
+def build_ass(path, hook, storyline, credit, words, dur, context_card="", watermark="", stacked=False, style=None):
+    style = style or {}
+    accent = ass_color(style.get("accent"))            # hook + highlighted caption word
+    badge = _clean(str(style.get("name", "") or "").upper())
     hdr = f"""[Script Info]
 ScriptType: v4.00+
 PlayResX: {W}
@@ -127,6 +142,7 @@ Style: Cap,{FONT},92,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100
 Style: Ctx,{FONT},60,&H00FFFFFF,&H00FFFFFF,&H28000000,&H28000000,0,0,0,0,100,100,1,0,3,18,0,2,60,60,0,1
 Style: Credit,{FONT},40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,1,0,1,4,1,5,40,40,0,1
 Style: Mark,{FONT},46,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,1,0,1,3,1,5,40,40,0,1
+Style: Badge,{FONT},48,&H00101010,&H00101010,&H00{accent[2:-1]},&H00{accent[2:-1]},1,0,0,0,100,100,2,0,3,10,0,7,40,40,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -138,7 +154,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     mark_y = 1610 if stacked else FG_Y + FG_H + 52
     # Hook title card: first 2 s, pops in, yellow, over a dark band
     htxt, hsz = fit_text(_clean(hook), 128, W - 120, 2, min_size=80)
-    ev.append(f"Dialogue: 2,{_ts(0)},{_ts(2.0)},Hook,,0,0,0,,{{\\pos(540,{hook_y})\\fs{hsz}\\c&H00F0FF&\\fscx60\\fscy60\\t(0,160,\\fscx100\\fscy100)}}{htxt}")
+    ev.append(f"Dialogue: 2,{_ts(0)},{_ts(2.0)},Hook,,0,0,0,,{{\\pos(540,{hook_y})\\fs{hsz}\\c{accent}\\fscx60\\fscy60\\t(0,160,\\fscx100\\fscy100)}}{htxt}")
     # Context card (AI): plain setup of what is happening, ~2-5 s, max two lines on a dark band,
     # bottom-anchored above the storyline banner so it never collides with it
     if context_card and dur > 3.0:
@@ -156,6 +172,9 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     # semi-transparent, clear of the TikTok/Reels/Shorts buttons on the right and the caption bar at the bottom.
     if watermark:
         ev.append(f"Dialogue: 1,{_ts(0)},{_ts(dur)},Mark,,0,0,0,,{{\\pos(540,{mark_y})\\alpha&H60&}}{_clean(watermark)}")
+    # Account badge (e.g. ROCKETMAN): small accent-coloured tag, top-left, whole clip -> recognisable at a glance
+    if badge:
+        ev.append(f"Dialogue: 1,{_ts(0)},{_ts(dur)},Badge,,0,0,0,,{{\\an7\\pos(36,40)}}{badge}")
     # Word-by-word captions in chunks of up to 3 words
     chunks, cur = [], []
     for w in words:
@@ -179,7 +198,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
                 if not txt:
                     continue
                 if j == i:
-                    parts.append(f"{{\\c&H00F0FF&\\fscx112\\fscy112}}{txt}{{\\r}}")
+                    parts.append(f"{{\\c{accent}\\fscx112\\fscy112}}{txt}{{\\r}}")
                 else:
                     parts.append(txt)
             if parts:
@@ -187,7 +206,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     Path(path).write_text(hdr + "\n".join(ev) + "\n", encoding="utf-8")
 
 
-def _stacked_vf(box, anchor, z0, z1, ass, fontsdir):
+def _stacked_vf(box, anchor, z0, z1, ass, fontsdir, seam="black@0.9"):
     """Facecam panel (1080x640) on top, gameplay (1080x1280, centre of the stream) below.
     The facecam box is cover-cropped to the panel, anchored `anchor` from the top (keeps the head in frame),
     and punches in 1.2x on the reaction."""
@@ -202,22 +221,25 @@ def _stacked_vf(box, anchor, z0, z1, ass, fontsdir):
         f"[b]{cam},{cover}[cam];"
         f"[c]{cam},{cover},scale={zw}:{zh},crop={W}:{CAM_H}[camz];"
         f"[cam][camz]overlay=0:0:enable='between(t,{z0:.2f},{z1:.2f})'[camv];"
-        f"[camv][game]vstack=inputs=2,drawbox=x=0:y={CAM_H - 3}:w={W}:h=6:color=black@0.9:t=fill[v1];"
+        f"[camv][game]vstack=inputs=2,drawbox=x=0:y={CAM_H - 4}:w={W}:h=8:color={seam}:t=fill[v1];"
         f"[v1]subtitles=filename='{ass}':fontsdir='{fontsdir}'[v]"
     )
 
 
 def render(src, start, dur, out_mp4, workdir, hook, storyline, credit, words, zoom_at, speech=None, context_card="", watermark="",
-           facecam=None, facecam_anchor=0.35):
+           facecam=None, facecam_anchor=0.35, style=None):
     workdir = Path(workdir)
     ass = workdir / "c.ass"
     box = facecam_box(facecam) if facecam and env_bool("FACECAM_LAYOUT", True) else None
-    build_ass(ass, hook, storyline, credit, words, dur, context_card, watermark, stacked=bool(box))
+    style = style or {}
+    build_ass(ass, hook, storyline, credit, words, dur, context_card, watermark, stacked=bool(box), style=style)
     z0, z1 = max(0.0, zoom_at - 0.25), min(dur, zoom_at + 2.4)
     z2 = min(dur - 0.5, z1 + 6.0)  # second, smaller punch-in a few seconds later
     fontsdir = FONT_DIR if FONT_DIR.exists() else workdir
     if box:
-        vf = _stacked_vf(box, float(facecam_anchor), z0, z1, ass, fontsdir)
+        acc = str(style.get("accent", "") or "").strip().lstrip("#")
+        seam = f"0x{acc}" if len(acc) == 6 else "black@0.9"
+        vf = _stacked_vf(box, float(facecam_anchor), z0, z1, ass, fontsdir, seam=seam)
     else:
         vf = (
             f"[0:v]fps=30,setsar=1,split=4[a][b][c][d];"

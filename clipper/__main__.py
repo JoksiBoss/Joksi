@@ -11,15 +11,40 @@ from pathlib import Path
 
 from . import ai, detect, live, publish, story
 from .session import CONTEXT_S, Session
-from .common import (channel_url, env_bool, get_creator, handle, is_twitch_url, live_url, log, now_local,
+from .common import (GTA_RE, channel_url, env_bool, get_creator, handle, is_twitch_url, live_url, log, now_local,
                      platform_name, run, set_output, summary, ytdlp)
 
 SEG = int(os.environ.get("SEGMENT_SECONDS", "600"))
 
 
+# ---------------------------------------------------------------- latest VOD
+def resolve_latest(a, c):
+    """source_url 'latest' -> the creator's newest Twitch past broadcast (URL + title)."""
+    if (a.source_url or "").lower() != "latest":
+        return ""
+    if c["platform"] != "twitch":
+        raise SystemExit("source_url=latest works only for Twitch creators")
+    r = run(ytdlp() + ["--flat-playlist", "--playlist-items", "1", "--print", "%(url)s\t%(title)s",
+                       f"https://www.twitch.tv/{c['channel']}/videos?filter=archives&sort=time"], check=False, timeout=120)
+    line = (r.stdout or "").strip().splitlines()[:1]
+    if not line or "\t" not in line[0]:
+        raise SystemExit(f"no past broadcast found for {c['channel']}: {(r.stderr or '')[-300:]}")
+    url, title = line[0].split("\t", 1)
+    if url.startswith("/"):
+        url = "https://www.twitch.tv" + url
+    log(f"[latest] {c['id']}: {url} — {title}")
+    a.source_url = url
+    return title
+
+
 # ---------------------------------------------------------------- check
 def cmd_check(a):
     c = get_creator(a.creator)
+    title = resolve_latest(a, c)
+    if title and env_bool("REQUIRE_GTA6", True) and not GTA_RE.search(title):
+        set_output("go", "false")
+        summary(f"**{c['name']}** — latest VOD is not GTA VI (`{title[:100]}`) → skip")
+        return
     if a.source_url:
         set_output("go", "true")
         summary(f"**{c['name']}** — test run on `{a.source_url}`")
@@ -215,7 +240,8 @@ class Clipper:
         edit.render(seg, start, end_rel, mp4, work, st["hook_card"], st["storyline"], credit, words, p_rel, speech,
                     context_card=st.get("context_card", ""),
                     watermark=(os.environ.get("WATERMARK", "").strip() or str(c.get("watermark", "") or "")),
-                    facecam=c.get("facecam"), facecam_anchor=c.get("facecam_anchor", 0.35))
+                    facecam=c.get("facecam"), facecam_anchor=c.get("facecam_anchor", 0.35),
+                    style=c.get("style"))
         self.session.add_clip(seg_wall_start + peak, stem, score, st["summary"], st["storyline"] if st.get("ai_model") else "",
                               ai=bool(st.get("ai_model")))
         self.session.save()
@@ -308,6 +334,7 @@ class Clipper:
 # ---------------------------------------------------------------- run
 def cmd_run(a):
     c = get_creator(a.creator)
+    resolve_latest(a, c)
     test = bool(a.source_url)
     src = a.source_url or live_url(c)
     via = ""
