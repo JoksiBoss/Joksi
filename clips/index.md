@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 27 Nov 2026 22:17 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 27 Nov 2026 22:26 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -13,6 +13,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 59 | Nick Eh 30 | GTA 6 Broke Nick #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2214_s059_nickeh30_p16.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2214_s059_nickeh30_p16.txt) |
 |  | 55 | Nick Eh 30 | Nick: "Where could we go where's there another" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2201_s055_nickeh30_p13.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2201_s055_nickeh30_p13.txt) |
 |  | 52 | Nick Eh 30 | Nick: "I feel like there's always some" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2206_s052_nickeh30_p14.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2206_s052_nickeh30_p14.txt) |
+|  | 50 | Nick Eh 30 | Nick: "Yeah too many bullets" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2225_s050_nickeh30_p17.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261127-2225_s050_nickeh30_p17.txt) |
 
 ### 27/11/2026 21:00–22:00 CET
 
