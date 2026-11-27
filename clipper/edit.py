@@ -97,7 +97,21 @@ def fit_text(text, size, max_w, max_lines, min_size=34):
     return out.rstrip() + ("…" if out != text else ""), min_size
 
 
-def build_ass(path, hook, storyline, credit, words, dur, context_card="", watermark=""):
+CAM_H = 640             # stacked layout: facecam panel on top (1080x640), gameplay below (1080x1280)
+
+
+def facecam_box(fc):
+    """streamers.yml `facecam: [x0, y0, x1, y1]` (fractions of the 16:9 stream) -> tuple, or None."""
+    try:
+        x0, y0, x1, y1 = (float(v) for v in fc)
+    except (TypeError, ValueError):
+        return None
+    if not (0 <= x0 < x1 <= 1 and 0 <= y0 < y1 <= 1):
+        return None
+    return x0, y0, x1, y1
+
+
+def build_ass(path, hook, storyline, credit, words, dur, context_card="", watermark="", stacked=False):
     hdr = f"""[Script Info]
 ScriptType: v4.00+
 PlayResX: {W}
@@ -118,14 +132,19 @@ Style: Mark,{FONT},46,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,10
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
     ev = []
+    # layout-dependent positions: stacked = hook/context on the seam between facecam and gameplay
+    hook_y = CAM_H if stacked else FG_Y - 210
+    cap_y = 1300 if stacked else FG_Y + FG_H + 190
+    mark_y = 1610 if stacked else FG_Y + FG_H + 52
     # Hook title card: first 2 s, pops in, yellow, over a dark band
     htxt, hsz = fit_text(_clean(hook), 128, W - 120, 2, min_size=80)
-    ev.append(f"Dialogue: 2,{_ts(0)},{_ts(2.0)},Hook,,0,0,0,,{{\\pos(540,{FG_Y - 210})\\fs{hsz}\\c&H00F0FF&\\fscx60\\fscy60\\t(0,160,\\fscx100\\fscy100)}}{htxt}")
+    ev.append(f"Dialogue: 2,{_ts(0)},{_ts(2.0)},Hook,,0,0,0,,{{\\pos(540,{hook_y})\\fs{hsz}\\c&H00F0FF&\\fscx60\\fscy60\\t(0,160,\\fscx100\\fscy100)}}{htxt}")
     # Context card (AI): plain setup of what is happening, ~2-5 s, max two lines on a dark band,
     # bottom-anchored above the storyline banner so it never collides with it
     if context_card and dur > 3.0:
         ctxt, csz = fit_text(_clean(context_card), 60, W - 180, 2, min_size=40)
-        ev.append(f"Dialogue: 2,{_ts(2.0)},{_ts(min(5.0, dur))},Ctx,,0,0,0,,{{\\an2\\pos(540,{FG_Y - 165})\\fs{csz}\\fad(150,200)}}{ctxt}")
+        ctx_pos = f"\\an5\\pos(540,{CAM_H})" if stacked else f"\\an2\\pos(540,{FG_Y - 165})"
+        ev.append(f"Dialogue: 2,{_ts(2.0)},{_ts(min(5.0, dur))},Ctx,,0,0,0,,{{{ctx_pos}\\fs{csz}\\fad(150,200)}}{ctxt}")
     # Storyline banner (persistent after the hook)
     # Off by default; set SHOW_STORYLINE=true in the workflow env to bring it back.
     if os.environ.get("SHOW_STORYLINE", "false").strip().lower() in ("1", "true", "yes"):
@@ -136,7 +155,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     # Account watermark (e.g. @rocketman_vicecity): whole clip, just under the gameplay window,
     # semi-transparent, clear of the TikTok/Reels/Shorts buttons on the right and the caption bar at the bottom.
     if watermark:
-        ev.append(f"Dialogue: 1,{_ts(0)},{_ts(dur)},Mark,,0,0,0,,{{\\pos(540,{FG_Y + FG_H + 52})\\alpha&H60&}}{_clean(watermark)}")
+        ev.append(f"Dialogue: 1,{_ts(0)},{_ts(dur)},Mark,,0,0,0,,{{\\pos(540,{mark_y})\\alpha&H60&}}{_clean(watermark)}")
     # Word-by-word captions in chunks of up to 3 words
     chunks, cur = [], []
     for w in words:
@@ -146,7 +165,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         cur.append(w)
     if cur:
         chunks.append(cur)
-    cy = FG_Y + FG_H + 190
+    cy = cap_y
     for ci, ch in enumerate(chunks):
         nxt = chunks[ci + 1][0]["start"] if ci + 1 < len(chunks) else dur
         for i, w in enumerate(ch):
@@ -168,24 +187,49 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     Path(path).write_text(hdr + "\n".join(ev) + "\n", encoding="utf-8")
 
 
-def render(src, start, dur, out_mp4, workdir, hook, storyline, credit, words, zoom_at, speech=None, context_card="", watermark=""):
+def _stacked_vf(box, anchor, z0, z1, ass, fontsdir):
+    """Facecam panel (1080x640) on top, gameplay (1080x1280, centre of the stream) below.
+    The facecam box is cover-cropped to the panel, anchored `anchor` from the top (keeps the head in frame),
+    and punches in 1.2x on the reaction."""
+    x0, y0, x1, y1 = box
+    gh = H - CAM_H
+    cam = f"crop=iw*{x1 - x0:.4f}:ih*{y1 - y0:.4f}:iw*{x0:.4f}:ih*{y0:.4f}"
+    cover = f"scale={W}:{CAM_H}:force_original_aspect_ratio=increase,crop={W}:{CAM_H}:(iw-{W})/2:(ih-{CAM_H})*{anchor:.2f}"
+    zw, zh = int(W * 1.2) // 2 * 2, int(CAM_H * 1.2) // 2 * 2
+    return (
+        f"[0:v]fps=30,setsar=1,split=3[a][b][c];"
+        f"[a]scale=-2:{gh},crop={W}:{gh}[game];"
+        f"[b]{cam},{cover}[cam];"
+        f"[c]{cam},{cover},scale={zw}:{zh},crop={W}:{CAM_H}[camz];"
+        f"[cam][camz]overlay=0:0:enable='between(t,{z0:.2f},{z1:.2f})'[camv];"
+        f"[camv][game]vstack=inputs=2,drawbox=x=0:y={CAM_H - 3}:w={W}:h=6:color=black@0.9:t=fill[v1];"
+        f"[v1]subtitles=filename='{ass}':fontsdir='{fontsdir}'[v]"
+    )
+
+
+def render(src, start, dur, out_mp4, workdir, hook, storyline, credit, words, zoom_at, speech=None, context_card="", watermark="",
+           facecam=None, facecam_anchor=0.35):
     workdir = Path(workdir)
     ass = workdir / "c.ass"
-    build_ass(ass, hook, storyline, credit, words, dur, context_card, watermark)
+    box = facecam_box(facecam) if facecam and env_bool("FACECAM_LAYOUT", True) else None
+    build_ass(ass, hook, storyline, credit, words, dur, context_card, watermark, stacked=bool(box))
     z0, z1 = max(0.0, zoom_at - 0.25), min(dur, zoom_at + 2.4)
     z2 = min(dur - 0.5, z1 + 6.0)  # second, smaller punch-in a few seconds later
     fontsdir = FONT_DIR if FONT_DIR.exists() else workdir
-    vf = (
-        f"[0:v]fps=30,setsar=1,split=4[a][b][c][d];"
-        f"[a]scale=270:480:force_original_aspect_ratio=increase,crop=270:480,boxblur=8:2,scale={W}:{H},eq=brightness=-0.18:saturation=1.2[bg];"
-        f"[b]scale={W}:{FG_H}:force_original_aspect_ratio=increase,crop={W}:{FG_H}[fg];"
-        f"[c]scale={int(W*1.28)//2*2}:{int(FG_H*1.28)//2*2},crop={W}:{FG_H}[z1];"
-        f"[d]scale={int(W*1.12)//2*2}:{int(FG_H*1.12)//2*2},crop={W}:{FG_H}[z2];"
-        f"[bg][fg]overlay=0:{FG_Y}[v1];"
-        f"[v1][z1]overlay=0:{FG_Y}:enable='between(t,{z0:.2f},{z1:.2f})'[v2];"
-        f"[v2][z2]overlay=0:{FG_Y}:enable='between(t,{z1+3.0:.2f},{z2:.2f})'[v3];"
-        f"[v3]subtitles=filename='{ass}':fontsdir='{fontsdir}'[v]"
-    )
+    if box:
+        vf = _stacked_vf(box, float(facecam_anchor), z0, z1, ass, fontsdir)
+    else:
+        vf = (
+            f"[0:v]fps=30,setsar=1,split=4[a][b][c][d];"
+            f"[a]scale=270:480:force_original_aspect_ratio=increase,crop=270:480,boxblur=8:2,scale={W}:{H},eq=brightness=-0.18:saturation=1.2[bg];"
+            f"[b]scale={W}:{FG_H}:force_original_aspect_ratio=increase,crop={W}:{FG_H}[fg];"
+            f"[c]scale={int(W*1.28)//2*2}:{int(FG_H*1.28)//2*2},crop={W}:{FG_H}[z1];"
+            f"[d]scale={int(W*1.12)//2*2}:{int(FG_H*1.12)//2*2},crop={W}:{FG_H}[z2];"
+            f"[bg][fg]overlay=0:{FG_Y}[v1];"
+            f"[v1][z1]overlay=0:{FG_Y}:enable='between(t,{z0:.2f},{z1:.2f})'[v2];"
+            f"[v2][z2]overlay=0:{FG_Y}:enable='between(t,{z1+3.0:.2f},{z2:.2f})'[v3];"
+            f"[v3]subtitles=filename='{ass}':fontsdir='{fontsdir}'[v]"
+        )
     af = "[0:a]aresample=48000"
     if env_bool("MUTE_MUSIC") and speech:
         terms = "+".join(f"between(t,{max(0, a - 0.2):.2f},{b + 0.25:.2f})" for a, b in speech[:80])

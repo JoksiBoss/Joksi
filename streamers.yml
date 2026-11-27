@@ -12,6 +12,8 @@ defaults:
     2: "@gta_vicesity_vi"         # Account 2 = Metricool brand "Ludi mak mail - Gta Vici Sity Clipzy"
     3: "@aspirine_vicecity"       # Account 3 = Metricool brand "Aspirine Vice City - lonarishop"
 
+# facecam: [x0, y0, x1, y1] -> 9:16 layout with the facecam on top and gameplay below (blank = old layout).
+#   Fractions of the 16:9 stream frame. Re-check if the streamer moves their camera.
 creators:
   - id: kaicenat
     name: Kai Cenat
@@ -25,6 +27,7 @@ creators:
     game: "GTA 6"
     vods: "https://www.youtube.com/@KaiCenatLive/streams"
     hashtags: ["#KaiCenat"]
+    facecam: [0.0, 0.335, 0.203, 0.52]   # stacked layout: facecam box (x0, y0, x1, y1 as fractions of the stream), checked 27.11
 
   - id: ohnepixel
     name: ohnePixel
@@ -37,6 +40,7 @@ creators:
     account: 1                        # GTA 6 Account 1 = Metricool brand "Vice City Clipz"
     game: "GTA 6"
     hashtags: ["#ohnePixel"]
+    facecam: [0.08, 0.62, 0.33, 1.0]   # stacked layout: facecam box (x0, y0, x1, y1 as fractions of the stream), checked 27.11
 
   - id: ishowspeed
     name: IShowSpeed
@@ -110,6 +114,7 @@ creators:
     sponsored: false
     enabled: true
     hashtags: ["#CaseOh"]
+    facecam: [0.0, 0.185, 0.215, 0.415]   # stacked layout: facecam box (x0, y0, x1, y1 as fractions of the stream), checked 27.11
 
   - id: stableronaldo
     name: Stable Ronaldo
@@ -165,6 +170,7 @@ creators:
     game: "GTA 6"
     language: de
     hashtags: ["#MontanaBlack", "#GTA6Deutsch"]
+    facecam: [0.72, 0.35, 0.995, 0.615]   # stacked layout: facecam box (x0, y0, x1, y1 as fractions of the stream), checked 27.11
 
   # GTA 6 Account 3 (Aspirine Vice City). English streamer.
   - id: nickeh30
@@ -179,3 +185,4 @@ creators:
     game: "GTA 6"
     language: en
     hashtags: ["#NickEh30"]
+    facecam: [0.0, 0.14, 0.24, 0.62]   # stacked layout: facecam box (x0, y0, x1, y1 as fractions of the stream), checked 27.11
