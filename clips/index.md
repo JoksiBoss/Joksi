@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 28 Nov 2026 00:40 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 28 Nov 2026 00:41 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -23,6 +23,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 88 | CaseOh | CaseOh: "Let me just join one" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0037_s088_caseoh_p05.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0037_s088_caseoh_p05.txt) |
 |  | 88 | ohnePixel | Pixel: "Furious top tens yes?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0036_s088_ohnepixel_p08.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0036_s088_ohnepixel_p08.txt) |
 |  | 87 | CaseOh | CaseOh: "Hey man let me on this" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0038_s087_caseoh_p07.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0038_s087_caseoh_p07.txt) |
+|  | 85 | CaseOh | CaseOh: "Beat me beat me!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0040_s085_caseoh_p15.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0040_s085_caseoh_p15.txt) |
 |  | 85 | Kai Cenat | Kai: "See you know I did not get it" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0038_s085_kaicenat_p10.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0038_s085_kaicenat_p10.txt) |
 |  | 85 | ohnePixel | Pixel: "If you know you know!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0035_s085_ohnepixel_p05.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0035_s085_ohnepixel_p05.txt) |
 |  | 83 | Kai Cenat | Kai: "Yo it's cheating!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0040_s083_kaicenat_p15.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0040_s083_kaicenat_p15.txt) |
