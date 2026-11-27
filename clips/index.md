@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 28 Nov 2026 00:34 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 28 Nov 2026 00:35 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -14,6 +14,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 77 | Nick Eh 30 | Nick: "Like you remember" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261128-0012_s077_nickeh30_p33.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261128-0012_s077_nickeh30_p33.txt) |
 |  | 70 | Nick Eh 30 | Nick: "Oh my gosh sorry for the language" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261128-0025_s070_nickeh30_p35.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261128-0025_s070_nickeh30_p35.txt) |
 |  | 61 | ohnePixel | Pixel: "That just happened bro so on this earth" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0034_s061_ohnepixel_p01.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0034_s061_ohnepixel_p01.txt) |
+|  | 60 | ohnePixel | Pixel: "And I'm like okay it doesn't make sense" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0034_s060_ohnepixel_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0034_s060_ohnepixel_p02.txt) |
 |  | 60 | Kai Cenat | Kai: "Oh I don't have cash" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0034_s060_kaicenat_p01.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0034_s060_kaicenat_p01.txt) |
 |  | 55 | Nick Eh 30 | Nick: "We're getting caught" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261128-0001_s055_nickeh30_p31.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261128-0001_s055_nickeh30_p31.txt) |
 
