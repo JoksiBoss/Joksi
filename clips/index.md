@@ -12,6 +12,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 72 | MontanaBlack | Monte: "Doch möglich schon aber eher unwahrscheinlich" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1011_s072_montanablack88_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1011_s072_montanablack88_p03.txt) |
 | 🔥 **POST THESE** | 68 | MontanaBlack | Monte: "Okay ich bin auch polizist" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1007_s068_montanablack88_p01.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1007_s068_montanablack88_p01.txt) |
 |  | 58 | MontanaBlack | Monte war nicht bereit in GTA 6 #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1000_s058_montanablack88_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1000_s058_montanablack88_p02.txt) |
+|  | 46 | MontanaBlack | Monte: "Sie einmal die Augen bitte schließen" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1018_s046_montanablack88_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/montanablack88-20261127/20261127-1018_s046_montanablack88_p04.txt) |
 
 ### 26/11/2026 22:00–23:00 CET
 
