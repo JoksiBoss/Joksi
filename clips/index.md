@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 28 Nov 2026 00:39 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 28 Nov 2026 00:40 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -10,8 +10,9 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 88 | Kai Cenat | Kai: "Yo bro he's actually stuck it" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0039_s088_kaicenat_p13.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0039_s088_kaicenat_p13.txt) |
+| 🔥 **POST THESE** | 88 | Kai Cenat | Kai: "How's the police right there?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0039_s088_kaicenat_p14.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0039_s088_kaicenat_p14.txt) |
 | 🔥 **POST THESE** | 88 | CaseOh | CaseOh: "Put that right there" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0039_s088_caseoh_p11.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0039_s088_caseoh_p11.txt) |
-| 🔥 **POST THESE** | 88 | CaseOh | CaseOh: "Get you a diaper on Bubba" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0039_s088_caseoh_p12.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0039_s088_caseoh_p12.txt) |
+|  | 88 | CaseOh | CaseOh: "Get you a diaper on Bubba" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0039_s088_caseoh_p12.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0039_s088_caseoh_p12.txt) |
 |  | 88 | ohnePixel | Pixel: "Can't burn it's my Hollywood queen" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0038_s088_ohnepixel_p14.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0038_s088_ohnepixel_p14.txt) |
 |  | 88 | CaseOh | CaseOh: "Here we go!" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0038_s088_caseoh_p06.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0038_s088_caseoh_p06.txt) |
 |  | 88 | Kai Cenat | Kai: "I'm checking out money right now speed" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0037_s088_kaicenat_p07.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0037_s088_kaicenat_p07.txt) |
