@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 28 Nov 2026 00:41 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 28 Nov 2026 00:44 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -36,6 +36,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 81 | CaseOh | CaseOh: "I am the I am crazy" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0036_s081_caseoh_p01.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0036_s081_caseoh_p01.txt) |
 |  | 80 | Kai Cenat | Kai: "Fuck go on bro" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0038_s080_kaicenat_p11.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0038_s080_kaicenat_p11.txt) |
 |  | 80 | Kai Cenat | Kai: "That's money's money up chat" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0037_s080_kaicenat_p08.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0037_s080_kaicenat_p08.txt) |
+|  | 79 | Nick Eh 30 | Nick Can'T Believe What Just Happened #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0038_s079_nickeh30_p01.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0038_s079_nickeh30_p01.txt) |
 |  | 79 | Nick Eh 30 | Nick Can'T Believe What Just Happened #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261128-0013_s079_nickeh30_p32.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261127/20261128-0013_s079_nickeh30_p32.txt) |
 |  | 78 | ohnePixel | Pixel: "Hotsin the Chat right now" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0039_s078_ohnepixel_p16.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0039_s078_ohnepixel_p16.txt) |
 |  | 77 | CaseOh | CaseOh: "Good guesses though but no" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0040_s077_caseoh_p13.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/caseoh-20261128/20261128-0040_s077_caseoh_p13.txt) |
