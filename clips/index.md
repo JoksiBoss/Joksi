@@ -1,9 +1,15 @@
 # GTA 6 clips — newest first
 
-_Updated 28 Nov 2026 01:04 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 28 Nov 2026 01:14 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
+
+### 28/11/2026 01:00–02:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 60 | Nick Eh 30 | Nick: "Beech to well" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0112_s060_nickeh30_p06.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0112_s060_nickeh30_p06.txt) |
 
 ### 28/11/2026 00:00–01:00 CET
 
