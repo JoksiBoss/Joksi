@@ -10,6 +10,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 71 | Nick Eh 30 | Nick: "So wait what are we looking for here?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0128_s071_nickeh30_p08.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0128_s071_nickeh30_p08.txt) |
+| 🔥 **POST THESE** | 68 | Nick Eh 30 | Nick: "Pause oh that's funny" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0130_s068_nickeh30_p09.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0130_s068_nickeh30_p09.txt) |
 | 🔥 **POST THESE** | 60 | Nick Eh 30 | Nick: "Beech to well" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0112_s060_nickeh30_p06.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0112_s060_nickeh30_p06.txt) |
 |  | 53 | Nick Eh 30 | Nick: "Oh that's massive" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0116_s053_nickeh30_p07.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0116_s053_nickeh30_p07.txt) |
 
