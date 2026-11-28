@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 28 Nov 2026 01:54 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 28 Nov 2026 02:04 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -13,6 +13,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 84 | Nick Eh 30 | Nick: "Wait does it have to be at nighttime?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0145_s084_nickeh30_p12.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0145_s084_nickeh30_p12.txt) |
 | 🔥 **POST THESE** | 71 | Nick Eh 30 | Nick: "So wait what are we looking for here?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0128_s071_nickeh30_p08.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0128_s071_nickeh30_p08.txt) |
 |  | 68 | Nick Eh 30 | Nick: "Pause oh that's funny" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0130_s068_nickeh30_p09.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0130_s068_nickeh30_p09.txt) |
+|  | 66 | Nick Eh 30 | Nick: "Actually matter fact screw it" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0155_s066_nickeh30_p13.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0155_s066_nickeh30_p13.txt) |
 |  | 60 | Nick Eh 30 | Nick: "Beech to well" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0112_s060_nickeh30_p06.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0112_s060_nickeh30_p06.txt) |
 |  | 53 | Nick Eh 30 | Nick: "Oh that's massive" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0116_s053_nickeh30_p07.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0116_s053_nickeh30_p07.txt) |
 |  | 52 | Nick Eh 30 | Nick: "So where's Pelican Valley?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0139_s052_nickeh30_p10.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0139_s052_nickeh30_p10.txt) |
