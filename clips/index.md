@@ -1,9 +1,15 @@
 # GTA 6 clips — newest first
 
-_Updated 28 Nov 2026 02:04 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 28 Nov 2026 02:11 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
+
+### 28/11/2026 02:00–03:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 39 | Nick Eh 30 | Nick: "We got my tire" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0206_s039_nickeh30_p15.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0206_s039_nickeh30_p15.txt) |
 
 ### 28/11/2026 01:00–02:00 CET
 
