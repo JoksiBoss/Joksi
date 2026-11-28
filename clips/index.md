@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 28 Nov 2026 00:54 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
+_Updated 28 Nov 2026 01:04 CET · [All releases](https://github.com/JoksiBoss/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -62,6 +62,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 61 | ohnePixel | Pixel: "5 give to right now if you're real" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0035_s061_ohnepixel_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0035_s061_ohnepixel_p04.txt) |
 |  | 61 | Kai Cenat | Kai: "What are you talking about?" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0035_s061_kaicenat_p03.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0035_s061_kaicenat_p03.txt) |
 |  | 61 | ohnePixel | Pixel: "That just happened bro so on this earth" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0034_s061_ohnepixel_p01.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0034_s061_ohnepixel_p01.txt) |
+|  | 60 | Nick Eh 30 | Nick: "We're gonna have eggs" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0054_s060_nickeh30_p05.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0054_s060_nickeh30_p05.txt) |
 |  | 60 | Nick Eh 30 | Nick: "Oh the photos that we got" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0044_s060_nickeh30_p04.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/nickeh30-20261128/20261128-0044_s060_nickeh30_p04.txt) |
 |  | 60 | ohnePixel | Pixel: "And I'm like okay it doesn't make sense" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0034_s060_ohnepixel_p02.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/ohnepixel-20261128/20261128-0034_s060_ohnepixel_p02.txt) |
 |  | 60 | Kai Cenat | Kai: "Oh I don't have cash" #GTA6 | [MP4](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0034_s060_kaicenat_p01.mp4) | [TXT](https://github.com/JoksiBoss/Joksi/releases/download/kaicenat-20261128/20261128-0034_s060_kaicenat_p01.txt) |
